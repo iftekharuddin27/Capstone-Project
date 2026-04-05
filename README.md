@@ -1,10 +1,24 @@
 # Unmasking Sarcastic Hate: A Sarcasm-Aware Framework for Implicit Hate Speech Detection in Bangla and English
 
-**Author:** Capstone (ID: 2020-1-60-236)  
+### Author:<br>
+Name: KM Iftekhar Uddin<br>
+ID:2022-2-60-034
+
+Name: Najmul Haque Majumder<br>
+ID:2022-2-60-059
+
+Name: Nelufa Yeasmin<br>
+ID:2020-1-60-236
+
+Name: Omar Faisal Shanto<br>
+ID:2022-2-60-125
+
+
 **Institution:** East West University  
-**Course:** CSE488 – Big Data Analytics  
-**Supervisor:** Shafi sir  
-**Status:** In Progress (Phase 3A – Data Fix & Baseline Re-training)
+
+**Course:** CSE400 –  Capstone Project
+
+**Supervisor:** Ahmed Abdal Shafi Rasel (AASR)
 
 ---
 
