@@ -1,4 +1,4 @@
-# Unmasking Sarcastic Hate: A Sarcasm-Aware Framework for Implicit Hate Speech Detection in Bangla and English
+# A Sarcasm-Aware Framework for Implicit Hate Speech Detection
 
 ### Author:<br>
 Name: KM Iftekhar Uddin<br>
@@ -135,7 +135,7 @@ This architecture explicitly models sarcasm as a linguistic phenomenon, not just
   - Unique word ratio
   - Digit ratio
 
-**Results on 10% data:**
+**Results on 10% data(Experiment):** 
 | Language | Macro F1 | Precision | Recall | Weighted F1 |
 |----------|----------|-----------|--------|-------------|
 | English | 0.757 | 0.759 | 0.757 | 0.762 |
@@ -331,24 +331,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Running the Pipeline
-
-**Phase 1: EDA**
-```bash
-jupyter notebook notebooks/Phase_1_EDA.ipynb
-```
-
-**Phase 2: Preprocessing**
-```bash
-jupyter notebook notebooks/Phase_2_Preprocessing.ipynb
-```
-
-**Phase 3A: Classical ML**
-```bash
-jupyter notebook notebooks/Phase_3A_Classical_ML.ipynb
-```
-
----
 
 ## 📁 Project Structure
 
@@ -424,28 +406,6 @@ hate-sarcasm-detection/
 3. **Imbalanced Bangla:** Class imbalance (2.5:1.5:1 ratio) makes minority sarcasm class harder to learn. Mitigation strategies needed.
 
 4. **Sarcasm Definition Ambiguity:** Without human annotation, hard to know if "sarcasm" labels truly represent sarcasm or just non-hateful expressions.
-
----
-
-##  Related Work & References
-
-(To be populated with literature review)
-
-### Hate Speech Detection
-- [Reference 1]
-- [Reference 2]
-
-### Sarcasm Detection
-- [Reference 1]
-- [Reference 2]
-
-### Bangla NLP
-- [Reference 1]
-- [Reference 2]
-
-### Multi-task Learning
-- [Reference 1]
-- [Reference 2]
 
 ---
 
