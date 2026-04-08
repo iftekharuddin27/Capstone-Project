@@ -1,0 +1,5 @@
+model,dataset,accuracy,macro_f1
+BERT,English,0.9033,0.9029
+DistilBERT,English,0.8937,0.8937
+BanglaBERT,Bangla,0.8316,0.82
+mBERT,Bangla,0.7796,0.7739
