@@ -320,8 +320,8 @@ jupyter
 
 ### Installation
 ```bash
-git clone https://github.com/capstone-thesis/hate-sarcasm-detection.git
-cd hate-sarcasm-detection
+git clone https://github.com/iftekharuddin27/Capstone-Project.git
+cd Capstone-Project
 
 # Create virtual environment (optional)
 python -m venv venv
