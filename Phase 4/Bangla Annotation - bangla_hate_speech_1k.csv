@@ -1,0 +1,1000 @@
+text,label,label_name,source,sarcasm_type,hate_type
+বোকা চোদারা কিসের সাথে কি মিলায়,1,Explicit Hateful,BD_SHS,None,Abusive
+আশ্চর্য কয়দিন আগে এফবিসিসি আই এর হেলেনা জাহাঙ্গীর পোস্ট দিলেন আলমগির মারা গিয়েছে ।,2,Implicit Hateful,BenSarc,Humor,None
+শহিদু।,0,Not Hateful,BIDWESH,None,Non-hateful
+ইন্ডিয়ার বিপক্ষে বাংলাদেশের যুদ্ধ ঘষনা করা হবে যদি মুসলমানদের বাংলাদেশ পাঠানোর চেষ্টা করে ইনশাআল্লাহ,0,Not Hateful,BD_SHS,None,Offensive
+পুলিশরা আসল কাহিনী উদঘাটন করে ফেলায় নিজের বিচার নিজেই করতে পুলিশে যোগ দিলেন বতলমনি । প্রথমআলু,2,Implicit Hateful,BenSarc,Irony,None
+কুত্তার বাচ্চা কার কাছ থেকে কি বুঝবে তারা কি মিথ্যা বলছে আবালটারে ধরে পিটালে ঠিক হবে।,1,Explicit Hateful,BD_SHS,None,Abusive
+লজ্জা আত্মহত্যা করেছে ।,2,Implicit Hateful,BenSarc,Metaphore,None
+গালী দিছে তো কি হইছে আমি দিলাম কি বাল ছিরবো আইতে বলিস হোগা দিয়া বেট ডুকাইয়া দিমু কতো গালী দিছে পাবলীক জিবনে কোনোদিন গ্যালারীতে ওঠে না।।এরেই বলে ছল নাই কুত্তার বাঘা নাম।।��,1,Explicit Hateful,BD_SHS,None,Offensive
+ঐ মাদাৃ চোদ খানকির পোলা তর মায় রে চুইদ্দা মাল বাইর কইরা দিমু,1,Explicit Hateful,BD_SHS,None,Abusive
+ভালই হলো আর পানি টানতে হলোনা তাকে । পানি টানার বিশ্বকাপ প্রস্তুতি শেষে শীঘ্রই সে দেশে আসবে বলে আমরা আশা করছি ।,2,Implicit Hateful,BenSarc,Humor,None
+মানসিক রোগী এই নায়িকা একটা ।,2,Implicit Hateful,BenSarc,None,Offensive
+তোর এই লাখ টাকার দুধ দেহার লইগ্যা যে বাংলার ভালো পোলাগোর কটি টাকার ঘি নষ্ট হচ্ছে সেটা কি বুঝতে পারছিস।,1,Explicit Hateful,BIDWESH,None,Offensive
+সিঙ্গেলদের জন্য জানুয়ারি মাস ফেব্রুয়ারি মাস সব একই,2,Implicit Hateful,BanglaSarc3,Humor,None
+তোরে জুতা মারমু,1,Explicit Hateful,BD_SHS,None,Abusive
+ছি মার্কা কথাবার্তা,2,Implicit Hateful,BenSarc,Humor,None
+এসব দেখলে আর ঈদের খুশি লাগে না আমাদের ভাই বোনরাই কষ্টে আছে । আল্লাহ ভরসা নিশ্চয়ই কষ্টের পরে বিজয় মুসলিমদের হবে,0,Not Hateful,BenSarc,None,Non-hateful
+আপু আপনারে না হিমু রূপা গ্রুপেও দেখলাম৷,2,Implicit Hateful,BenSarc,Sarcasm,None
+সেফাদ সনজায তুই রাজাকার ছিলি বাংলায় ডুক্লেই ফাঁশি দেওয়া হবে সালা দড়ি দিয়ে বেঁধে জোলান হবে কত মদ পান করিস ও বে আমি মুতে দিলে গণদে মাতল হয়ে যাবি,1,Explicit Hateful,BD_SHS,None,Offensive
+ছাগল কোথাকার !,1,Explicit Hateful,BD_SHS,None,Abusive
+তুই একটা ভন্ড ?,0,Not Hateful,BD_SHS,None,Non-hateful
+কে বলছে পপি বক বক তুই করতেছিস মিথ্যা কথা বলতে লজ্জা করেন পতিতার বচ্চা পতিতা পপি বলে থাকলে তার নিজের মুখে বলছে প্রমান কর প্রমাণ করতে না পারলে জুতা পেটা করবো খানকি তোকে টাকা এভাবে কামাই করতে হবেনা তোর নিচ তলা ভাড়া দিলে তো দুতলা করতে পারবি,1,Explicit Hateful,BD_SHS,None,Abusive
+প্রথমে ওকে সবাই মিলে মারার দরকার ছিলওকে বছরের জেল দেওয়া উচিত,1,Explicit Hateful,BD_SHS,None,Offensive
+বুকের ভেতর আছে প্রান । ! তার ভেতরে মেশিনগান।,2,Implicit Hateful,BenSarc,Humor,None
+শ্রাবন্তীর বিরুদ্ধে মামলা করার মাধ্যমে তার নতুন হবু বয়ফ্রেন্ডের অধিকার হরণ করা হয়েছে আমি মুক্তিযুদ্ধের স্বপক্ষের শক্তি হিসাবে তীব্র নিন্দা ও প্রতিবাদ জানাই ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+ঠিম বলেছেন ওবাইদুল কাদের অক্সফোর্ডে পড়েছিল এবং তাকে আমেরিকা তাদের প্রেসিডেন্ট হতে বলেছিলো কিন্তু বাংলাদেশের প্রতি ভালোবাসা সব কিছু তুচ্ছ করে দেশে এসে মন্ত্রী হয়েছিলো,2,Implicit Hateful,BanglaSarc3,Metaphore,None
+করুন দৃশ্য খুব খারাপ লাগল বিচার চাই ঈশ্বর,0,Not Hateful,BD_SHS,None,Non-hateful
+ভালবাসার মানুষ যতোই দূরে থাকুকনা কেনো কখনো মনে হবে না যে সে দূরে আছে যদি সে অনুভবে মিশে থাকে । ভালবাসা মানে আবেগের পাগলামি ভালবাসা মানে কিছুটা দুষ্টামি ।ভালবাসা মানে শুধু কল্পনাতে ডুবে থাকা ভালবাসা মানে অন্যের মাঝে নিজের ছায়া দেখা ।,0,Not Hateful,BD_SHS,None,Non-hateful
+তোমাদের একটা অনুরোধ করি তোমরা আয়াতের অনুবাদ টা যদি পড়ে শোনাতে তাহলে মূরখো লোকদের বুঝতে সহজ হতো ধন্যবাদ।,0,Not Hateful,BD_SHS,None,Non-hateful
+এমনিতেই তো কানা মনে হচ্ছে আবার কি অন্ধ হবেন ভাই ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+এ সব হাসিনা সোনার ছেলেরা বতমান সরকারি অফিস গুলো পতিতা হয়েগে ছে,1,Explicit Hateful,BD_SHS,None,Offensive
+এই খানকির পোলার বাড়ি কই রোজার মাসে ওর কাহিনি দেখে মুখ না খারাপ করে পারলাম না,1,Explicit Hateful,BD_SHS,None,Abusive
+এধরনে্র আলেমদেরকে বয়কট হরা উচিত।,0,Not Hateful,BIDWESH,None,Non-hateful
+জানোয়ারের বাচ্চারা সু য়োরের জরম তোদের দিককার দেই থুতু কুত্তা র দিয়ে জরম মানুষ নামে কলংক,1,Explicit Hateful,BD_SHS,None,Abusive
+বকা চোদা,1,Explicit Hateful,BD_SHS,None,Offensive
+তারকাচে চুদাচুদীভালো লাগে,1,Explicit Hateful,BD_SHS,None,Offensive
+চিন্তা কিসের এতো তোমার লিঙ্ক পাওয়া অপেক্ষায় আছে সবাই,2,Implicit Hateful,BenSarc,Sarcasm,None
+"বড়লোকেরা যা পারেনি, ভিনধর্মী হয়ে আপনি সেটা করে দেখালেন। সত্যি বলতে কি, ডক্টর যশোদা জীবন দেবনাথ দাদা একজন অসাধারণ মানবিক মানুষ। তিনি ধর্ম-বর্ণ মানেন না, দাদার কাছে সকল ধর্মের মানুষ সমান।",0,Not Hateful,ALERT,None,Non-hateful
+ওর চোখে মুখে ইস্পস্ট বুজা যাচ্ছে যে প্রাকৃত পক্ষে ওএই অপরাধি,0,Not Hateful,BD_SHS,None,Non-hateful
+এই খানকির পোলাদের কারনে আজ ইসলামের বদনাম হয়তেছে,1,Explicit Hateful,BD_SHS,None,Hateful
+এই সালাতো থাপ্পর না জুতা দিয়ে মাইর খাবে তার নিজ সন্তান থেকে৷ সালা মরার সময় পানিও পাবে না,1,Explicit Hateful,BD_SHS,None,Abusive
+সারাজীবন দুঃখের পোস্ট দেই তারপর আবার নজর দেই কিডায়,2,Implicit Hateful,BanglaSarc3,Irony,None
+আরো জানোয়ার এই বৌমা গুলো,1,Explicit Hateful,BD_SHS,None,Offensive
+উফ ইশ যা লাগছে না বেবিটাকে ৷,2,Implicit Hateful,BenSarc,Sarcasm,None
+হাসিনাকে চোদাই করার মত একজন মানুষ ছিলেন,1,Explicit Hateful,BD_SHS,None,Abusive
+দুঃখিত স্যার হাসতে পারছি না।পাশের রুমে আম্মু ঘুমাচ্ছে। কেবল খাটটাই খট খট করে কাঁপছে ��,0,Not Hateful,BD_SHS,Sarcasm,None
+তরে জন্ম দিয়া তর বাপের সব চাইতে বড় ভুল ছিল রেতরে পাইলে কোন দিন,1,Explicit Hateful,BD_SHS,None,Abusive
+এসব দেখার আগে মরেই গেলাম না কেন,0,Not Hateful,BD_SHS,None,Non-hateful
+করোনা ইস্যু ছিল মামুনুল হক তাই মামুনুল হককে যত বেশি রিমান্ড দিবে তত বেশি মরার হার কমবে ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+"সব সমবেদনা অন্য ধর্মাবলম্বীদের জন্য নয়, কিছু অসহায় মুসলমানকেও দেখান যেন তারা ব্যক্তিস্বাধীনতায় বাঁচতে পারে।",0,Not Hateful,ALERT,None,Non-hateful
+ভাই কামরুক কামাক্ষা,2,Implicit Hateful,BenSarc,Sarcasm,None
+এইটা একটা বালের চ্যানেল এই চ্যানেলে মিথ্যা কথা বলা হচ্ছেআর এই মাগীটাও মনে হয় খারাপ লাইনের,1,Explicit Hateful,BD_SHS,None,Offensive
+পাপোন মাদার চোদ ছাকিব ভাই সব সময় আপনার পাসে আছি থাকবো,1,Explicit Hateful,BD_SHS,None,Abusive
+রাগ কমাতে হলে হিরো আলমের গান শুনুন ভাইসব,2,Implicit Hateful,BenSarc,Humor,None
+নুর হচ্ছে আগামীর তরুণ সমাজের নেতা। যতই হেলমেট লীগ ডিম লীগ বের হোক না কেনো একদিন না একদিন তাদের বিচারের মুখোমুখি হতেই হবে ।,0,Not Hateful,BD_SHS,None,Hate
+অনেকদিন দরে খুঁজে ছি,0,Not Hateful,BD_SHS,None,Non-hateful
+মিথিলা আপু এতো নার্ভাস কেনো ? তাহসান কে তো অনেক সাবলীল লাগলো । ওর কথাবার্তা সব ক্লিয়ার কাট । তবে মিথিলার কথাবার্তা সবই ঝরিয়ে যাচ্ছিলো বারবার ।,0,Not Hateful,BenSarc,None,Non-hateful
+আল্লাহ আপনি ডা জাকির নায়েক সাহেবকে দুনিয়া আর আখেরাতে কল্যাম করুন,0,Not Hateful,BD_SHS,None,Non-hateful
+সালারা গানজা খাইয়া মুভি বানায়,1,Explicit Hateful,BD_SHS,None,Abusive
+আল্লাহর গজব পরবে,1,Explicit Hateful,BD_SHS,None,Hate
+নতুন বাপ প্রথম আলোর সাংবাদিক,2,Implicit Hateful,BenSarc,Sarcasm,None
+বাচ্চা হবে ? ছেলে না মেয়ে ?,0,Not Hateful,BenSarc,None,Non-hateful
+বুঝলাম না টিম ম্যানেজমেন্ট এতো বড়ো ভুল কিভাবে করলো কাক্কুদের না নামিয়ে,2,Implicit Hateful,BenSarc,Sarcasm,None
+সেখানে করোনা নেই । মঙ্গল শোভাযাত্রা উপলক্ষে করোনা কে ছুটিতে পাঠানো হয়েছে,2,Implicit Hateful,BenSarc,Sarcasm,None
+এই হালার ইমানী চিকিৎসা দেওয়া দরকার,1,Explicit Hateful,BD_SHS,None,Abusive
+ভাই আমরা গাজীপুরের মানুষই বেশি প্যারায়,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+কত বড় দুদু রে বাবা ।,1,Explicit Hateful,BD_SHS,None,Offensive
+সাকিবের সাথে একমতখানকি মাগি লজ্জা শরম বলতে নেই,1,Explicit Hateful,BD_SHS,None,Offensive
+কিন্তু এদিকে সাকিব আল হাসান খুশি যে তাকে আর পানি টানতে হচ্ছে না ।,2,Implicit Hateful,BenSarc,Humor,None
+অবিনেতা শাকিব খান এর কতার সাতে একমত,0,Not Hateful,BD_SHS,None,Non-hateful
+সোনামণিরা এখন থেকে বাংলাদেশ নিয়ে দুষ্টুমি কম করবা,2,Implicit Hateful,BanglaSarc3,Irony,None
+মায়ের জন্য দোয়া প্রথম আলোকে ধন্যবাদ ।,0,Not Hateful,BenSarc,None,Non-hateful
+খরাতি যখন কোটিপতি,0,Not Hateful,BD_SHS,Sarcasm,None
+যেই কুকুরের বাচ্চা এই ভিডিও টি করেছে তাকে আগে ফাসি দেওয়া হোক কারন এই কাছটি করতে কিভাবে দিল ওর সাথে দুটি হাত ছিলো বাধা দেওয়ার জন্য কাপুরুষের দল যতসব আসে ভিডিও বানাইতে পাইলে তোরে মাইরা নিতাম আগে,1,Explicit Hateful,BD_SHS,None,Abusive
+কারণ ব্যাখ্যা করেছেন ওয়াহাব ৷,0,Not Hateful,BenSarc,None,Non-hateful
+ওরা নাস্তিক।,1,Explicit Hateful,BD_SHS,None,Hate
+সাকিব ভাইয়ের এ সব কথায় নাস্তিকদের শরীর চিনচিন করে ব্যথা করছে । না হলে এত ভালো একটা পোস্ট করায় কেন বাজে কমেন্ট করবে ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+আমনহের বাড়ি নিউক্যালি ভাউ?,0,Not Hateful,BIDWESH,None,Non-hateful
+কিসের দশ বছর এখনো আমি এটা করি,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+জারজ লীগ,1,Explicit Hateful,BD_SHS,None,Hate
+সময় টিভির বিরুদ্ধে এত অপপ্রচার চালিয়েও ডায়মন্ড বাটনটা ঠেকানো গেলো না ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+এখানে পুলিশের ভূমিকা প্রশংসনীয় ।,0,Not Hateful,BenSarc,None,Non-hateful
+রেশমির দুধ দুই বানে বিশ কেজি,1,Explicit Hateful,BD_SHS,None,Abusive
+আচ্ছা বাংলাদেশে এতো ঠান্ডা পড়তেছে তোমার রানে ঠান্ডা লাগে না বুঝি এতো পাতলা জমা পড়ে থাকো কি ভাবে জাতি জানতে চাই,0,Not Hateful,BenSarc,None,Non-hateful
+জবা কি পারবে স্বর্গে যেতে ?,2,Implicit Hateful,BenSarc,Sarcasm,None
+এই শিক্ষক গুলো হল ছাত্রলীগের গোলাম তাদের গালে গালে জুতা মারো তালে,1,Explicit Hateful,BD_SHS,None,Offensive
+জাফর চোদার টাইম নাই,1,Explicit Hateful,BD_SHS,None,Abusive
+ইসলামকে ধ্বংস করার জন্য এক হাজার নাস্তিকের চেয়ে এক জন আহলে খবিস লা মাজহাবি যথেষ্ট ।।।,1,Explicit Hateful,BD_SHS,None,Hate
+মাদারচোদেরা দ্বারে দ্বারে তামশা দেখছো আর প্রতিবাদ হরার সাহস নাই খানকির পোলারা তোরা নাটক তারা কি কি ভাবছিস নাটক ভার্সেস এই মাদারচোদেরা হালা কাপুরুষের বাচ্চারা,1,Explicit Hateful,BIDWESH,None,Abusive
+চেহারা দেখতে তো মুচির মতো,1,Explicit Hateful,BD_SHS,None,Offensive
+তর বাড়ী কুতা লা,1,Explicit Hateful,BD_SHS,None,Offensive
+মাদারচোদ তুই কাকে কি বল! আগে পুরো কাহিনী শোন! তারপর বল! বাংলাদেশ একটি মুসলিম দেশ! ইসলাম নিয়ে ঠাট্টা করার জায়গা পাওনা! তাড়াতাড়ি পোস্ট ডিলিট কর,1,Explicit Hateful,BD_SHS,None,Hate
+বাইনঞ্চোদ শেষ হইয়া গেছে শালা রাজাকার,1,Explicit Hateful,BD_SHS,None,Abusive
+বেকিং নিউজ পরিকল্পনা মন্ত্রীর মোবাইল ফোনে পরি মণির পর্ণ ভিডিও পাওয়া গেছে । মহামান্য ছিনতাইকারী,2,Implicit Hateful,BenSarc,Sarcasm,None
+একে মেরে পালা উচিত,1,Explicit Hateful,BD_SHS,None,Offensive
+সিরিয়াস মানুষের কদর নাই এল্লেগা সবাই রসিকতায় ডুবে থাকে,2,Implicit Hateful,BenSarc,Sarcasm,None
+সিনেমা শিল্পে খুবই মন্দা চলছে । প্রতিনিয়ত বন্ধ হচ্ছে সিনেমা হল । অনেক শিল্পী ও কলাকৌশলী পেশা পরিবর্তন করেছেন । এসবের মধ্যেও গ্রাম থেকে উঠে আসা একজন নায়িকা কিভাবে এমন বিলাসবহুল জীবন যাপন করেন বুঝে আসে না ।,0,Not Hateful,BenSarc,None,Non-hateful
+"ধর্মের স্বাধীনতা হচ্ছে বাংলাদেশের সংবিধান দ্বারা নিশ্চিত মৌলিক কাঠামো, যেখানে ধর্মীয় পার্থক্য নির্বিশেষে সকল নাগরিকের সমান অধিকারের আহ্বান জানানো হয় এবং বিভিন্ন ক্ষেএে ধর্মের বৈষম্য নিষিদ্ধ করা হয়।",0,Not Hateful,ALERT,None,Non-hateful
+হাতুরে মাল চিনে ?,2,Implicit Hateful,BenSarc,Sarcasm,None
+হালার গর হালারা ও ভলচে গালি দেনাই তুরা ভলচিস গালি দিচে মুসপিক কী তুরার ভাপ লাগে নটির পুয়ারা ভুজথে হয় তো ভুল হয়েচে তদের,1,Explicit Hateful,BD_SHS,None,Abusive
+সাবধানে যেও পরি সৌদি বাদশা ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+চোদ এই খানকির পো।।,1,Explicit Hateful,BD_SHS,None,Offensive
+এই মূর্খ জানোয়ার চাকুরী করে এ কথা আকাশ কুসুম কল্পনার মতোই লাগলএই কুকুর নাকি লেখা পড়া করেছেএমনিতেই ওর হাত পচে যাবে একদম বাস্তব কথাএকজন মাকে লাতি মেরেছিল পা পচে তার মূত্যু হয়েছিল,1,Explicit Hateful,BD_SHS,None,Abusive
+এখনকার দিনের শিক্ষক যারা তাদেরই আসলে শিক্ষার অভাব নিজেদের শিক্ষা থাকলে তো তারা বাচ্চাদের শিক্ষা দিবে !,0,Not Hateful,BenSarc,None,Non-hateful
+হাসিনার পাছায় কেউ বাশ দিলে আমারে কইয়েন ভাই মসজিদে মিলাদ দিমু ১০০০০ টাকা,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+টাক্কু মাদারচদ,1,Explicit Hateful,BD_SHS,None,Abusive
+পরি দেখলেই বুকের ভিতর লাড়া দেয়।,2,Implicit Hateful,BenSarc,Sarcasm,None
+মঙ্গল শোভাযাত্রা এখানে মহান করোনাভাইরাস কে খুঁজে পাওয়া যাবে না । মহান করোনাভাইরাস পাওয়া যাবে মসজিদে ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+নায়কের নাম সাহের খান না অয়ে পাদের খান অওয়া উচিৎ আআছেলে যতসব ফালতু অভিনয়।,1,Explicit Hateful,BIDWESH,None,Abusive
+খালেদ ভাই ভারত থেকে পিঁয়াজের সাথে গণতন্ত্রটা আমদানি করা যায় না,2,Implicit Hateful,BenSarc,Irony,None
+সরকারের কাছে বিনিত অনুরোধ জানাচ্ছি রিয়াক্ট কমেন্ট করা মানুষ গুলোর বেতনের ব্যাবস্থা করা হোক,2,Implicit Hateful,BanglaSarc3,Humor,None
+জ্বীনের মাধ্যমে বিরিয়ানি পাঠানো হয়,2,Implicit Hateful,BenSarc,Sarcasm,None
+প্রথম আলোর মতো দূর্বল কিছু খোঁজবে না বলে ধারণা করা হচ্ছে ।,0,Not Hateful,BenSarc,None,Non-hateful
+এটাই তো একটা মানুষ যখন ভুল করার পর সে অনুতপ্ত হয়ে ক্ষমা চাইছে তখন তাকে ক্ষমা করাই উচিত ।,0,Not Hateful,BenSarc,None,Non-hateful
+খুব কষ্ট হচ্ছেওর প্রতিটা থাপ্পড় আমাকে শিউরে দিচ্ছেএরা মানুষ নামে কলঙ্কএদের ও একদিন বৃদ্ধ হতে হবেএরাও বাবা হবেভুলে গেছে সবার একদিন আসে নিতে পারছি না এই ব্যাপারটা সে নাকিশিক্ষিতচাকরিজীবী এই তো তার নমুনাবাহ রে ভাই ভালশুয়ার তোকে সামনে পেলেদেখাতাম বাবা কাকে বলেবাবা কি জিনিসবাবা কি জিনিস বোজাতম র একটা করে থাপ্পড় মারতামতোর গালে কোটি কোটি থাপ্পড় পড়তোদেখতিস তাও শেষ হতো নাবাবা নামের শব্দ টার মানে,0,Not Hateful,BD_SHS,None,Non-hateful
+"জাফর সাহেব, কই পালালেন ছাত্রগুলোর এ দুর্দিনে? আপনাকে তো কিশোর গড়ার সাধক বলেই সবাই চিনে! গেলেন কোথায় সুলতানা মেম! চুপ কেন আজ দুঃসময়ে? এ্যামনে তো খুব চাঙ্গা দেখি দেশ-দরদীর চোঙ্গা লয়ে! চুপ কেন মুনতাসির সাহেব! বিজ্ঞতা আজ চুপসে গেছে? এ্যামনে তো খুব টকশো মাতান জ্ঞান গরিমার কথার প্যাঁচে! কবির সাহেব ঘুমান! নাকি চাপ বেশি মুরগির আড়তে? দেশেই ! নাকি 'তাওয়াফ' পালন ঘুরতে গেছেন ওই ভারতে? মানবতার পাহারাদার মিজান সাহেব উধাও নাকি! চাকায় পিষে ছাত্র মরে, আপনি নিখোঁজ, কারণটা কী? মুহিব খান",0,Not Hateful,BD_SHS,None,Non-hateful
+মাসুদ রানা ছবিটি তে সাকিব খান শুভ অন্ত জলিল সিয়া রোশন জিত দেব এরদের থেকে যে কাউ কে নায়ক হিসেবে নিলে ভালো হত।,0,Not Hateful,BD_SHS,None,Non-hateful
+তোর রেট কতো,1,Explicit Hateful,BD_SHS,None,Offensive
+ইয়াহ কি বড় বড়,0,Not Hateful,BD_SHS,None,Non-hateful
+পৃথিবীর কারেন্ট অ্যাফেয়ার এ সবচেয়ে বড় মিথ্যা কথা আমি রূপে নয় আন্তরিকতায় মুগ্ধ হয়েছি সবকিছুর একটা লিমিট থাকে ! এই নাও ভাই নোবেল,2,Implicit Hateful,BenSarc,Irony,None
+ভাই আগে তুমি ঠিক হও তার পরে ইসলাম প্রচার করো ধন্যবাদ সবার কেমন লাগেছে সেটা জানি না কিন্তু আমার মনে হচ্ছে তুমি ইহুদিদের দালাল,0,Not Hateful,BD_SHS,None,Hate
+আমি কিছুই বলবো না সময় টিভিকে যে কমেনগুলো করছে মানুষ তা তুলে ধরলে হাসিনা সরকার লজ্জা আর কথা বলবে না হাসিনার উচিৎ এখন মরে যাওয়া ষ্টক করে,0,Not Hateful,BD_SHS,None,Non-hateful
+ভালো তো অপু আর শাকিব খানের আবার মিলন হলে খুবই ভালো খবর,0,Not Hateful,BD_SHS,None,Non-hateful
+ক্রিকেটের সম্মানায়ক ক্রিকেটের,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+তরকারীর ঝোল এর স্বাদ থেকে বাদ যাবে না কোনো শিশু থুক্কু কোনো লোম দাঁড়ি,2,Implicit Hateful,BanglaSarc3,Humor,None
+পাষাণ হলে মানুষ কত কিছু না করতে পারে,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+এইবার স্বপ্নে না । বাস্তবে বঙ্গবন্ধুর সাথে কথা বলতে চায় মমতাজ ।,2,Implicit Hateful,BenSarc,Humor,None
+ভাইয়া ফিরে আসো । হাজারো জন তোমার পোষ্টে কমেন্ট করছে ফিরে আসো । আর ভালো মত খেলো । তোমার ফিরে আসা আমি কামনা করছি ।,0,Not Hateful,BenSarc,None,Non-hateful
+এই কয়েকদিন পরি দাবি করছিলো ক্লাবে যাওয়ার পরই নাসির তাকে জোর করে মদ খাওয়াতে ছেয়েছিলো । কিন্তু খবরে সিসিটিভির টাইম হিসেব করে রিপোর্টার বললো এক দুই মিনিটে পরি সঙ্গিদের নিয়ে ক্লাবে ঢুকলেও প্রায় দেড় ঘন্টা পর তাকে কোলে করে বের করে নিয়ে আসে জিমি । তাহলে এই দেড় ঘন্টা পরি ভিতরে কি করছিলো ?,0,Not Hateful,BenSarc,None,Non-hateful
+লুচ্চা হাতে দেশে চালানো কি ঠিক,1,Explicit Hateful,BD_SHS,None,Abusive
+গরীবের সাত ভাই চম্পা !,2,Implicit Hateful,BenSarc,Sarcasm,None
+সালারপুত এত বড় করে লেখা লিখস কেন?পড়তে পড়তে মাথা ঘুরে মাটিতে পড়ে যদি মরে যাই তার দায় বার কি তুই নিবি বাইনচুদ।,1,Explicit Hateful,BD_SHS,None,Offensive
+একেই বলে মেঘ না চাইতেই বৃষ্টি । কাকলি ফার্ণিচার এখন প্রথম আলোর থাম্বনেইল ।,2,Implicit Hateful,BenSarc,Irony,None
+নাস্তিক চার জানোয়ার এক বাঘ,1,Explicit Hateful,BD_SHS,None,Hate
+মুই বাংলাদেশী একজন যদিও এহন প্রবাসে মূল কতা কে নিয়া এত আলোচ্য বিষয় এর কিছু নাই সে নিজেই জানেনা তাকে কেমন দ্যাকতে জয় ভাই আমনহের অনুষ্টান মুই দেইখ্যা যা মনে অইলো কে থেইক্কা বাতিল হরাই শ্রেয়।,0,Not Hateful,BIDWESH,None,Non-hateful
+ঈদ শেষ ঈদ হিসেবে মেনে পরিবারের সাথে আনন্দ ভাগাভাগি করবো ।,0,Not Hateful,BenSarc,None,Non-hateful
+কারো দিনের বেলায় বাইকের হেডলাইট জ্বালানো থাকলে আমি বাইকারের পিছনে দৌড়ানো শুরু করি যাতে সে আমার উপকারের কথা শুনে,2,Implicit Hateful,BenSarc,Humor,None
+হয়তো এই মার্কেটের দোকানদার রা চাঁদা কম দিয়েছে ! এখন একটা উচিলা দিয়ে বন্ধ করে দিছে,0,Not Hateful,BenSarc,None,Non-hateful
+শিরোনামের সঙ্গে ভিডিওর কোন মিল নেই,0,Not Hateful,BD_SHS,None,Non-hateful
+অসাধারন গান বাংলায় আবার সিনেমা চালুর দাবি জানাই তার সাথে পরিবেশ সুন্দর হওয়া জরুরি। আমার খুব ভালো লাগিলো মাহি একটু মোটা হয়ে গেছে। নাচটা আরেকটু ভালো হতো!!,0,Not Hateful,BD_SHS,None,Non-hateful
+বাপের জন্মে এমন মেকাপ দেখিনি । যেটা অরলে নিজের মা মেয়েকে চিনতে পারেনা,2,Implicit Hateful,BenSarc,Sarcasm,None
+ফাসি দাও শালিকে,1,Explicit Hateful,BD_SHS,None,Hate
+বাংলাদেশ শেষ হল শ দিয়ে আর তাকে শেষ হতে না দিয়ে তুমি শুরু করলে শ দিয়ে শাকিব । সাকিবেরা সবসময় আসেনা । শুভ জন্মদিন ।,0,Not Hateful,BenSarc,None,Non-hateful
+লকডাউন তো সত্যি এবার কঠোর হচ্ছে তারপর ও শনাক্ত মৃত্যু কোনটাই কমছে না । মানুষের তো বাসা থেকে বের হলে করোনা না বের হলে অনাহারে মৃত্যু । জীবন বড়ই অসহায় । আল্লাহর রহমাত ছাড়া কোনো পথ নাই ।,0,Not Hateful,BenSarc,None,Non-hateful
+জান কেমন আছে,0,Not Hateful,BD_SHS,None,Non-hateful
+দালাল মিডিয়া,0,Not Hateful,BD_SHS,None,Hate
+মন যা চাই তা করা যাবেনা বরং কুরআান হাদীস যেটা বলে সেটাই মানতে হবে তবেই তো আমরা সফল হবো,2,Implicit Hateful,BanglaSarc3,None,Non-hateful
+এমন পোশাক আশাক নিরমাতা লোকদের জুতা দিয়া বাইরান দরকার আমি মাদার চোদদের জুতা দিয়া বাইরাই-------- পোশাকের কোন লছছম নাই।,1,Explicit Hateful,BD_SHS,None,Abusive
+ভাই বদলে যাওয়ার আগে লসগুলা রিকভার করে দিও,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+মানুষ এই রকম জনোআর হতে পারেআগে জানা ছিল না,0,Not Hateful,BD_SHS,None,Hate
+দায়িত্বে চরম অবহেলার জন্য এই ইউএনও র সাথেও চরম দুষ্টুমি করা প্রয়োজন !,2,Implicit Hateful,BenSarc,Humor,None
+মিন্নীকে অবিলম্বে গ্রেপ্তার করা হক,0,Not Hateful,BD_SHS,None,Non-hateful
+দুইজনকেই জাদুঘরে রাখা হবে এইসব কিছুর জন্য,2,Implicit Hateful,BenSarc,Sarcasm,None
+কত টাকা লাগলো এই লিস্টে নাম উঠানোর জন্য ?,0,Not Hateful,BenSarc,None,Non-hateful
+ভুড়ি দেখে শান্তি পাইলাম আমারটা এরচেয়ে কম,2,Implicit Hateful,BenSarc,Sarcasm,None
+বাবা কে মারলে শে হিনদু হক মুছলিম হেক ঔকে ফাশি দিবা আমার অনুরদ,0,Not Hateful,BD_SHS,None,Non-hateful
+পাপন শালা বাবুএখানে শুধু টাকার কথা বলা হয়নি,0,Not Hateful,BD_SHS,None,Non-hateful
+কমপ্লিট চুতিয়া।,1,Explicit Hateful,BD_SHS,None,Offensive
+অই মাদারচুদ মেডিয়া কি লেখলি মাদারচুদ মুরখর দল পোস্ট ডিলিট কর,1,Explicit Hateful,BD_SHS,None,Offensive
+মাগির তুই জানিস জাকির নায়েক খুনে আছে সেই এখন মালয়েশিয়া আছে,1,Explicit Hateful,BD_SHS,None,Offensive
+সেফাত হলো নাস্তিক এই হলো একটা ফালতু লোক একে পেলে অনেক লোকেই মারবে,1,Explicit Hateful,BD_SHS,None,Abusive
+"সেদিকে সব গলে যাচ্ছে অথচ তার মনটা গলেনা, মন গলাতে করনীয় কি এখন? ",2,Implicit Hateful,BenSarc,Sarcasm,None
+তুরা সাংবাদিক না মাদারীরচোদ,1,Explicit Hateful,BD_SHS,None,Offensive
+সব কয়টা জাজ কে কুত্তা দিয়ে চুদানো দরকার। আর এই সালায় আরেক জনের চুল নিয়ে মজা করে আবার জিজ্ঞেস করে সব কয়টা অজ্ঞ ঠিক আছে কি না। এই সালায় নিজেই তো পাগলের মত চুল রাখছে রাস্তার পাগলদের মত আর অর পেন্ট খুললে অর সোনা খুজে পাওয়া যাবে না সালায় তো একটা হিজরা। আর ফারিহা মমো এই মাগি কি বিচারক হয়ার যোগ্যতা রাখে। সব গুলা কুত্তা বিচারক এর জায়গায় বসিয়ে রাখছে। কুত্তা দিয়ে কখনো মানুষ বিবেচনা করা যায় না।,1,Explicit Hateful,BD_SHS,None,Hate
+কিছু বলতে পারিনা ফ্রেন্ড লিস্টের কলিজারা আইয়া হাহাআ দেয়,2,Implicit Hateful,BenSarc,Sarcasm,None
+হুজুর আমি অনেক ভালো হতে চাই আমার খুব ইচ্ছা যে ঘরে বসে খালি এবাদত করি কিন্তু আমার জপ করতে হবে কারন আমি বড় অসহায় ছোট আর অল্প বয়সে থেকে লাইফটা এমনি কঠিন হয়ে গেছে এই বয়সে এতো টেনসন সামলাতে পারি না আর যেটুকু টাইম পাই হুজুর আমি এবাদত করি আবার শরীল বেশি ভালো না তাই কষ্ট টা আমার জন্য কঠিন হুজুর মাঝে মাঝে শক্তি যে আর কুলায় না আর বড় একা লাগে হুজুর কিন্তু আমার এই এবাদত ভালো লাগে না বাইরে যেতে হয় মনে হয় একটু সুখের আলো বাসায় বসে থেকে এবাদত করতে পারতাম হুজুর আপনি কিছু মনে করবেন না মনে হলো আপনাকে এসব বলি কারন আমার কষ্ট এবাদত আল্লাহ হয়তো কবুল করছেন না তাই আপনি এটা একটু বলবেন যে আমাকে যাতে মাফ করে দেন আশা পুরন হয় যাতে,0,Not Hateful,BD_SHS,None,Non-hateful
+আরেহ তোর ফোন তুই ছবি তুলবি মানুস জানে যারা চেনে হেনে আইস্যা রিপ্লে দিবে তোর ফোনে নাই তাই করোস না,2,Implicit Hateful,BenSarc,Sarcasm,Non-hateful
+এই রহম পোলারে পিডায়া মাইর‍্যা ফেলা উচিৎ। সময় টিভি।,1,Explicit Hateful,BIDWESH,None,Abusive
+পায় আৰু কিশোৰ কুমাৰৰ নাম আছিল আৰিয়ানা নিয়ন্ত্ৰণ ৰিছিল কৰা হয় কাৰণ ইহঁতৰ কেইবা বছৰ বয়সতে তেওঁ দ্বিতীয়বাৰৰ কাৰণে প্ৰধানমন্ত্ৰী নৰেন্দ্ৰ মোদী এই অঞ্চলত অসমীয়া লোকে বিহুত আৰু সন্মানসূচক ভাৱে তেওঁক তেওঁৰ ইচ্ছানুসৰি মহম্মদ ৰফি আৰু লতা মংগেশকাৰৰ আৰু কিশোৰ কুমাৰে নানা অত্যাচাৰৰ বলি কটা কলপাত এই কথা দেখা যায় কিন্তু ওজন ও অন্যান্য জলচৰ চৰাই এটা অংশ ৰূপে অন্তৰ্ভূক্ত কৰে শঙ্কৰ এই কথা অস্বীকাৰ কৰিলে যাৰ বাবে তেওঁ অৰ্জুনৰ উপৰত আলোকপাত আৰু কিশোৰ নৰসিংহ নামৰ এটা কবিতা আৰু গল্প লিখাৰ আগতে পুৰণি প্ৰবন্ধ এটাত উপশ্ৰেণী কৰে আৰু গল্প লিখাৰ এসপ্তাহৰ পিছত তেওঁ দ্বিতীয়বাৰৰ এই অঞ্চলত অনেক মচজিদ আৰু কিশোৰ নৰসিংহ মেহতাৰ আৰু লতা মঙ্গেশকাৰ উভয় দেশৰে নাগৰিক,0,Not Hateful,BD_SHS,None,Non-hateful
+ফানা ফানা কি বুঝলাম না,0,Not Hateful,BD_SHS,None,Non-hateful
+যে বিচারক দেছে মাসুদ রানা সিলেক্ট হরতে তারা মানু কে সম্মান হরতে জানে না হ্যারা কিভাবে মাসুদ রানা বের হরবে। প্রত্যেকটা মানুের আত্মসম্মান আলহে। কাউরে অপমান হরার অধিকার নেই তাদের। তাদের অনেক ফ্যান আলহে যারা আগে তাদের এমন রুপ দেখিনাই। অয়তো অভিনয়ের হারণে অনেক রুপ দেইখ্যা থাকি। বাস্তবে তারা এতো নিচু জানা আলহে না।,0,Not Hateful,BIDWESH,None,Non-hateful
+এর কঠোর শাস্তি হওয়া উচিতফাঁসি দেওয়া উচিত এই জানোয়ারটাকে,1,Explicit Hateful,BD_SHS,None,Abusive
+যারা বলে সংসার টিকে থাকে টাকা পয়সা আর ধন সম্পদের উপর মেয়ের জন্য একটা টাকাওয়ালা ছেলে চাই তাদের জানিয়ে দিন আজ বিশ্বসেরা ধনী বিলগেটস এর বিবাহ বিচ্ছেদ হয়েছে !,2,Implicit Hateful,BenSarc,Sarcasm,None
+চে থাকতে তাদের এতো অবহেলা করি কেন অল্পতেই সিরিয়াস হয়ে যাই কেন,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+ভাই আমি এখন ও করি এরকম,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+তোমাকে জেমস তোদেও না । গাঞ্জা চাষ কমা ।,2,Implicit Hateful,BenSarc,Humor,None
+বলছি কিসে করে আসছে একটু বলবেন । কবে থেকে শুনছি আসছে আসছে এদিকে এখনো এসে পৌঁছলো না । কচ্ছপের পিঠে চড়ে আসছে নাকি।,2,Implicit Hateful,BenSarc,Sarcasm,None
+নিরাপত্তা পরিষদে আস্থা নেই । আরব লীগ দন্তবিহীন বিড়াল । তাঁদের তৎপরতা যুক্তরাষ্ট্রের লেজুরবৃত্তিক ।,2,Implicit Hateful,BenSarc,Irony,None
+কুত্তা নুরু খেলা শুরু হয়েছে তোর,1,Explicit Hateful,BD_SHS,None,Offensive
+বাংলা পর্ণ স্টারও এই রাতে ইবাদত করে ! তাই তো বলি আমাদের দোয়া কবুল হচ্ছে না কেনো,2,Implicit Hateful,BenSarc,Humor,None
+এই মাগি তোরে ঘোড়া দিয়ে চুদানো দরকার তুই মিথ্যে কথা বলছিস কেন,1,Explicit Hateful,BD_SHS,None,Offensive
+এরা সাধু,0,Not Hateful,BD_SHS,None,Non-hateful
+সবাই শেয়ার করুন প্রিথিবীর সবাই দেখুক,0,Not Hateful,BD_SHS,None,Non-hateful
+জয়া আহসানকে ফ্যাশনে মানায় কিন্তু করোনা কালে গরীব মানুষের পাশে মানাচ্ছে না ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+এই শালা তোর বাবার গায়ে হাত তুলছ সাহস থাকলে আমার ইমুর সঙ্গে তুই যোগাযোগ কর আমার আমি দেখে নেব তোকে,1,Explicit Hateful,BD_SHS,None,Abusive
+সবাই ইউটিউব আইডিটাতে রিপোর্ট মারেন এদের কারণে দেশের বদনাম,0,Not Hateful,BD_SHS,None,Non-hateful
+ভং আর কত দেখাবা ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+মোহাম্মদ নাইম ভক্ত গুলা কই লাইক দিন,0,Not Hateful,BD_SHS,None,Non-hateful
+সাথে আপনার ব্রার সাইজ টা বললে আরো ভালো হতো,1,Explicit Hateful,BD_SHS,None,Offensive
+দেখলেই খাড়া হয় খেলার ইচছা জাগে শরীরের তাপমাত্রা আটচল্লিশ সেলসিয়াস হয়ে যায় ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+নিজে পায়না শুতে জায়গা আবার শঙ্করকে ডাকে,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+মানে যেরকম ছবিই দেয়া হোক না কেন হা হা থাকবেই,2,Implicit Hateful,BenSarc,Sarcasm,None
+এটা শোনার পর শেফু দা কইলো আচ্ছা এর কি কোন আত্মীয় স্বজন নাই তা শুনে পিনাকি দা কইলো থেকে লাব কি সবাই তো তার ই মতন,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+শান্তি নাই । কোথাও শান্তি নাই । টাকা পয়সা শান্তি বয়ে আনতে পারে না কখনো না । প্রমানিত,0,Not Hateful,BenSarc,None,Non-hateful
+এই ছেলেকে জন্ম দেবার থেকে না দেয়া ভালো ছিল ছি ছি,0,Not Hateful,BD_SHS,None,Non-hateful
+প্রতিবাদি সাকিবকে কি ভাবে রুখে দিল বিসিবির পাপন সালা,1,Explicit Hateful,BD_SHS,None,Abusive
+উন্নয়ন উন্নয়ন উন্নয়ন।,0,Not Hateful,BD_SHS,None,Non-hateful
+ছেলেরা বিদেশ থেকে ফিরে এসে কি ডুগডুগি বাজাবে? যেখানে মাহবুব মজুমদার MIT ফেরত হয়েও ঢাকা বিশ্ববিদ্যালয়ে ঢুকতে পারেনি সেখানে পিএইচডি শেষ করে লোকজন কেন ফিরবে? আমাদের বুদ্ধিজীবীরা হাওয়ায় আর আবেগে কথা বলেন,0,Not Hateful,BD_SHS,None,Non-hateful
+ভাই টিক,0,Not Hateful,BD_SHS,None,Non-hateful
+এছাড়া নিজের প্রতিভাকে কাজে লাগিয়ে বিভিন্ন সাংস্কৃতিক অনুষ্ঠানে অংশ নিতে হবে,0,Not Hateful,BenSarc,None,Non-hateful
+অরে মাগিরে,1,Explicit Hateful,BD_SHS,None,Offensive
+লাভ কী ! বিসিএস তো পায় নাই ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+তুমি পাগল হয়ছো,0,Not Hateful,BD_SHS,None,Non-hateful
+সাব্বির কোন চুলের প্লেয়ার যে তারে এত তোল্লাই দেয় বিসিবি,0,Not Hateful,BD_SHS,None,Non-hateful
+কষ্ট নিয়েন না ভাই আপনেরে নিলেও জিতে হারে না নিলেও জিতে হারে কাজেই বসে বসে ইন্ডিয়া থেকে তিন কোটি নিয়া আসেন দেশের বৈদেশিক রিসার্ভ বাড়বে ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+ও তো হিজরা,1,Explicit Hateful,BD_SHS,None,Hate
+আশা করি যাতে বাংলাদেশ আজকে হেরে যায় ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+অরুন বাবুরে শেষ করি ফকির বানাই এখন অরুন বাবুর শশুর কে ধরা হয়েছে ।,0,Not Hateful,BenSarc,None,Non-hateful
+তাহেরি তো আল্লাহ আছেন বিশ্বাস করে না তার কথাই যা বোঝাই,0,Not Hateful,BD_SHS,None,Non-hateful
+উনার কথায় কেউ কান না দেয়ার আহ্বান করছি... উনি বেশ কিছু দিন হয় মানুষিক ভারসাম্যহীন।,0,Not Hateful,BD_SHS,None,Non-hateful
+এই জন্য বলি সব সময় ক্যামেরার দিকে তাকিয়ে হাঁটবেন না । পড়ে গেলেন তো ? দাঁড়ান ঝান্ডু বাম টা নিয়ে আসি ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+চাঁপাইনবয়াবগঞ্জ এর আমের এখনোও আাঠি হয়নি আর ওদিকে নাকি আম পেকে গেল । ইঁচড়েপাকা আম,2,Implicit Hateful,BenSarc,Metaphore,None
+"মেসি আর নেইমারের নাহান বিশ্বমানের প্লেয়ারগোর জোতা ঞ্ছুইর‍্যা মারলেও কিছু অয় না, আর সামান্য গালি দিলেই এতকিছু মোগো মন কতো নিচু, ছিঃ ধিক্কার এই দেশের মানুগো মনুষ্যত্বের ধারে।",0,Not Hateful,BIDWESH,None,Non-hateful
+আহারে । পোলাডা কি কষ্টে আছে । চাইল ডাইলের আড়তে ম্যানেজারের চারকি লইছে ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+এই জানোয়ারদের ফাঁসি দেখার অপেক্ষায় আছি,1,Explicit Hateful,BD_SHS,None,Abusive
+মার সালা কে ছেলে না কুত্তা,1,Explicit Hateful,BD_SHS,None,Offensive
+খালেদা আর হাছিনার সাথে মিল নেই আর কাদের কি পাগল ছাগল লীগ খালেদা জণগনের মা,0,Not Hateful,BD_SHS,None,Non-hateful
+শাড়ি গহনা সুখের উৎস জানতাম না,2,Implicit Hateful,BanglaSarc3,Irony,None
+যেমন দল তেমন সেই দলের কাওয়া নেতা পতিতার দল,1,Explicit Hateful,BD_SHS,None,Offensive
+ওই মাগীরে বাংলাদেশ তেকে বাহির করে দেওয়া হক সমাজ নষ্ট করার জন্য এমন একটা মাগীর বাচ্চা ওই যতেস্ট,1,Explicit Hateful,BD_SHS,None,Offensive
+"রাতে একটা দুঃস্বপ্ন দেখলাম,আপনি নাকি বেচে আছেন! আমি তো ভাবলাম আপনি গর্তের মুখ খুজে পাচ্ছিলেন না স্যার। তাই গর্তের ভেতরে মারা গেছেন। কিন্তু ঘুম থেকে উঠে আপনাকৈ জীবিত দেখে আমার ভালো লাগছে....! গর্ত থেকে বের হওয়ার ক্রেডিট কার স্যার? আয়মান সাদিক কি শিখিয়ে দিলো ""১০ মিনিটি কিভাবে গর্ত থেকে বের হতে হয়""। যা ই হোক স্যার আপনি বেচে আছেন এটাই বেশী। কিছু খেয়ে আবার গর্তে ঢুকে পড়ুন স্যার,আর হ্যা গর্তে ঢুকার আগে ""পালোস্ট্যান্ট"" মেডিসিন নিয়ে নিবেন যাতে হড়হড় করে বমি না আসে...",0,Not Hateful,BD_SHS,None,Non-hateful
+গাজার বিচি বাইছা বাইছা খাইলে এরকম অখাদ্য স্ক্রিপ্ট হয়।,2,Implicit Hateful,BenSarc,Sarcasm,None
+আমি এ এস নীল খান। কারন বসত ফাহমী ভাইয়ার সাথে আমার কখা বলা দরকার চাই।কেউ কি ফাহমী ভাইয়ার দিতে পারবেন,0,Not Hateful,BD_SHS,None,Non-hateful
+হাওর পোলা ফালতু ভিডিও বানাস তোরে আজকেই আনফলো করলাম,1,Explicit Hateful,BD_SHS,None,Abusive
+আহারে ! এই ছবি দেখে আজকে অনেক ডাক্তার ইঞ্জিনিয়ার টয়লেটে মারা যাবে,2,Implicit Hateful,BenSarc,Humor,None
+"তিন প্লেট বিরিয়ানি খেয়েও যে পোলা জীবনেও আলহামদুলিল্লাহ পড়ে না সেও আজ আলহামদুলিল্লাহ লিখে স্ট্যাটাস দেয়,বাল যত্তসব",2,Implicit Hateful,BenSarc,Sarcasm,None
+এ সালা তোর পুটকি মারচে,1,Explicit Hateful,BD_SHS,None,Offensive
+আরে ওদের দুজনের পরিবার আপনাদের এতো মাথা ব্যথা কীসের ওরা ঠিক সামলে নেবে আপনারা যত নাক গলাবেন তত ঝামেলা বেড়ে যাবে আপনারা চুপ দেন দেখবেন সিরিয়াল টাই চুপ হয়ে যাবে,2,Implicit Hateful,BenSarc,Sarcasm,None
+তোমরা এখন আওয়ামি ক্রিকেট লীগ ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+আমি আজ সাধারন ছাএদের বলতে ছাই তোমরা ছাএলীগ নামক কুওাদের গুলি করে আলাদা আলাদা করে ফায়ার করে মেরে ফেলো কারন এরাতো মানুষ না এরা কুওা সো কুওাদের মারলে কোন বিচার নেই,1,Explicit Hateful,BD_SHS,None,Offensive
+দিলেন কুফাটা লাগায়া । এবার আর জেতার চান্স আছে বলে মনে হয় না,2,Implicit Hateful,BenSarc,Sarcasm,None
+বৌদ্ধ ধর্মাবলম্বীদের নিকট এটি দ্বিতীয় বৃহত্তম ধর্মীয় উৎসব। আশ্বিন মাসের পূর্ণিমা তিথিতে এই উৎসব পালিত হয়।,0,Not Hateful,ALERT,None,Non-hateful
+দুজনএকহয়,0,Not Hateful,BD_SHS,None,Non-hateful
+লজ্জা না থাকলে যা হয় আর কি,0,Not Hateful,BD_SHS,None,Non-hateful
+মন বুঝার কেউ আবার ফুলের অর্থ দিয়ে কি করবো,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+রাস্তায় প্রবেশ করার সাথে সাথে পেয়ে যাবেন স্বর্গে প্রবেশের মতো,0,Not Hateful,BenSarc,None,Non-hateful
+শাকিব খান মানেই অসাধারণ,0,Not Hateful,BD_SHS,None,Non-hateful
+আমি আপনাদের কোর্স করেছি সত্যি অসাধারণ অনেক কিছু শিখেছি আলহামদুলিল্লাহ ।,0,Not Hateful,BenSarc,None,Non-hateful
+"হজরত আনাস (রা.) থেকে বর্ণিত, রাসুল (সা.) বলেছেন, বিপদে পড়লেও কেউ মৃত্যুর কামনা করবেন না।",0,Not Hateful,ALERT,None,Non-hateful
+খারাপ বলে নাই,0,Not Hateful,BD_SHS,None,Non-hateful
+পাপন এউক্কা মাদার চোদ হালার পুটকি দিয়া গরম ডিম ঢুহানো দরকার সাকিবের ক্যারিয়ার শ্যাষ করার জিন্নে পিছে লাগজে।,1,Explicit Hateful,BIDWESH,None,Offensive
+আর বাংলাদেশে তার উল্টো তা হোক ।,0,Not Hateful,BenSarc,None,Non-hateful
+সাগর রুনির মত সাংবাদিক দম্পতি হত্যার ব্যাপার এ জাতী ভুলে গেছে অন্য সব হত্যার ঘটনাতো ধামাচাপা পড়া অতি সাধারণ ব্যাপার। এ জাতি বড়োই ভুলোমনা����,0,Not Hateful,BD_SHS,None,Non-hateful
+কুলাঙ্গারের বাচ্চা করেছে কি,1,Explicit Hateful,BD_SHS,None,Abusive
+বাংলাদেশ কি বাল ফেলছেন,0,Not Hateful,BD_SHS,None,Non-hateful
+হায়ে কপাল আমিই বাইরা লাম,0,Not Hateful,BD_SHS,None,Non-hateful
+বাইঞ্চদ তর এসব জাইনা লাভ নাই।।,1,Explicit Hateful,BD_SHS,None,Abusive
+"বিদ্যাপাপি চোর একটা, ummmmaaaah ♥",0,Not Hateful,BD_SHS,None,Non-hateful
+এই মাগির পুর সাথে করে দুইটা মাগি নিয়ে ঘুরে এদের যখন তখন ব্যবহার করে শালা এখন বলছে এই মাগিদের নাকি উড়না নিয়ে টানাটানি করছে আর এদের নুর সহ তার সহযোগিরা সারারাত মাদক নিয়ে পরে থাকে।,1,Explicit Hateful,BD_SHS,None,Offensive
+হাংকির পুলারে পুটকিমারা হোক,1,Explicit Hateful,BD_SHS,None,Abusive
+হিতারার মার হেডার অনুষ্ঠান,1,Explicit Hateful,BD_SHS,None,Abusive
+শালারে পাইলে দাড় করাইয়া চুদতাম পরে শালার পুলিশ,1,Explicit Hateful,BD_SHS,None,Offensive
+বাংলা একাডেমি এতো কষ্ট করে ঈদকে ইদ বানাইলো তাও সবাই ঈদ নিয়ে পরে আছে,2,Implicit Hateful,BenSarc,Irony,None
+তিন কুত্তা আর একরেটন্নি অযথা ঘেউ ঘেউ হরছে। এদেশের স্বাধীন হ‌ইছে মূর্তি টাঙ্গানোর জিন্যে নয় । হিন্দু মুসলীম বৌদ্ধ খৃষ্ঠান এই বাংলায় সবাই স্বাধীন ।,1,Explicit Hateful,BIDWESH,None,Offensive
+খানকির পোলা সিফাত তর মেয়েরে চুদি,1,Explicit Hateful,BD_SHS,None,Abusive
+ইনু খান ডায়েরিয়া থেকে মুক্তি পান।ইনু ডায়েরিয়ার একটি বিশ্বস্ত আস্তা,0,Not Hateful,BD_SHS,None,Non-hateful
+চট্টগ্রাম সিআরবি নিয়ে একটা প্রতিবেদন করুন চট্টগ্রামের ফুসফুসকে বাঁচান।,0,Not Hateful,BenSarc,None,Non-hateful
+সাকিব ভাই আমরা আছি তুমার পাশে তুমাকে অনেক মিস করবো ভাই পাপন শালার পুতকে যদি সামনে পাইতাম। তাকে জুতা দিয়ে মারতাম বাংলাদেশ টিমটাকে সে ধংসের দিকে ঠেলে দিছে,1,Explicit Hateful,BD_SHS,None,Offensive
+জন্মের থেকে বড় কোন শুরু নেই ।,0,Not Hateful,BenSarc,None,Non-hateful
+আমি আগেই ফেসবুকে শেয়ার দিয়ে বলছিলাম বাংলাদেশের শিল্পী দরকার নেই ইন্ডিয়াতে ইন্ডিয়াতে অনেক নামী করা আমাদের শিল্পী রয়েছে কুমার শাওন,0,Not Hateful,BD_SHS,None,Non-hateful
+"এসব ভালো পূণ্যের কাজ শুধু ছাত্রলীগের দ্বারাই সম্ভব,ওরাই পারে এমন আবালগিরি করতে ।",2,Implicit Hateful,BenSarc,Sarcasm,None
+টিনের চালে কাউয়্যা তুমি আমার সাউয়্যা ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+"আকরাম খান, রফিক, নাননু ভাই, আরও অনেক যারা কৃিকেটে এত টাকা পায়নি।আজকে যারা অনেক টাকার মালিক হয়েগেচে।তারা দেশ ও মানুষের মুল্য বুঝেনা।",0,Not Hateful,BD_SHS,None,Non-hateful
+বেয়াদব কখনো শিল্পী হতে পারেনা । শিল্পী হতে চাইলে আপনাকে প্রথমে বিনয়ী হতে হবে ।,0,Not Hateful,BenSarc,None,Non-hateful
+শালার বাচ্চা মহিলার ব্যপারে মহিলাদের ইত বলা উচিৎ তোর কি,1,Explicit Hateful,BD_SHS,None,Abusive
+পাতা খাইয়ে দেখেন এমনেই উড়বেন তাও আবার মহাকাশে,2,Implicit Hateful,BanglaSarc3,Humor,None
+বলদ চুদা তাসকিন,1,Explicit Hateful,BD_SHS,None,Abusive
+পাবনা মানুষিক হাসপাতালের দারোয়ানকে বরখাস্ত করা হয়েছে তার ভুলে এই পাগল পালিয়ে এসেছে,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+সালা ঠিক মত ঠেলতে পারে না মিনিট পর মাল আউট হয়ে গেলো � �����������,1,Explicit Hateful,BD_SHS,None,Offensive
+শালার পুত মুখে লাগাম দিয়া কথা বল লজ্জা করে না তর বাপের বয়সের একজন দারিয়ালা আলেম কে গালাগাল করস,1,Explicit Hateful,BD_SHS,None,Offensive
+সবাই ধীরে সুস্থে গালাগালি করুন । ধাক্কাধাক্কি করবেন না । সামাজিক দূরত্ব বজায় রেখে গালাগালি করুন ।,2,Implicit Hateful,BenSarc,Irony,None
+আমিতো অল্রেডি বাসায়,0,Not Hateful,BenSarc,None,Non-hateful
+গরুর সাথে নারীর তুলনা । গ্রেট,2,Implicit Hateful,BenSarc,Sarcasm,None
+দুজন এক হলে সাকিবেরই ভালো চলচিত্রে গুরুত্ব বেরে যাবেনিজের স্হান টা পাকাপোক্ত হবেদর্শক প্রিয়তা বেরে যাবে,0,Not Hateful,BD_SHS,None,Non-hateful
+আগের একটা ভিডিওতে দেখসিলাম চেগাই হাঁটে মনে হয় রক্তপাত অবস্থা খেলছে,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+আবার নতুন করে বিয়ে করে নিলে হয়ে যাবে,0,Not Hateful,BD_SHS,None,Non-hateful
+ওই পিতা মায়ের সারা জীবনের জীবনসঙ্গী সুখেদুঃখে মায়ের হাত ধরে সাথে ছিলো কত ভালোবাসা ছিলো তাই ওই বয়স্ক পিতা মাতা কে ভালোবেসে একটু মিষ্টি খাইয়েছেন এটা অপরাধ কি অপরাধ নয় সেটা ছেলে ঠিক করার কে,0,Not Hateful,BD_SHS,None,Non-hateful
+তো ডিয়ার তোমার ব্রা সাইজ কত আমাকে জানাইয়ো,1,Explicit Hateful,BD_SHS,None,Offensive
+সুন্দর তথ্য ও উদাহরণ দিয়ে আমাকে সহযোগিতা করায় স্যারকে ধন্যবাদ।,0,Not Hateful,BD_SHS,None,Non-hateful
+এই সালাকে জবাই করার দরকার,1,Explicit Hateful,BD_SHS,None,Hate
+গোটা চ্যানেল টাকে গালি শুনানুর জন্য কত গোলা জাজ বানাইছে আবাল।,1,Explicit Hateful,BD_SHS,None,Abusive
+লুচ্চার মুখে তদন্ত করতে হবে ওর লিঙ্গ টাকে তদন্ত করলে সবকিছু বের হয়ে যাবে,1,Explicit Hateful,BD_SHS,None,Offensive
+বলে হয়তো তুমি সেই সময় গভীর ঘুমে থাকো না হয় পাপ কাজে লিপ্ত থাকো তোমার রব তো প্রতিদিনই তোমাকে কাছে ডাকেন তার কাছে কাছে আসার গল্প শুনাবে বলে,0,Not Hateful,BenSarc,None,Non-hateful
+সাহেদ আলম সাহেব ঝগড়া না করে এভাবে ভিডিও করবেন �����,0,Not Hateful,BD_SHS,None,Non-hateful
+একজন বঙ্গবন্ধু থাকলে মনবন্ধু লাগে না।,0,Not Hateful,BenSarc,None,Non-hateful
+তুমি এভাবে তাকালে আমি ক্যাবলা না হয়ে কোথায় যায় বলো !,2,Implicit Hateful,BenSarc,Sarcasm,None
+আচুদার ঘরের আচুদা তোদের মতো আচুদা এখনো বাংলাদেশে আছে বোকাচুদার বাচ্চারা আমার বালের ভিডিও বানাইছস,1,Explicit Hateful,BD_SHS,None,Abusive
+সালা ভন্ড তাহেরি,1,Explicit Hateful,BD_SHS,None,Abusive
+সংকট পড়া খুবই স্বাভাবিক । এক বছর আগেও যা ছিলো আজও তাই ।,0,Not Hateful,BenSarc,None,Non-hateful
+আমি জমজ সন্তান কামনা করলাম । হল না । আর এ মহিলার একসাথে নয় সন্তান ।,2,Implicit Hateful,BenSarc,Irony,None
+ফকিন্নির পুত জাফুইরগা,1,Explicit Hateful,BD_SHS,None,Abusive
+যাকে ভালোবাসি তাকে পটাতে পারি না যে আমাকে ভালোবাসে সে আমাকে পটাতে পারে না এভাবেই চলছে জীবন,2,Implicit Hateful,BanglaSarc3,Sarcasm,None
+ওই সালা ভন্ডামি পীর দের মুখোস খুলে দিয়েছেন আললাহ আপনাকে ভালো করুক আললাহ ছারা কারো কাছে মাথা নত করা যাবেনা,1,Explicit Hateful,BD_SHS,None,Offensive
+রুবেল ১নং বাইনচোদ,1,Explicit Hateful,BD_SHS,None,Offensive
+এগুলার সরম লজ্জা কিছুই নাই আর থাকবে কি করে যেই চেহারা কুত্তায় দেয়না পাহারা এরা ফিল্ম ইন্ডাষ্ট্রিতে আসে পরিচালকের সাথে রাত কাটিয়ে তাহলে সরম থাকেনি একশ টা কুত্তা দিয়া চুদানোর দরকার মাগিরে,1,Explicit Hateful,BD_SHS,None,Abusive
+জ্বিন এর বাদশা সবাই পালা ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+নিজের বিরুদ্ধে অভিযোগ নিজেই তদন্ত কররে।নিজেই বিচার করবে,0,Not Hateful,BD_SHS,None,Non-hateful
+ওই মাদারচোদ ডিসিকে বাজারের মধ্যে নেংটা করে পিটানো দরকার এবং ওই নারীর এখানে কোনো দোষ দেওয়া যাবেনা কারণ ওই নারী ডিসির অধিনে একজন কর্মচারী তাই ওই নারী ডিসির বিরুদ্ধে অভিযোগ করেও টিকতে পারবেনা আমাদের সমাজে একজন নারী নিরাপত্তা কতো টুকু হয়তো ওই নারী ডিসির বিরুদ্ধে অভিযোগ করলে হয়রানির শিকার হতো তাই হয়তো ওই নারী ডিসির বিরুদ্ধে অভিযোগ করার সাহস করেননি ওই নারীকে নিয়ে টানাটানি না করে ওই মাদারচোদ ডিসিকে বাজারের মধ্যে নেংটা করে পিটানো উচিত একজন নারীকে যদি প্রতিদিন একটা ধর্ষক কুত্তা যৌন হয়রানি করেন তাহলে একজন নারীর পক্ষে কতক্ষণ টিকে থাকা সম্ভব তাও আবার ধর্ষক ডিসি তার অধিনে চাকরি করে ওই নারী ওই নারীতো ডিসিকে যৌন হয়রানি করিনি প্রতিদিন যদি ওই কুত্তার বাচ্চা ডিসি ওই নারীকে উত্ত্যক্ত করতে থাকে ওই নারীর পক্ষে কি বা করার আছে ওই নারী অভিযোগ করবে কার কাছে ওই নারী যদি মাদারচোদ ডিসির বিরুদ্ধে অভিযোগ করতো তাহলে হয়তো ওই নারীর পক্ষে টিকে থাকা সম্ভব হতোনা তাই হয়তো ওই নারী ডিসির বিরুদ্ধে অভিযোগ করেননি তাই একজন নারীর দোষ খোজার আগে পর্দার আড়ালে ওই নারীকে কিভাবে ভয়ভীতি প্রদর্শন করে যৌন লালসার শিকার বানিয়েছেন সেগুলো আগে খুজে বের করা দরকার বাংলাদেশে ওই মাদারচোদ ডিসির মতো আরো অনেকে আছেন যারা প্রতিনিয়ত এমন হাজার হাজার নারীর সর্বনাশ করিতেছে যাহা আমরা জানি না তাই এই ডিসির বিরুদ্ধে কঠোর শাস্তি ব্যবস্হা করা হোক,1,Explicit Hateful,BD_SHS,None,Offensive
+জয় বাংলা এগিয়ে চলুক উন্নয়নের গতি ইনশাআল্লাহ ।,0,Not Hateful,BenSarc,None,Non-hateful
+দাদাদেখে চোখের পানি আর ধরে রাখতে পারিনাইআমি ব্যত্তিগত ভাবে চাই এই ধরনের আচারনের জন্য কঠর শাস্তি হোক এই সন্তান নামের নরপশুর,0,Not Hateful,BD_SHS,None,Non-hateful
+কিস্তিতে মানুষ ভাড়া করে হলেও এদের ইচ্ছামতো পেটানো দরকার,2,Implicit Hateful,BenSarc,Sarcasm,None
+"মঙ্গল গ্রহে যেখানে দাও দাও করে আগুন জলে,সেখানে তোমাকে পাঠিয়ে দেয়া হোক।",2,Implicit Hateful,BenSarc,Sarcasm,None
+এরকম নারীর ভোদায় আল্লাহ যেন ঠাডা ফেলে। যদিও এটা একটা অভিনয় কিন্তু যারা বাস্তবে করবে তাদের ক্ষেত্রে। ঠাডা ঠাডা ঠাডা। বর্জ্যপাত,1,Explicit Hateful,BD_SHS,None,Offensive
+পতিতা নারী বাধীরা কি এখন ঘুমাচ্ছে কোথায় আজ সুলতানা কামাল রা খুশি কবীর রা মুরগী শাহরিয়ার রা,1,Explicit Hateful,BD_SHS,None,Abusive
+এতো বুদ্ধি নিয়ে রাতে ঘুমান কি করে ?,2,Implicit Hateful,BenSarc,Sarcasm,None
+নানু মাদার চুদ পাপন বেনচুদ,1,Explicit Hateful,BD_SHS,None,Abusive
+এ হলো ছদ্মবেশি বহুরুপী কাল নাগ সাপ,1,Explicit Hateful,BD_SHS,None,Abusive
+ক্রিকেটারদের আগে জনগনের কাছে চলে আসছে তুমি শালাবাবু চোর। তুমি এবং তোমার ছেলা পেলার পদত্যাগই বিসিবির উন্নতি। বাংলাদেশ ক্রিকেটের উন্নতি।,1,Explicit Hateful,BD_SHS,None,Hate
+নাইন ভাই মুশিকে একটু ডানো খাওয়ালে ম্যাচিউরিটি এসে যাবে,2,Implicit Hateful,BenSarc,Humor,None
+এগুলা কেমন ক্যামেরা ? সাইডে ব্লার পরছে কেন ? তোমারে বড়লোক ভাবতাম এর থেকে জাপানি ক্যামেরা গুলোর ব্লার সেন্স বেটার।,2,Implicit Hateful,BenSarc,Sarcasm,None
+তোমাকে জ্বালানোর জন্যই তো পোস্টটা দিছি বাসায় বসেও পোড়া পোড়া গন্ধ পাচ্ছি,2,Implicit Hateful,BenSarc,Sarcasm,None
+চোদানির বাড়ি কই খুন করতে হবে,1,Explicit Hateful,BD_SHS,None,Offensive
+কুতা রানু দি,1,Explicit Hateful,BD_SHS,None,Abusive
+শিক্ষা প্রতিষ্ঠানের আত্মার মাগফিরাত কামনা করছি ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+কিরে তর অপু কই খানকির পোলা,1,Explicit Hateful,BD_SHS,None,Abusive
+জারজ দেশ ভারতের এটাই শেষ পরিণতি,1,Explicit Hateful,BD_SHS,None,Abusive
+ভৌগলিক অবস্থান রাঙামাটিতে হলেও যাতায়াতের সহজ পথ খাগড়াছড়ি,0,Not Hateful,BenSarc,None,Non-hateful
+ওরে জবাই করে কুত্তারে খাউয়ানো উচিত,1,Explicit Hateful,BD_SHS,None,Offensive
+বরাবরের মত আমরা শুধু জিম্বাবুয়েকেই পাই খেলে দিতে মনে হচ্ছে জিম্বাবুয়েই আমাদের জন্য বড় দল তাই যদি হয়ে থাকে তাহলে ছোট দলের সাথে বেশি ম্যাচ খেলানো হোক এটা আপনার ষাঁড় পাপন্দার প্রতি জোরালো আবেদন ।,2,Implicit Hateful,BenSarc,Sarcasm,None
+ম্যাক্সি টা খুব সুন্দর,0,Not Hateful,BenSarc,None,Non-hateful
+এই দেশেতে মুসলমান রক্ত দিয়ে স্বাধীন করেছে,0,Not Hateful,BD_SHS,None,Non-hateful
+আর কতো । একবার বলে ব্রাক একবার বলে আইইউবিএটি এবার বলছে নর্থ সাউথ । আমরা দ্বিধা দ্বন্দ্বে ভুগি কোথায় ভর্তি হবো কোনটা ভালো হবে?,0,Not Hateful,BenSarc,None,Non-hateful
+তোমার কথা বলার ভাষা ও ঔদ্ধত্য আচরণ ঠিক হয়নি ।,0,Not Hateful,BenSarc,None,Non-hateful
+লুচা মাদার চোদ,1,Explicit Hateful,BD_SHS,None,Abusive
+এই পোস্ট পড়ার পর নিজের আঠাশ টা ওপ্পাকে বিয়ে করার স্বপ্ন দেখে ফেলা আমি,2,Implicit Hateful,BenSarc,Sarcasm,None
+আপনার পোস্ট দেখে রমজান মাসে বাথরুমে যাইতে হলো গিটার বাজানোর জন্য,2,Implicit Hateful,BenSarc,Humor,None
+মামু আমার রাইট হ্যান্ড সাইড কিডনি টা বিক্রি করি তারপর দুজনে মিলে দুই কিছু খাব নে,2,Implicit Hateful,BenSarc,Sarcasm,None
+তোর গলার আওয়াজ শুনে তোকে চুদতেও ইচ্ছা করে না ॥ এসব খবর কোথায় পাস পোঁদে,1,Explicit Hateful,BD_SHS,None,Offensive
+আইডি বন্ধ করলে এইটা পোস্ট করছেন কেমনে ?বলদ পাইসেন আমাগোরে?,2,Implicit Hateful,BenSarc,Sarcasm,None
+তুর ছেলেমেয়ে বড় হলে তুকেও এই পাপের শাস্তি দিবেবেয়াদব কোথাকার,0,Not Hateful,BD_SHS,None,Abusive
+বালের বিচারক সব টি মাদারচুদ কাছে পাইলে জুতা দিয়া পিটাইয়া কপালের চেরা তুইলা ফালাইতাম অভিনেত্রী মম মাগির বাচ্চা,1,Explicit Hateful,BD_SHS,None,Offensive
+মনে হয় ভালোই টাকা পয়সা পায় সরকারের কাছ থেকে।,0,Not Hateful,BenSarc,None,Non-hateful
+কুত্তার বাচ্চাকে দুনিয়া থেকে তুলা দরকার,1,Explicit Hateful,BD_SHS,None,Abusive
+সালা বুইড়া মিথ্যা বাদি তুই বুজি বিয়ে চাড়া আচত,1,Explicit Hateful,BD_SHS,None,Abusive
+ভালো লাগছে ভাই তবে আরো বেসি করা লাগদো রোষ্ট টা সব থেকে বেশি ভালো লাগছে মমোর রোষ্ট টা এয়া বড় বড় বড়��,0,Not Hateful,BD_SHS,None,Non-hateful
+সরকারের চোখে এগুলো পড়ে না টাকা দিয়ে চোখ বন্ধ করলেই কি দেখা যাই হিন্দু ধর্মের নামে কিছু যদি বলে তাহলে সরকার চুপ করে থাকে না নুরানি দাড়ি ওয়ালা ও মাথায় সুনাতি টুপি ওয়ালা ভাইদের থরে সিবির বলে চালাই দেবে,0,Not Hateful,BD_SHS,None,Non-hateful
+ছক্কা মারলো আকাশে এনগিডির লুঙ্গি উড়ে বাতাসে ।,2,Implicit Hateful,BenSarc,Humor,None
+আমার মনে হয় জলু কাকুর গালাগালি খেয়ে খেয়ে অভ্যাস হয়ে গেছে তাই জলু কাকু ইচ্ছে করে এমন ক্যাপশন দেয় আর যত ঝামেলা ফুলসজ্জার রাতেই ঘটায় । দিয়ে বসে বসে খিস্তি খায়।,2,Implicit Hateful,BenSarc,Sarcasm,None
+তুইতো মাগী সৌদি আরবের খাদ্দামা,1,Explicit Hateful,BD_SHS,None,Offensive
+মাগী বেহুঁশের অভিনয় চুদাইছে!!! জামালপুরের কি কোন পুরুষ নাই থাকলে এ জানোয়ার এখনো বুক ফুলিয়ে চলাফেরা করে কিভাবে! ওরে গনধুলাই দে,1,Explicit Hateful,BD_SHS,None,Offensive
+এক রাতে কত টাকা লাগবে জানাও,1,Explicit Hateful,BD_SHS,none,offensive 
+এই খানকির পোলারে কি বলবো আর,1,Explicit Hateful,BD_SHS,none,offensive 
+ভালো মানুষের নামে অপপ্রচার হাইরে মানুষ আর কত নিকৃষ্ট হবে,0,Not Hateful,BD_SHS,none,non hateful 
+এইটা একটা আজাইরা অভিযোগ। এইরকম কিছু হলে পাপনের থাকবে না,0,Not Hateful,BD_SHS,none,non hateful 
+সালার শাকিব পাগলের গোষ্টি শাকিব সালায় হলো পাগল আর ওর ছবি যারা দেখে তারাও পাগল,1,Explicit Hateful,BD_SHS,none,offensive 
+আরে জলু এসব ছাড়ো ওদিকে মটু পাতলু ফ্যানরা পপুলার চয়েজে ওদের একটা এয়্যার্ডও দিতে পারে নি তাই ওরা এবার পথে নেমে আন্দোলন করবে মনে হয়,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+তোর উপর আল্লাহর লা নোত হোক ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+আমার কিছু বলার নেই কলকাতায় থাকি এমন ঘটনা এখানেও হচ্ছে আজকাল বর্তমান যুব সমাজ সংকটের পথে ঘেন্না করি এমন মানসিকতাকে,0,Not Hateful,BD_SHS,none,non hateful 
+কিন্তু দুঃখজনক হলেও সত্যি যে রোজার মাস বলে গালিগুলা দিতে পারলাম না । বাকির খাতায় লিখে রাখলাম !,2,Implicit Hateful,BenSarc,humor,non hateful 
+কি কমু হাসতে হাসতে পেট বেথা হলো,0,Not Hateful,BD_SHS,none,non hateful 
+"আইজ অনেকদিন পর মনডা কাইন্দা ওডছে। লোকডা সারা জীবন শুধু মোদের দিয়েই গ্যাছে, তার বিনিময়ে মোরা তাকে দিছি রক্তাক্ত ৭ই মার্চের পাঞ্জাবী! বহুদিন যাবত বড় লজ্জায় আছি, শোকে আছি কষ্টে আছি।",0,Not Hateful,BIDWESH,none,non hateful 
+ভারতের মানুষ বলে কথা,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+তুমি নারী নামের কলঙ্ক,0,Not Hateful,BD_SHS,none,non hateful 
+আসলে আপনার জরমের দোষ,0,Not Hateful,BD_SHS,none,non hateful 
+মায়ানমার ভারত দুইটা আমাদের পাশাপাশি শত্রু হতে পারে তাই সাথে ভারতের দূরত্ব এটা সাথে জানাতে পারেন,0,Not Hateful,BenSarc,none,non hateful 
+আমি এখানে বাংলাদেশের জার্সি পরা একজন বাবাখোর দেখতে পাচ্ছি।,0,Not Hateful,BD_SHS,none ,non hateful 
+সালাকে জুতা মারা হোক,1,Explicit Hateful,BD_SHS,none,abusive 
+আপনাকে চিনে না এমন মানুষও বাংলাদেশে আছে !!!,0,Not Hateful,BD_SHS,none,non hateful 
+ওদের রাগ হাতুরা কেন তাদের বাপ ম্যাছরাফি কে টিটুয়ান্টি থেকে বের করে দিলো !,0,Not Hateful,BenSarc,none,non hateful 
+বাবু কে ডাউনলোড করতে শাশুড়ী মা ভুলে গেছে,2,Implicit Hateful,BanglaSarc3,humor,non hateful 
+সালা ভন্ড তাই ভন্টদের পককে,1,Explicit Hateful,BD_SHS,none,abusive 
+মোবাইল এ নোটিফিকেশন দেখে লেপটপ দিয়ে ডুকলাম সময় নিয়ে দেখতে হবে তো �,0,Not Hateful,BD_SHS,none,non hateful 
+পা ধরে তোর হোগা ফাড়বো শালা,1,Explicit Hateful,BD_SHS,none,abusive 
+রাজশাহী সাপোর্টাররা আমায় সাব করুন ���,0,Not Hateful,BD_SHS,none,non hateful 
+বাই আমি এই ভিডিওটা অনেক বার দেখিচি আমার মতে এই মেয়েটার কারনে রিফাত খুন হয়েচে কারন মেয়েটা জদি প্রথমে চলে গেলে আর এমনটা হতোনা বাই আমি প্রথমে মেয়েটার বিচার চাই,0,Not Hateful,BD_SHS,none,non hateful 
+মিজানুর রহমান আজহারী সাহেবের কি অর্থের অভাব পড়েছে যে ফাইভারে একাউন্ট খুলে বসেছে,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+জাতী ধর্ম নিয়ে রাজনীতি বন্ধ হোকমানুষের উন্নতি ও দেশের উন্নয়ন করা হোক যেখানে যেখানে বিতর্ক হবে সেটা দেশের জন্য ববহার করতে পারেন এমন কোনো আইন প্রনয়ন হোক,0,Not Hateful,BD_SHS,none,non hateful 
+বলি কি প্রতি দিন একটু একটু করে না খুলে পুরা খুলে পিক দিতা ছেলে গুলার জন্য ভালো হত । খুলে ফেমাস না হয়ে আটকিয়ে ফেমাস হও পুরাই মাগি একটা । অবশ্য খুলে না দিলে তো লাইক কমেন্ট আসবে না কিবা করবেন ফালতু ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+চুদির পুত তরে পাইলে ছুতু ওয়াস করতাম,1,Explicit Hateful,BD_SHS,none,abusive
+মুহাম্মদের ফাঁসি চাই,0,Not Hateful,BD_SHS,none,non hateful 
+আশ্চর্য আপনি কিভাবে এমন পতিতাককে মডেল বলেন।,1,Explicit Hateful,BD_SHS,none,offensive 
+"ইবাদতের মাধ্যমে আল্লাহর সন্তুষ্টি কাম্য, হতাশা কোনো মুমিনের জন্য গ্রহণযোগ্য নয়, কারণ তা জীবনের আনন্দ থেকে দূরে সরিয়ে দেয়।",0,Not Hateful,ALERT,none,non hateful 
+এশিয়ার সেরা নায়ক সাকিব,0,Not Hateful,BIDWESH,none,non hateful 
+আর কি শোনাব,0,Not Hateful,BD_SHS,none,non hateful 
+আর এখনকার সাংবাদিকরা তো তেল দিয়েই কুল পায়না,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+জুলকারনাইন সায়ের একজন শিবির কর্মী আল জাজিরা তে কাজ করেন কট্টরপন্থী ভারতবিরোধী রাজনৈতিক মতাদর্শের লোক,2,Implicit Hateful,BanglaSarc3,irony,non hateful 
+এগুলো দেখে যুগসমাজ আজ ভিপিএন বদ্ধ ।,0,Not Hateful,BenSarc,none,non hateful 
+আমার পরিকে নিয়ে আপসোস নাই । আপসোস সেই সব মোবাইল সাংবাদিক নিয়ে যারা এই সব ফালতু নিউজ করতে পরির গা ঘেষে বসে আছে । ইতি ইউরোপ স্টাইলে ফুন মারিবু সৌদি স্টাইলে বিচার চাইবু,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+তোর জাতের ভোদা,1,Explicit Hateful,BD_SHS,none,offensive 
+এই কুলাংগার অমানুষটার দৃষ্টান্তমুলক শাস্তির দাবি জানাই বাংলাদেশ সরকারের কাছে ।,0,Not Hateful,BenSarc,none,non hateful 
+পৃথিবীর সকল ধর্মেই আছে সৃষ্টিকর্তার পরেই বাবা মা,0,Not Hateful,BD_SHS,none,non hateful 
+বাঙ্গালী ললনাদের শুভ দৃষ্টি আকর্ষন করছি । বিল গেটস সিঙ্গেল ।,2,Implicit Hateful,BenSarc,humor,non hateful 
+হ্যা আমি একমত,0,Not Hateful,BD_SHS,none,non hateful 
+ওমা ওমা ওমা এইটা আমি কি দেখলাম,0,Not Hateful,BD_SHS,none,non hateful 
+এই শালি ভিখারি দের কিছূ টাকা হলে এই রকম ই হয়,1,Explicit Hateful,BD_SHS,none,offensive 
+কড়া বৃষ্টি হওয়া উচিত,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+উনার সাথে বৈষম্যমূলক আচরণ করার জন্য আমরা আজকে হরতাল ডাকতে চাই,0,Not Hateful,BenSarc,none,non hateful 
+উনি এখন পুরো দেশের টক অব দ্যা টাউন । উনাকে নিয়ে পুরো দেশ মাতামাতি করছে আর উনি নিজ গৃহে যোগ ব্যায়াম নিয়ে রিলেক্স টাইম কাটাচ্ছে । হুজুগে বাঙ্গালী,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+মাদারী কে কাছে পেলে মেরে ফেলতাম বাইন চোত খুবই কষ্ট লাগছে,1,Explicit Hateful,BD_SHS,none,abusive 
+নওগা তে দিবেন ? হোম ডেলিভারিতে,0,Not Hateful,BenSarc,none,non hateful 
+অন্যান্য যে কোন বিশ্বকাপের চেয়ে সাকিবের এবারের বিশ্বকাপ পারফরমেন্স সবচেয়ে ভালো হয়েছে । তবে পরিণত সাকিবের কাছে আরো বেশি প্রত্যাশা ছিল ।,0,Not Hateful,BenSarc,none,non hateful 
+দিল্লি গেইট এর নাম কখন যে মুজিব গেইট হয়ে যাবে টের ও পাবে না স্যার এরা,2,Implicit Hateful,BanglaSarc3,irony,non hateful 
+এই বিরুদ্ধে ব্যবস্থা করা দরকার একে ফাসি চাই,0,Not Hateful,BD_SHS,none,non hateful 
+কোন হট আন্টিরা চৌদা খাইতে চাইলে ইমুতে আসো,1,Explicit Hateful,BD_SHS,none,offensive 
+শিক্ষাজীবনেই প্রেজেন্টেশনের সাথে অভ্যস্ত হও।,0,Not Hateful,BenSarc,none,non hateful 
+সালাকে দেখতেই খপিসের মত লাগে ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+তুমার গুদের গভিরতা কত বলে দিও,1,Explicit Hateful,BD_SHS,none,offensive 
+হায়রে অভাগা বৃদ্ধ বাবা মাএরা সন্তান নাকি জানোয়ার,1,Explicit Hateful,BD_SHS,none,abusive 
+খুলে চেটে দেখুন কেমন লাগে,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+সময় টিভি ডায়মন্ড বাটন পেয়েছে বিধায় আপনাদের ও লোভ হচ্ছে বুঝতে পেরেছি । এইজন্যই সময় টিভির নিউজ কপি করা ধরেছেন ।,0,Not Hateful,BenSarc,none,non hateful 
+উনাকে ডালব করতে প্রথম আলোর একজন সাংবাদিকা কে দেওয়া হোক,2,Implicit Hateful,BenSarc,humor,non hateful 
+সালার হাত কাটা হোক,1,Explicit Hateful,BD_SHS,none,abusive 
+হোগা মাইরা দেশ চালায়,1,Explicit Hateful,BD_SHS,none,offensive 
+বিসিবির নতুন কমিটি চাই পাপন আকরাম নান্নু বাশার সুজন এদের পদত্যাগ চাই। পাপন মাদারচোদ খানকির পোলা। ওই মাগির পোলা তুই কিছু জানোস না তাহলে এর আগে তুই সংবাদ সম্মেলনে কেমনে বললি যে ফিক্সিং এর নিউজ শীঘ্রই আসছে কারো নামে। তুই যে নাটের গুরু তা সবাই বুজে গেছে।,1,Explicit Hateful,BD_SHS,none,abusive 
+তারপর হিরোর সাথে বিয়ে হবে তারপর খেলা বন্ধ স্বপ্ন ভঙ্গ তারপর তার মেয়ে হবে সে স্বপ্ন পূরণ করবে ধুম তা না নানা এই তো সব সিরিয়াল।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+আচ্ছা ক্লাস শেষ করে বা এডমিশন নিয়ে পিকচার তুলে এই গ্রুপে পোস্ট না করলে কি পরের ক্লাস করতে দেয় না তাদের,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+জাতীয় পতিতা মিথিলা,1,Explicit Hateful,BD_SHS,none,offensive 
+মাকে ঘিরে আমাদের কত না অনুভূতি ! আর এই ভালোবাসা বা অনুভূতিগুলো সহজভাবে প্রকাশ করা চাইলেই সম্ভব ।,0,Not Hateful,BenSarc,none,non hateful 
+শয়তান প্রদত্ত ধর্ম হিন্দুওরা কখনো সত্য কথা বলতে জানেপাকিস্তান আমাদের মুসলমান ভাই কাশ্মীরিরা ও আমাদের মুসলমান ভাই আমরা তো আরবের মরুভূমির বেদুঈন ভেড়া ছাগল নই যে মুসলমান বিদ্বেষী হিন্দুদের পক্ষ নেব এবং মুসলমান হত্যাকারী জেনে শুনে তাদের গলে স্বর্ণের মেডেল পরাবো,1,Explicit Hateful,BD_SHS,none,hate speech 
+সবাই মাগি,1,Explicit Hateful,BD_SHS,none,offensive 
+ইউটিউব আবার কাঁপে কেমনে?,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+ভাই অই শালায় তো একটা সিন্দুক ই ���,1,Explicit Hateful,BD_SHS,none,abusive 
+ৰাস্তাৰ কুকুৰ ঘৰৰ মৰ্যদা গম নাপায়,0,Not Hateful,BD_SHS,none,non hateful 
+মাগি তোর বোদায় বেগুন ডুকানো উচিত,1,Explicit Hateful,BD_SHS,none,offensive 
+দুই ঘন্টা ধরে ছবির দিকে চেয়ে বসে আছি ! কখন পরী জল থেকে উঠে আসবে !,2,Implicit Hateful,BenSarc,humor,non hateful 
+যাহ্ বাড়া বুড়ার কাম সারা !,2,Implicit Hateful,BenSarc,humor,non hateful 
+অমানুষ এর চূড়ান্ত উদাহরণ,1,Explicit Hateful,BD_SHS,none,abusive 
+তোমার টা কত সাইজ,1,Explicit Hateful,BD_SHS,none,offensive 
+মাদারচোদ নামাজরে গালি দিসনা,1,Explicit Hateful,BD_SHS,none,abusive 
+শাকিব একাই একশো অপুর দরকার নাই,0,Not Hateful,BD_SHS,none,non hateful 
+বেটার চাপাবাজির জোর দেখে বোঝা যাচ্ছে ভবিষ্যতে মস্ত বড় এক উকিল হবে,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+পাপন এর মেয়ে কে রংপুরের নাসির কে দিয়া চোদাব।।।।,1,Explicit Hateful,BD_SHS,none,offensive 
+ফারিয়া মাগীর নামে কেউ কেইস করে না কেন থার্ড ক্লাস খানকি মাগী।,1,Explicit Hateful,BD_SHS,none,offensive 
+এই সব ডি সি মাদাসুদের জন্য বাংদেশে সুন্দরী কোন মেয়ে পাই নাই সব বুগ করতেছে। আর ঐ সব মগিরা উপরে উটার জন্য বছরের বুড়ার সাথে সুদা দিতে রাজি আছে। ধনে জোর থাক বা না থাক। প্রয়জনে নিয়ে সুয়ে থাকবে।তার পরেও উপরে উটতে হবে। আর এই সব ইছি ডি সির মত জত মাদার সুধরা আছে। বাংলাদের সুন্দরী মেয়েদেরকে ভোগ করতেছে। সুনার বাংলা একন আর নেই বুধার বাংলা হয়ে গেছে।,1,Explicit Hateful,BD_SHS,none,offensive 
+এতো প্রশংসা করার কিছু নাই হিজড়াদের দ্বারা কোন কিছুই সম্ভব না দেখতে অনেক স্মার্ট হলে কি হবে বউ রাখার মতো যোগ্যতা ওর নাই,1,Explicit Hateful,BD_SHS,none,hate speech 
+ভন্ড আব্বাসী। ভন্ড তাহেরি আরো আছে।,0,Not Hateful,BD_SHS,none,non hateful 
+"সবাই যা ভাবছে ঘটনা ঠিক তা নয়। আসল ঘটনা হচ্ছে- ""উনি তখন পৃথিবীতে ছিলেন না।আসছে বই মেলায় সাইন্স ফিকশন বই বের করতে হবে বলে মঙ্গল গ্রহে তথ্য সংগ্রহ করতে গিয়েছিলেন। এখন পৃথিবী এসেছেন।এসে মামার দোকানে চা খেতে গিয়ে শুনেছেন বাংলাদেশের ছাত্ররা নাকি নিজেকে ""আমি রাজাকার"" বলে দাবী করে আন্দোলন করেছে নিজের অধিকার রক্ষা করতে! আর শুরু করে দিয়েছে লেখা যা ইচ্ছা। কেউ তাকে ভুল বুঝলে কঠিন ব্যবস্থা নেওয়া হবে। ��",0,Not Hateful,BD_SHS,none,non hateful 
+তা ভাইজান মুরগির ডিমের সাথে নিজের ডিম ও বিক্রি করেছেন নাকি,2,Implicit Hateful,BanglaSarc3,humor,non hateful 
+যে পরিমাণ বাজেট প্রতি বছর হয় তা দিয়ে প্রতিটি উপজেলা হাসপাতালে আইসিইউ বেড তৈরি করা সম্ভব শুধু দুর্নীতিবাজদের কারনে আমাদের দেশের স্বাস্থ্য খাত এই দুরাবস্থা ।,0,Not Hateful,BenSarc,none,non hateful 
+তালে ঠিক চালিয়ে যাও,0,Not Hateful,BD_SHS,none,non hateful 
+পাগল আবোল তাবোল খবর সব কিছু,1,Explicit Hateful,BD_SHS,none,offensive 
+এতো মাগি এররো মারা হকো,1,Explicit Hateful,BD_SHS,none,offensive 
+কোপা আমেরিকা নাম বাদ দিয়ে কোপা ব্রাহ্মণবাড়িয়া রাখা হোক,2,Implicit Hateful,BenSarc,humor,non hateful 
+সঠিক তদন্ত চাই ।,0,Not Hateful,BenSarc,none,non hateful 
+এবার পারলে বলো অভাবে ভালোবাসা জানালা দিয়া পালায় টাকা না থাকলে মেয়েরা থাকেনা,0,Not Hateful,BenSarc,none,non hateful 
+ছি ছি ছি ডাঃ নামে কলঙ্ক এরা আর কোনো টপিক খুঁজে পায়না,0,Not Hateful,BD_SHS,none,non hateful 
+এই জানোয়ার যেমন ওর বাবার গায়ে হাত তুলেছে ভবিষ্যতে ওপর ছেলেও ওর গয়ে হাত তুলবে ও মানুষ না জানোয়ারের ছেয়েও অধম,1,Explicit Hateful,BD_SHS,none,abusive 
+বান্দিনির জি তরে মনে করছিলাম ভালো তুই দেখতেছি মাগি নাম্বার ওয়ান তরেও কি লাগাইছে নাকি,1,Explicit Hateful,BD_SHS,none,offensive 
+পাপুন্দার পক্ষ থেকে শুভেচ্ছা ও অভিনন্দন,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+এক বালতি সমবেদনা সেই সব হেটারদের জন্য যারা বলে সাকিব খেলা পারে না । আরে সাকিব তো সেই ছেলে যার জন্মই হইছে বিশ্ব ক্রিকেটকে শাসন করার জন্য ।,0,Not Hateful,BenSarc,none,non hateful 
+নামাজে গেলে যেই হারে পিছন থেকে থাপ্পর কিল ঘুষির আওয়াজ আসে আল্লাহ আর ওরাই জানে পিছের কাতারে কি চলে,2,Implicit Hateful,BenSarc,humor,non hateful 
+জীবনে পাঁঠা বলি শুনেছি প্রথম পাঁঠী বলির আয়োজন দেখলাম থ্যাঙ্ক ইউ জলসার পেজটিকে ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+এক মাইগ্গা আরেক মাগির সাক্ষাৎ নেয়।,1,Explicit Hateful,BD_SHS,none,offensive 
+এই শুয়ার কে আল্লাহ তালা জেন ছেলের মুখ না দেখাই আমিন এই শুয়ার কে ফাঁসি দেওয়া হোক,1,Explicit Hateful,BD_SHS,none,abusive 
+এইটা মানুষের বাচ্চা নাকি কুওার বাচ্চা ওর ফাঁসি হলেও শাস্তিতা কম হবে বলে মনে হয় ওর শাস্তি হওয়া দরকার,1,Explicit Hateful,BD_SHS,none,abusive 
+দেন কয়টা লাগায়,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+নাটকটা অনেক ভাল লাগলো,0,Not Hateful,BD_SHS,none,non hateful 
+জাজরা সবাই নিজেরে শাহ রুখ খান আর অইশোরিয়া ভাবতিছে। এদের জন্য মুভি রিলিজ হওয়ার আগেই সবাই অপছন্দ করবে। যত্তসব বালের জাজ,1,Explicit Hateful,BD_SHS,none,offensive 
+বিবেক প্রতিবন্ধী।,1,Explicit Hateful,BD_SHS,none,offensive 
+আওয়ামীলীগ ভারতের দালাল। মোদি নির্বাচিত হওয়ার পর একজন লীগ সমর্থককেও দেখলাম না মোদিকে অভিনন্দন জানাতে অথচ সবার আগে মোদিকে শুভেচ্ছা জানিয়েছিলো জামায়াত ইসলাম আর নিজেদের রাজনৈতিক কার্যালয়ে চেয়ারপারসনের বাড়িতে মিষ্টি বিতরণ করেছিলো বিএনপি। অসাম্প্রদায়িক দল কংগ্রেসের পরাজয়ে ছিলো তাদের এই উৎসব উল্লাস কারণ তারা নিজেরাই সাম্প্রদায়িক অথচ আজ তারা মোদির করা আইনের বিরোধিতা করে। মোদির করা আইনের বিরোধিতা করে নুরু নুরু মুক্তিযুদ্ধপন্থীদের ডাকে ভারতের দালাল পাবলিক পিডায় সেই নুরুকে সেই নুরুকে পিডানি দেয়ার কারণে নিন্দা জানায় সেই বিএনপি জামায়াত যারা মোদির জয়ে উল্লাস করেছিলো মিষ্টি বিতরণ করেছিলো সেই নুরুর জন্য নিন্দা জানায় যেই নুরু মোদির বিরোধিতা করে। পাদটীকাঃ মোদিরে চাটছে বিএনপি জামাত বিজাতকে চাটছে নুরু কিন্তু নুরু আবার মোদি বিরোধী নুরু যদি মোদি বিরোধীই হইবো তাইলে বিএনপি জামায়াতকে তাদের কর্মের জন্য মাফ চাইতে কয়না কেন তাদের পা না চেটে? মানে তারাই একে অপরের পাছা চাটতেছে আবার তারাই একে অপরের চনু চাটতেছে মোট কথা পাছা চেটেই হোক আর চনু চেটেই হোক অর্গাজম পাইতেছে এটাই তাদের বড় কথা কারণ উভয়ই সাম্প্রদায়িক। অথচ ভারতের দালাল আওয়ামিলীগ।,1,Explicit Hateful,BD_SHS,none,hate speech 
+কুকুরের বাছা কে পেলে জিন্দা পুতে পেল তাম,1,Explicit Hateful,BD_SHS,none,abusive 
+মুশফিক কে গালি দিলে কি হইছে। একটা কেমন বিয়াদবি। লোকটার কোনো দোষ ই নাই। এগুলো সব ছাগল। মুশফিকের ক্যাডার।,1,Explicit Hateful,BD_SHS,none,offensive 
+মিন্নির ফাসি চাই,0,Not Hateful,BD_SHS,none,non hateful 
+আচ্ছা এটা কেমন বিচার যার জন্য করি চুরি সেই বলে চোর এর জন্যই বলে উপকারিকে বাঘে খায় যেই অতিনদ্রর জন্য এতে কিছু সেই কিনা চাকর,0,Not Hateful,BD_SHS,none,non hateful 
+"খানকির পোলা কোন গর্ত থেকে উঠে আসছস। তোর মত নাস্তিকেরর বাচ্চা, দালাল সরকারের সোনা লেহনের টাইম পাস। পোলাপান যুক্তিত আন্দোলন করলে সেখানে বমি চোদাস।",1,Explicit Hateful,BD_SHS,none,abusive 
+তুরু বেড়া আমি কে,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+পরবর্তী খেলা গুলো হারলেও বাদ পড়ার সম্ভবনা আছে ঢাকা ক্যাপিটালসের,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+জাজ গুলা একেকটা মাদারসুদ��,1,Explicit Hateful,BD_SHS,none,offensive 
+সালা জানোয়ারের মত ছেলে কে ফাঁসি দিয়ে মারা উচিত,1,Explicit Hateful,BD_SHS,none,abusive 
+চাইনা এই সধরনের নিয়ম,0,Not Hateful,BD_SHS,none,non hateful 
+প প্রত্যেক টি থাপ্পর এ বুক ফেটে যাচ্ছিল কোন সমাজ এ আমরা বাস করছি ছি কঠোর ও তম শাস্তি চাই,0,Not Hateful,BD_SHS,none,non hateful 
+শালার পুত বুইড়া গেলি তার পরেও বলিশ বিয়ে করার দেরি আছে,1,Explicit Hateful,BD_SHS,none,offensive 
+শালা বাবা ছাড়ে নাই,1,Explicit Hateful,BD_SHS,none,offensive 
+মাগির কথা শুনে হাসতে হাসেতে মরে জাইতে মন চাই,1,Explicit Hateful,BD_SHS,none,offensive 
+আমাদের এত বড়ো বড়ো শিল্পপতি বড়ো বড়ো শিল্প কারখানা বানায় অথচ বেঁচে থাকার জন্য অক্সিজেনের প্রয়োজন সেই চিন্তা মাথায় কখনো আসেনি । এখন দ্রুত ভাবুন সময় খুব কম ।,0,Not Hateful,BenSarc,none,non hateful 
+ওর বাড়ি কোই ওকে পাইলে আমি কী যে করতাম,0,Not Hateful,BD_SHS,none,non hateful 
+শালা লুচ্চামি কর আবার প্রচায় না করতে অনুরোধ কর।,1,Explicit Hateful,BD_SHS,none,offensive 
+বাস্তবের খলনায়কদের হাতেই আইফোন থাকে । তাও আবার একটা না । একাধিক ।,2,Implicit Hateful,BenSarc,irony ,non hateful 
+ভাই দেয়ানবাগী তো নাম্বার ভন্ড এইবার নাম্বার ভন্ড চোরমুনাইকে রোস্ট করেন। প্রমান লাগলে দিবো যে হালায় ভন্ড।,1,Explicit Hateful,BD_SHS,none,offensive 
+ভাই এই মিন্নি মাগির রিকসা ওলাদের দিয়ে আগে ওর গুদমারিয়ে গুদ ফাটিয়ে দিতে হবে তাহলে আমি খুশি হবো,1,Explicit Hateful,BD_SHS,none,offensive 
+চমৎকার বাংলার মানুষ।একটা মানুষকে দুইটা মানুষ কোপাচ্ছে আর পাশে এক গাদা ভীরুর দল।চাপাতি হাতে সন্ত্রাসী সবার সামনে দিয়ে হেটে গেল কিন্তু এখনও তোরা তার স্ত্রীকেই দোষ দিয়ে যাচ্ছিস।নিজেদের দোষ ঢাকতে আরেকজনকে দোষী বানানো যে তোদের স্বভাব।আজ থেকে তোদের প্রতি আশা ভালোবাসা সব মন থেকে উঠে গেল রে। তোরা সুখে থাক আরামে থাক তোদের স্বর্গরাজ্যে।,0,Not Hateful,BD_SHS,none,non hateful 
+এইলা দুঃক্ষের কথা আর না কইস রে ভাই,2,Implicit Hateful,BanglaSarc3,sarcasm,non hateful 
+আপনি না পারেন অভিনয় না পারেন শুদ্ধ বাংলা বলতে তাহলে আপনি কিভাবে সবচেয়ে অনুপ্রেরণাদায়ক ডিজিটাল তারকা হলেন ?,0,Not Hateful,BenSarc,none,non hateful 
+তর মারে চুদি খানকির পোলা মুহাম্মাদ রে নিয়া কিছু কয়লে তর মারে চুদ মু,1,Explicit Hateful,BD_SHS,none,abusive 
+ভিডিও বের করলে আমরাও ইকটু হস্তশিল্প করতে পারতাম,2,Implicit Hateful,BenSarc,humor,non hateful 
+আপনার মাত্র এক জন্মদিনে খরচ করা টাকায় আমিসহ আমার আরো গুটিকয়েক বান্ধবীর বিয়ের অনুষ্ঠান কমপ্লিট হইয়া যাইতো ।,2,Implicit Hateful,BenSarc,irony,non hateful 
+ফালতু বস্তা পচা কাহিনী,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+ছাগলের বাচ্চা বেয়াদব কোথাকার ‌ তরে জোতা পিটা দেওয়া হবে,1,Explicit Hateful,BD_SHS,none,abusive 
+মুখোশ লাগিয়ে কপালে লাল টিপ লাগানোর মানে কি ?,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+আপনাকে ফোলো না করলে এত গুরুত্বপূর্ণ নিউজ আমি জানতে পারতাম না  পরিমনি,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+মিথ্যা কথা । এই লোক মনে হয় সেরামের কাছ থেকে কিছু খাইছে ।,0,Not Hateful,BenSarc,none,non hateful 
+সময় টিভি চ্যানেলেকে,0,Not Hateful,BD_SHS,none,non hateful 
+নডি,1,Explicit Hateful,BD_SHS,none,offensive 
+সাকিব ভাই।কি কোন জেলখানের আসামি নাকি এই ভাবে ছবি তুলতে হয় সালার সাংবাদিক,1,Explicit Hateful,BD_SHS,none,offensive 
+সুন্দর কথা বলতে হলে শিক্ষার দরকার,0,Not Hateful,BD_SHS,none,non hateful 
+কাশ্মীর থেকে ভারতের সৈন্য পলায়ন ## কারন কি এই শিরোনামের পরিপ্রেক্ষিতে মন্তব্য কাশ্মীর থেকে ভারত কখনো সৈন্য সামন্ত হটায়নি হটায় ও যদি বাংলাদেশ ও পাকিস্তানের সৈন্য সামন্তের বিরাট ক্ষমতা দেখে ভয়ে পালাতে পারে কারন বাংলাদেশ ও পাকিস্তানের এটম বোম ও নিউক্লিয়ারের ক্ষমতা অনেক বেশী আর বাংলাদেশের এবং পাকের এর নিপূনতা এবং ক্ষমতা দেখে ভারতের সৈন্য ভীত সন্ত্রসত হয়ে কাশ্মীর থেকে পলায়ন করতে পারে ভারত ত বাংলাদেশের নাম স্মরন হতেই অজ্ঞান হয়ে পড়েন তায় ভারতের রাজধানী দিল্লি ও বাংলাদেশ কে দান করেই পাকিস্তান কে সন্তুষ্ঠ করে ঝামেলা থেকে মুক্তি পেতে চায় এখন বাংলাদেশের উচিত তে গিয়ে চেহারা দেখিয়ে দরবার চালানো কারন বাংলাদেশের চেহারা ও নাম শুনেই যেন ভারত সহ সমস্ত পৃথিবীর দেশ কাবু হয়ে ভারত পাকিস্তান কে বিনা শর্তে কাশ্মীরটা দান করে বা ফিরিয়ে দেয় বাংলাদেশের ভারতের সমান তায় বাংলাদেশের কথা শুনতে পৃথীবি বাসী আকাঙ্খীত,0,Not Hateful,BD_SHS,none,non hateful 
+উনার গান অনেক শুনেছি আর না,0,Not Hateful,BD_SHS,none,non hateful 
+আমরা চাই শাকিব অপু আবার এক হকোছেলে জয়ের জন্যআল্লা ভালবাসবেশাকিব খান আমাদের গব,0,Not Hateful,BD_SHS,none,non hateful 
+কুত্তার বাচ্চাকে সামনে পেলে আমি তার ঘার থরে ভেঙ্গে দিতাম কার পেট থেকে জন্ম হয়েছে তর সালা,1,Explicit Hateful,BD_SHS,none,abusive 
+নুইয়ে যাবে শরীরের দুইশো সাত নম্বর হাড় থমকে যাবে চিৎকার ! তবু ভাঙবে না কাকলি ফার্নিচার !,2,Implicit Hateful,BenSarc,humor,non hateful 
+জুতা মারতে ইচ্ছা করে,1,Explicit Hateful,BD_SHS,none,abusive 
+এই সাত সকাল বেলা চরকি পাক খায়তেছো ক্যা তুমি ?,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+আমাদের বোন নুরছাত কি কম কষ্টের মাঝে দুয়ার মায়া ছারচে��,0,Not Hateful,BD_SHS,none,non hateful 
+এরা অয় কি ভাবে জাজ সব কয়টা ছাগলের বাচ্ছা এর থেইক্কা জাজ।,1,Explicit Hateful,BIDWESH,none,offensive 
+মেয়েদের ছোট পোশাক বা অশ্লিল ছবি দিলে লাইক কমেন্ট বেশি পেতে পার কিন্তু ভাল মানুষের মন পাবে না । এগুলো থেকে বিরত থাকুন ।,0,Not Hateful,BenSarc,none,non hateful 
+আমরা সবাই এই কুকুর গুলোকে ফাসির রশীতে জুলানো দেখতে চাই।,1,Explicit Hateful,BD_SHS,none,abusive 
+এতগুলা মানুষ দাড়ানো কেউ এগিয়ে এলোনা নোংরা মিন্নি বারে বারে নয়নকে না ধরে রিফাতকে ধরলে সে হয়ত বেচে যেত,1,Explicit Hateful,BD_SHS,none,offensive 
+সাবাশ এবার সব মহাদেশগুলো দখল করে ফেল তো ভাই !,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+সাকিব ভাইয়ের বউ দেখলে বুজা যায় হোয়াইটওয়াশ এর রুপ কেমন সব ময়দা ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+তোরসাইজ কতো মাগীতুই খানকি,1,Explicit Hateful,BD_SHS,none,offensive 
+জম্মু কাশ্মীর কোন দেশের অধিনস্ত না আলাদা স্বাধীন রাষ্ট দেখতে চাই,0,Not Hateful,BD_SHS,none,non hateful 
+এরা মুসলিম নামে কলঙ্ক,1,Explicit Hateful,BD_SHS,none,hate speech 
+এই মুহূর্তে পৃথিবীর সবচেয়ে সুখী ব্যক্তি পরীমনির নিচে পরে থাকা নায়ক সাইমন সাদিক ।,2,Implicit Hateful,BenSarc,humor,non hateful 
+বউ অথবা এক্স গার্লফ্রেন্ড বললে খুশি হতো হা হা,2,Implicit Hateful,BenSarc,humor ,non hateful 
+চালের বস্তা উদ্ধার করতে গিয়ে আটার বস্তায় চাপা পরলো আবাল প্রেমিক,2,Implicit Hateful,BenSarc,humor ,non hateful 
+ভাই সকল হ্যাতেরে সকলে আনফলো করা শুরু করেন দেখবেন সব ঠিক হয়ে গেছে ! আমরাই পারি পরিবর্তন ঘটাতে ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+এই শালারে জেলে দেওয়া হওক,1,Explicit Hateful,BD_SHS,none,abusive 
+এটেনশন শিকার এখন আন্তর্জাতিক এটেনশন পাইছে ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+টিভি কে বলচি আপনাদের দালালির সময় সেস আর একটু বাকি আপনাদের জবাব দেওয়ার ৷৷৷ সালা দালাল সাংবাদিক,1,Explicit Hateful,BD_SHS,none,offensive 
+চিন্তার বিষয়,0,Not Hateful,BD_SHS,none,non hateful 
+বেজন্মাশুয়োরের বাচ্চা গলায় পারা দিয়ে মেরে ফেলা উচিৎ,1,Explicit Hateful,BD_SHS,none,abusive 
+তুই যা বলবি বল তুই ইসলাম কে ও আমার নবি কে নিয়ে কিছু বলিস না বেজম্মামাদারচোদ,1,Explicit Hateful,BD_SHS,none,abusive 
+মাদার চুদ মিডিয়া,1,Explicit Hateful,BD_SHS,none,offensive 
+ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন । আল্লাহ উনার শোকার্ত পরিবারকে এই শোক সইবার শক্তি দান করুন । আমিন ।,0,Not Hateful,BenSarc,none,non hateful 
+"সন্মানীয় জাফর স্যার,আমি অনেক চেষ্টা করেছি আর কমেন্ট না করতে,কিন্তু ব্যর্থ।আপনি যত বিষয়েই লিখুন ধর্ষণ নিয়ে আর লিখবেন না।একটি নয়,গত দশবছরে এই সরকারের অধীনে নারী শিশু এমনকি বৃদ্ধার উপর ধর্ষণ রেকর্ড ছাড়িয়েছে।পাচশ নয়,সঠিক উপাত্তে হাজারের কাছাকাছি---এই সরকারের উপাধি ধর্ষক সরকার। আপনি হয়ত পত্রিকা পড়েননি।তবে আবারো বলছি,যত প্রশংসা করার করেন কিন্তু ধর্ষণ নিয়ে নয়।তারচে এই ট্রপিকস এড়িয়ে যাবেন প্লিজজজ। নইলে সকল প্রকার রেসপেক্ট উইড্রো করব",0,Not Hateful,BD_SHS,none,non hateful 
+দেশের আইন ও বিচার বিভাগের স্বাধীনতার সাথে সাথে অপরাধ বিভাগও স্বাধীনতা অর্জন করেছে ! একটা সফলতা বটে !,2,Implicit Hateful,BenSarc,irony,non hateful 
+সাকিব খানের ছবি কেউ দেখভেনা,0,Not Hateful,BD_SHS,none,non hateful 
+আমি সেই দেশ কে সাপট করি যে দেশ ধর্ম নিয়ে রাজনীতি না করবে যে দেশ হিন্দু মুসলিম খিষ বৈদ সবাই কে ভালো বাস বে তাকেই সাপট করি সে যেই দেশ হক,0,Not Hateful,BD_SHS,none,non hateful 
+পরী আপা ওনাকে তো চট্রগ্রাম বাসী খুজতেছে উন্নয়ন খাওয়াবে,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+খুব খারাপ লাগে যখন দেশি খেলোয়াড়েরা ভালো খেলে দাম পায়না,0,Not Hateful,BD_SHS,none,non hateful 
+সুন্দরী মাগি,1,Explicit Hateful,BD_SHS,none,offensive 
+হে আল্লাহ নাস্তিকদের কে হেদায়েত দান করুন এরা হয় তো অনেকেই কাফের ইহুদি নচরাদের দালাল টাকার কাছে বিক্রি হয়েছে আল্লাহ এদের কে সঠিক জ্ঞান দান করুন আমিন !,1,Explicit Hateful,BD_SHS,none,hate speech 
+ঐ খান থেকে বিশাল বিশাল বাটপার জন্ম হয় ৷,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+মূর্খ নারী খালেদাজিয়া?,1,Explicit Hateful,BD_SHS,none,offensive 
+সাকিব বছের ফ্যোনরা লাইক দাও�আর পাপন দার পাছায় আগুন দেও কমেন্ট করে���,1,Explicit Hateful,BD_SHS,none,abusive 
+বাথরুমের জন্য কবে নিবন্ধনের আইন হবে ?,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+সরকারি মাল দরিয়ায় ঢাল,2,Implicit Hateful,BenSarc,irony,non hateful 
+খেলা না দেখলে কি হয় ভাই।এরা আবার খেলোয়াড় আফগানিস্তানের সাথে জিততে পারে না।বেশিরভাগ খেলোয়াড়দেরই ব্যবহার খারাপ,0,Not Hateful,BD_SHS,none,non hateful 
+রুবেল একটা কুত্তা। ওকে তো ভ্যান চালক হিসেবেও মানায় না। ওর গলায় জুতার ল মালা দেওয়া উচিত,1,Explicit Hateful,BD_SHS,none,abusive 
+সুন্দরবনের খাটি মধু বিক্রি করা হয় । কারো লাগলে ইনবক্স করেন ।,0,Not Hateful,BenSarc,none,non hateful 
+তোমার দুধ সাইজ আমেরিকা করছ ভাল এইটা বাংলাদেশ এই সব দরকার নাই,1,Explicit Hateful,BD_SHS,none,offensive 
+���� ��,0,Not Hateful,BD_SHS,none,non hateful 
+রানু দিদির মেয়েকে বাথরুমের চেম্বারে ঢুকিয়ে দেন কে আছেন লাইক দিন,1,Explicit Hateful,BD_SHS,none,offensive 
+জাকির নায়েক কখনোই হুমকির কারণ হতে পারে না শান্তির ইসলাম ধর্মের নায়ক হল জাকির নায়েক,0,Not Hateful,BD_SHS,none,non hateful 
+আমি ঠিকই বাড়ি চলে আসলাম ঢাকা টু কুষ্টিয়া কঠোর লকডাউন হা হা হা।,2,Implicit Hateful,BenSarc,irony,non hateful 
+শাউয়ার নায়ক,1,Explicit Hateful,BD_SHS,none,offensive 
+আফগানিস্তান এর সাথে সিরিজটা জিতে আমাদের কে ও একটু ঈদ উপহারটা দাও আর এটাই হবে আমাদের সেরা উপহার ।,0,Not Hateful,BenSarc,none,non hateful 
+নিছতালা ভারাদিয়ে দিবে মন্তি,0,Not Hateful,BD_SHS,none,non hateful 
+আর কিছুক্ষণের মধ্যেই আমাদের মাঝে এসে উপস্থিত হবেন কিছু অতি উচ্চশিক্ষিত অতিভদ্র সভ্য আর শালীন ব্যাক্তিগণ ! আসামাত্রই তারা তল্লাশি চালাবেন কে কতো ইঞ্চি হিল পরেছে কার দাঁত বাঁকা কার চাপাভাঙ্গা এসব নিয়ে বিশাল বিশাল ভাষণ দিতে তাদেরকে ঝেটিয়ে জলসার পেজ থেকে বিদায় করতে জলসা কর্তৃপক্ষের নিকট একান্ত অনুরোধ রইলো,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+শাহরিয়ার কবির খানিক পোলা নাস্তিক কাফের,1,Explicit Hateful,BD_SHS,none,hate speech 
+ভাই তুমি এগিয়ে চলো আমরা সাথে আছি �️ ইনশাআল্লাহ। জীবন দেওয়ার জন্য প্রস্তুত আছি ইনশাআল্লাহ,0,Not Hateful,BD_SHS,none,non hateful 
+ঠিক আছে কাকু আর কিছু বলবেন ?,0,Not Hateful,BenSarc,none,non hateful 
+খবর না পারলে ইউটিবে কেনো আসেছেন,0,Not Hateful,BD_SHS,none,non hateful 
+উপযুক্ত শাস্তি চাই কুকুর টার,1,Explicit Hateful,BD_SHS,none,abusive 
+মোদি ফ্যাসিবাদী,0,Not Hateful,BD_SHS,none,non hateful 
+বাহিরে চলাফেরা করার পরও যদি মানুষের করোনা না হয় সেখানে মানুষরা সফল সরকার কি করেছে ?,2,Implicit Hateful,BenSarc,irony,non hateful 
+ভুল শিকার করছেন তাও সালার কুতার বাচ্চারা মানে না ।।।নেশা খোর ।। নেশা খোর দের এই কাজ ।।।।��������,1,Explicit Hateful,BD_SHS,none,abusive 
+"বাস্তবের সাথে মিল আছে,,আসলে এ ধরনের মহিলারা পতিতাদের চেয়ে খারাপ,,পতিতারা তো কোন না কোন সমস্যার কারনে পতিতা হয়,,আর এই সব মহিলারা নিজের ইচ্ছায় চরিত্র খারাপ করে,,এই ধরনের বউ নিয়ে জিবনেও সুখী হওয়া যায় না",1,Explicit Hateful,BD_SHS,none,offensive 
+সালা তুই হলে কেয়ামতের আলামত। শিশু বক্তা কেয়ামতের আলামত। তুই আরেক জনের গিবত করছ তকে আল্লাহ ছাড় দিবেন না,1,Explicit Hateful,BD_SHS,none,abusive 
+আপু তুমাকে অনেক সুন্দর লাকছে,0,Not Hateful,BD_SHS,none,non hateful 
+বস্তুবাদ সভ্যতায় আজ এই পারিবারিক বন্ধন তলানিতে । তাই তো কোন বিপদ আসলে কেউ কাউকে পাশে পায় না সামান্য স্বার্থের জন্য দা কুমড়া সম্পর্ক । তাই দিন দিন মানসিক শান্তি হারিয়ে যাচ্ছে ।,0,Not Hateful,BenSarc,none,non hateful 
+#তুই_রাজাকার।☺,1,Explicit Hateful,BD_SHS,none ,hate speech 
+আমাদের খুলনা সিটি মেডিকেলেও এমআরআই আছে সোনা আমি করাইছি তুমি কষ্ট করে কোলকাতায় গেছো ক্যান বাল পালাইতে,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+মোটেলে আমরা যাই না,0,Not Hateful,BenSarc,none,non hateful 
+বোঝা গেল দুনিয়ার যত অপকর্ম আছে সবগুলো করেও বিশ্বসেরা হওয়া যায় এবং ভবিষ্যতে পরীমনি নোবেল পুরস্কার পেতে পারে।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+আলহামদুলিল্লাহ শুভ রাত্রি,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+তোদের দেশ থেকে বাহির করে দেওয়া উচিত। তোরা মুসলিম সমাজের যোগ্য না। তোরা ইউরোপের কোন দেশে চলে যা সেখানে সামনের দুইটা খোলে হাটতে পারবি। তখন তাদের দেশের কুত্তায় তোদের দুধের প্রশংসা করবে।,1,Explicit Hateful,BD_SHS,none,hate speech 
+মাস্ক কই দাদা ?,0,Not Hateful,BenSarc,none,non hateful 
+শাকিব খান আবার অপু বিশ্বাস কে নিয়ে সংসার করা উচিত জয়ের জন্যে,0,Not Hateful,BD_SHS,none,non hateful 
+পাপইন্না খাংকির পুলা বাইঞ্চোদ কয়েকটা খেলোয়ারের জীবন নস্ট হরছে।,1,Explicit Hateful,BIDWESH,none,abusive 
+যাদের আত্মত্যাগের বিনিময়ে অর্জিত বিজয় তাদের প্রতি বিনম্র শ্রদ্ধা । আমরা কখনো তাদেরকে ভুলবোনা ।,0,Not Hateful,BenSarc,none,non hateful 
+শুধু চোখ কেনো নাক কান হাত পা দরকার হলে গোটা বডি ফেলে রেখে দিচ্ছি ।,2,Implicit Hateful,BenSarc,humor ,non hateful 
+ছিলা মুরগী বাচ্চা বাচ্চা লাগে কচি।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+বুঝছি ! এবার বাচ্চা কাচ্চা উৎপাদনে যেতে হবে ।,2,Implicit Hateful,BenSarc,humor ,non hateful 
+ভন্ড স্যার কোটা আন্দোলন নিরাপদ সড়ক আন্দোলন এর সময় কোম্মে আলহে আমনহে।,0,Not Hateful,BIDWESH,none,non hateful 
+দেশি ভাবি রা গুদের জালা মিটাতে,1,Explicit Hateful,BD_SHS,none,offensive 
+অনেকেই বলতেছেন পরিমনি রাতে যায় কেন পার্টিতে আমি বলি জ্বীন পরিরা ত রাতেই স্বাধীন,2,Implicit Hateful,BenSarc,humor ,non hateful 
+ভাই জিহাদি হুজুর হক্ব পন্থি হুজুর উনাকে নিয়ে এইটা করা ঠিক হয়নি। আশা করি ঐ ভিডিও টা ডিলিট করে দিবেন। আর ঐ বিষয়ে আর ভিডিও চাচ্ছি না,0,Not Hateful,BD_SHS,none,non hateful 
+চিস্টি ওয়াজ চ্যানেলটা যারা চালায় ঐ শালারাই তো ভন্ড কি ডাল দেয় একটা আর বক্তব্য দেয় আরেকটা,1,Explicit Hateful,BD_SHS,none,offensive 
+টাকা যদি হাতের ময়লাই হয় তাইলে হাত পরিষ্কার থাকলে কেউ দাম দেয় না কেন ?,2,Implicit Hateful,BenSarc,irony ,non hateful 
+আহারে আমরা একটা জোকার হারাবো,0,Not Hateful,BD_SHS,none,non hateful 
+কালকে আপনাদের এমন একটা জয় চাই ।,0,Not Hateful,BenSarc,none,non hateful 
+সেদিনের গরুর সাথে সেলফি তুলা সেই পরিমণি নাকি বিশ্বসুন্দরী মার মুজে মার।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+তোর দরকার আমাকে বলতে আমি লাগাতাম,0,Not Hateful,BD_SHS,none,non hateful 
+তোর মায়ের ভোদা দিয়া কি তুই জন্ম হয়েছোচ না পুটকি দিয়া তোর মা বোনরে কুত্তা দিয়া চোদাই খানকির পুত তুই সব সময় এমন উল্টা পাল্টা জিনিস ছারোছ তো কি জিব্বায় তোর মায়ের মাসিক লাগাইছোচ নাকি কুত্তার চোদায় জন্ম তোর জিব্বা বড় এমন লেহাইয়া লেহাইয়া জিব্বায় বাজাইয়া কথা চোদাছ কেনো,1,Explicit Hateful,BD_SHS,none,abusive 
+মাগার এইডা দেহার বাদ ছিল ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+এসবই তো চলছে বাংলাদেশে সাথে না গেলে হয় তো ওই মাইয়ার চাকরিই থাকতো না,0,Not Hateful,BD_SHS,none,non hateful 
+ভন্ড পীর জুতা মারা হোক,1,Explicit Hateful,BD_SHS,none,abusive 
+আমি প্রথম থেকেই জানতাম ঘটনার মুল হোতা মিন্নি মাগি অন্যের চুদা খাওয়ার জন্য রিফাতকে হত্যা করায় মিন্নি রিমান্ডে নিয়ে গিয়ে মিন্নির হেডা দিয়ে বড় বড় লোহার রট সিদ্ধ ডিম ঢুকালে সব বের হয়ে আসবে,1,Explicit Hateful,BD_SHS,none,offensive 
+রুটি বানানোর ইবা কি দরকার ব্রো? প্রথমে আটা খাবেন তরপর পানি ব্যাস কাজ শেষ,2,Implicit Hateful,BenSarc,humor ,non hateful 
+মামুলি দলের কাছে হেরে গেল বাংলাদেশ ছি ছি |,0,Not Hateful,BenSarc,none,non hateful 
+এরা টাইটেল দেয় কি আর দেখায় কি ফালতু যত্ত সব,0,Not Hateful,BD_SHS,none,non hateful 
+অনেক কিছুই বলতে ইচ্ছে করছে কিন্তু ফ্রেন্ড লিস্ট এর সবাই দেখে নিবে । তাই চাইনিজ ভাষায় লিখলাম ।,2,Implicit Hateful,BenSarc,humor,non hateful 
+তোমরা যারা কাপল পিক আপলোড দিয়ে ক্যাপশন দেও মাহ লাইফ মাহ অক্সিজেন তোমরা কি মনে করো আমরা নাইট্রোজেন গ্যাস নিয়ে বেঁচে আছি ?,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+আরে আমি ভাবি আমার ছেলেই বুঝিএইরকম করে,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+বোকাচোদা ম,1,Explicit Hateful,BD_SHS,none,offensive 
+হিন্দুদের মা হল গাই বাবা হল বলদ তাই আসল বাবা মাকে চিনেনা যত দিন গাইকে মা বলা বন্দ না হবে ততদিন এর মা বাবা চিনবে না এই কুওাকে পিটিয়ে পঙ্ঘু করে দেয়া উচিত,1,Explicit Hateful,BD_SHS,none,hate speech 
+কতই রঙ্গ দেখি দুনিয়ায় ও ভাইরে ও ভাই কতই রঙ্গ দেখি দুনিয়ায়,2,Implicit Hateful,BenSarc,irony,non hateful 
+চেটের নিউজ বানাও ভিডিও কি ভয়েজ কি বালের চ্যানেল,0,Not Hateful,BD_SHS,none,non hateful 
+এখানে দেখে মুগ্ধ হবার মত আছে অনেক কিছুই ।,0,Not Hateful,BenSarc,none,non hateful 
+চারজন,0,Not Hateful,BD_SHS,none,non hateful 
+মুহসিন হল মনে হচ্ছে জুতা লুঙ্গি আন্ডারপ্যান্ট ও রক্ষা পাচ্ছে নাহ ইদানীং,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+ছেলেটাকে শাড়ি পরানো হয়ছে আর মেয়েটাকে উচিৎ লুঙ্গি আর সাদা গেঞ্জি পরানো তাহলেই সমান অধিকার নিশ্চিত হবে,2,Implicit Hateful,BanglaSarc3,irony,non hateful 
+কেমনে পারেন ভাই ? এত তারাতারি পলটি  নিতে । দুই দিন আগেই ত বললেন বাংলালিংক এক নাম্বার নেটওয়ার্ক ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+চাচা বাড়িঘরে এত আ গুন কেন আর অভিনেত্রী শাওন কোথায়,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+আল্লাহু আকবার। আল্লাহর সৃষ্টি নিয়ে যত গবেষণা মূলক ভিডিও তত্ত্ব ও ব্যক্তিগত ভাবে নিজে যতই চিন্তা করি মনের অজান্তেই সেই মহান সত্তা আল্লাহ তাআলার কাছে নিজের মাথা ঝুকে যায়। মহান রবকে লক্ষ কোটি সুজুদ ও শুকুর।,0,Not Hateful,ALERT,none,non hateful 
+সত্যের পথে থাকলে ভাই কিছু বৃথা দিতে হয়।এগিয়া যান ভাই দোয়া রইল।,0,Not Hateful,BD_SHS,none,non hateful 
+এগুলো সব ইহুদীদের দালাল ইবলিস,1,Explicit Hateful,BD_SHS,none,hate speech 
+মাদারচোদেরে ও তার ছেলে মারবে মাদার চোদ তারে পাইলে ক্ষুন করে জেলে থাকতাম সারাজিবন দোস তারচেয়ে তার বউয়ের বেশিমাগিকে দরে চোদলে ঠিক হয়ে যাবে,1,Explicit Hateful,BD_SHS,none,offensive 
+ছোট থেকেই আমার স্বপ্ন আমি তিতুমীর বিশ্ববিদ্যালয় এ পড়বো কারন তিতুমীর বিশ্ববিদ্যালয়ের ফ্যাকালিটি দেশ সেরা আর শিক্ষার্থী বড় ভাইয়েরা অক্সফোর্ড এর চেয়ে বেশি জ্ঞানী আগামী ১ লা ফেব্রুয়ারি তিতুমীর বিশ্ববিদ্যালয়ে ঘুরতে যাব আমি প্রবেশ করতে পারবো,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+অপু আপু তুমি সাকিব সাতে চবি কর ভালা লাগবে,0,Not Hateful,BD_SHS,none,non hateful 
+সানাই কে থাইল্যান্ড পাঠিয়ে দেন,0,Not Hateful,BD_SHS,none,non hateful 
+দু দু বার করে দেখলাম,0,Not Hateful,BD_SHS,none,non hateful 
+বাংলাদেশ সব কিছু চলছে,0,Not Hateful,BD_SHS,none,non hateful 
+সালা বদমাইশ,1,Explicit Hateful,BD_SHS,none,offensive 
+বিবাহ করতে ইচ্ছুক নই,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+নুসরাত ফারিয়া অভিনয় আমার কাছে অনেক ভালো লাগে অসাধারণ,0,Not Hateful,BD_SHS,none,non hateful 
+উপু উকিল তুই,0,Not Hateful,BD_SHS,none,non hateful 
+দুধ গুলা দেখতে খুর ইচ্ছা করতেছেতুমি ভিডিও বানান,1,Explicit Hateful,BD_SHS,none,offensive 
+এই মাদার সুদ পাপনের চরবি হয়েছে টিকেট কে কেলবে তুর বাবারা কেলবে শাকিব কি তর ভাত খায় মাদার সুদেরা দেশটাকে নষ্ট করে দিয়ে চে পাপন শালা মুখে জুতা মারতে ইচ্ছে করছে,1,Explicit Hateful,BD_SHS,none,abusive 
+দোয়া করি চার হাত যেনো আবার এক হয়ে যায়,0,Not Hateful,BD_SHS,none,non hateful 
+প্রভু ভারতের মানুষকে বাঁচিয়ে দিন ধর্ম সহিংস মোদিকে ধ্বংস করুন ।,0,Not Hateful,BenSarc,none,non hateful 
+আপনাদের থেকে কি মাসিক কিস্তিতে পাঞ্জাবি কেনার কোনো সিস্টেম আছে ? তাহলে তিন বছরের মাসিক কিস্তিতে একটা কেনার দু সাহস করতাম আর কি ।,2,Implicit Hateful,BenSarc,humor ,non hateful 
+ইয়ট লয়া ঘুরতাছেন এতো ট্যাকা কেমনে কামাইলেন আপা? ব্যাপক বানিজ্য সফল কোন মুভিও তো দেখলাম না নাই তেমন টিভিসি ! কেমনে কী ?,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+লেড়কা কিয়া কামাল রে কি আখিউ সে গুলি মারে ডিসকিয়া আ আ আ ।,2,Implicit Hateful,BenSarc,humor,non hateful 
+আর্যভট্ট আজ বেচে থাকলে কে শূন্য নাম না দিয়ে শান্ত নামেই ডাকতেন।,2,Implicit Hateful,BenSarc,humor,non hateful 
+ফামিূদা মিথ্যা খবর বন্ধ কর না হলে তোমার মা কে তো করবো সাতে তোমারে ও চোদবো মাগি একটা,1,Explicit Hateful,BD_SHS,none,abusive 
+তুই হাফিজুর রহমান সিদ্দিকিরে বলস খোদা দাবি করছে তুই সালা দুনিয়ার খারাপ,1,Explicit Hateful,BD_SHS,none,offensive 
+তুই হার পকেট মারি গেঁইয়ুস যে,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+কনো কথা নেই রহিঙা মুক্ত বাংলাদেশ চাই,0,Not Hateful,BD_SHS,none,non hateful 
+আপনি পাঁচ ম্যাচ খেলে যত রান করছেন আজ আমি ছয় ওভারের এক ম্যাচ খেলে তার থেকে বেশি রান করছি ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+মিডিয়া জগতের মহিলারা এমনই হয়,0,Not Hateful,BD_SHS,none,non hateful 
+উরতে পারো না কচুর পরি তুমি।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+সৌদি বাদশার পক্ষ থেকে অনেক অনেক অভিনন্দন ।,0,Not Hateful,BenSarc,none,non hateful 
+চোলচিত জোগত একটা ভাল মোওদ নিএ একটা পোঠিঠান,0,Not Hateful,BD_SHS,none,non hateful 
+বাপের বেটা হলে বাংলাদেশ আয় শেখ হাসিনা কি তোরে দেখা দিবানি কুত্তার বাচ্চা,1,Explicit Hateful,BD_SHS,none,abusive
+তয় কি বাল হালাইতে এই শো হরছেন।,0,Not Hateful,BIDWESH,none,non hateful 
+শয়তান এখন আর শয়তানি করে না । শয়তান এখন সরকারের শয়তানি দেখে আফসোস করে বলে আহারে আমার থেকে বড় শয়তান তো দুনিয়াতে আছে ।,2,Implicit Hateful,BenSarc,irony,non hateful 
+এই জালেবি গুলা যাদুঘরে সংরক্ষণ করে রাখা দরকার,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+সালা হারামির বাচ্চা তুই উজানির ময়দান ঝাড়ু দেয়ার জগ্যতাও তর হয় নাই ছাগল,1,Explicit Hateful,BD_SHS,none,abusive 
+পৃথিবীতে উনি ই একমাত্র মা হইছেন আর কেউ হয়নি আজ অবদি ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+ফুসপাদ ফারিয়া,1,Explicit Hateful,BD_SHS,none,offensive 
+ঈ ভভ ম,0,Not Hateful,BD_SHS,none,non hateful 
+আপনাদের বাবা দাদা চৌদ্দ গোষ্ঠী কমেন্ট করে নাই,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+দুধ দেইখ্যা মাথা নস্ট মেয়ে জাতির কলংক।,1,Explicit Hateful,BIDWESH,none ,offensive 
+সবাই ধাঁধায় স্যাড রিয়েক্ট দিচ্ছে ।,0,Not Hateful,BenSarc,none,non hateful 
+"আমি < ="": ?_=%%%%"">#ন ুসরাত ফারিয়ার ফ্যান�❤❤❤",0,Not Hateful,BD_SHS,none,non hateful 
+ক্যাচ মিস না দিলে দামাল ছেলেদের পেটের ভাত হজম হবে কি করে,2,Implicit Hateful,BenSarc,irony,non hateful 
+খানিক মাগি চুদা দিছো পুরুশের সাথে তুমার ইচ্চে হইছে ভালো কথা কিন্তু হিন্দু কেন হইলি ভুসকি মাগি,1,Explicit Hateful,BD_SHS,none,hate speech 
+পীরবাবার সাতটা সার্জারি না হলে পীরবাবা পঞ্চাশ বার পাঁচ উইকেট নিতেন,2,Implicit Hateful,BenSarc,humor,non hateful 
+এর বৌউর কথায় মনে হয় মারছে হের বৌউরে সবাই মার,1,Explicit Hateful,BD_SHS,none,abusive 
+শেষ মুহুর্তের গোলে স্বস্তি ফিরে পেয়েছে,0,Not Hateful,BenSarc,none,non hateful 
+সরকার মানুস না আল্লাহ তার বিচার করবেন,0,Not Hateful,BD_SHS,none,non hateful 
+কোনো এক কনডম দূর্ঘটনায় এসব ব্যস্যাদের জন্ম হয়েছিল,2,Implicit Hateful,BenSarc,humor ,non hateful 
+এই শিখখকক একটা শুওর এদের মেরে ফেলা উচিত,1,Explicit Hateful,BD_SHS,none,abusive 
+ম্যাগী ভুল খবর দিস কেন তোর গার মারবো,1,Explicit Hateful,BD_SHS,none,abusive 
+বরং নেশা দ্রব্যের সাথে পানীয় খাইছে তাই খেলাধুলা করে বেশি মজা না পেয়ে অভিযোগ করছে আহ্ মানভোতা কৈ থাকে,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+আপনি না নাচলে আমাদের কি ? এমনিও আপনি বুড়া হয়ে গেছেন,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+ধীরে ধীরে পরনির্ভরশীল জাতিতে এক কথায় বাদাইম্মা জাতিতে পরিণত হয়েছি ।,2,Implicit Hateful,BenSarc,irony ,non hateful 
+পাত্তা না দেওয়ায় ভালা । পাছে লোকে কত কি বলে । তুমি চালাইয়া যাও । খেলে যাও টাকা নাও,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+শিক্ষকের সন্তানের একটা বাড়তি চাপ যদিও ভালো৷,0,Not Hateful,BenSarc,none,non hateful 
+আমাদের অধিনায়ক সাহেবে মাতাল হয়ে গেছে । উনি টচ জিতে কেন বার বার ব্যাটিং নিচ্ছেন ?,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+আজ মানবতা কলা মুখে দিয়ে বসে আছে ।,2,Implicit Hateful,BenSarc,metaphor ,non hateful 
+ভারত সরকার চুর সালারা হারামি,1,Explicit Hateful,BD_SHS,none,hate speech 
+এতদিন পরে ক্ষমতা পেয়েছে বাহাদুরি করবেই,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+একটা কাজের কাজ । বাকি তিনটারে ধরে গনভবনে আটকে রাখা হোক । জীবনেও পালাতে পারবেনা,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+ভাগ্য ভালো তোর গুদে পা ভরে নি বাবাচুদি রেন্ডিমাগী রেন্ডিমাগী তোর সামনে তোর শ্বশুর মানে তোর বাবা তু দাঁড়িয়ে দাঁড়িয়ে মজা দেখছিস আর এখন তো বলছি যে আমাকে ধাক্কা মেরে ফেলে দিল খানকির রেন্ডি আমি যদি ওই জায়গায় থাকতাম তাহলে সবার সামনে তোর কাপড় খুলে তাকে চুদতাম আমি,1,Explicit Hateful,BD_SHS,none ,offensive 
+যাক বাবা নিশ্চিন্ত হলাম করোনার ওষুধ আবিস্কার করে তবেই জবা রানী বিদায় নেবে,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+শিক্ষাজীবন থেকে বের হয়ে চাকুরির প্রায় সব সেক্টরে এই দক্ষতাটি দারুণ কাজে দেবে,0,Not Hateful,BenSarc,none,non hateful 
+মুখে পান নিয়ে মেট্রোরেলে উঠা নিষেধ করতে হবে।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+তুই ফাজিল।,0,Not Hateful,BIDWESH,none,non hateful 
+বউয়ের অত্যাচারে বেচারা বিশ্বের এক নাম্বার ধনী থেকে চার নাম্বারে চলে গেছে । আশা করি তিনি আবার তার আগের জায়গায় ফিরে যাবেন ।,2,Implicit Hateful,BenSarc,humor ,non hateful 
+এটাকে চুলকানি বলে যতই চুলকাবা ততই মজা পাবা । এই চুলকানির শেষ নাই ।,2,Implicit Hateful,BenSarc,sarcasm ,non hateful 
+এই রকম সাইজের জিনিসই তার পছন্দ,2,Implicit Hateful,BanglaSarc3,sarcasm ,non hateful 
+পঞ্চাশ হাজার কিমি এ অংশ নিয়েছেন ট্রিবিউট করেছেন পঞ্চাশ হাজার কিমি মিশনে স্বাধীনতার পঞ্চাশ বছরের পূর্তিতে ।,0,Not Hateful,BenSarc,none,non hateful 
+ভালো কেউ আইন নিজের হাতে না তুলে নিলে জিতবে কেমনে?,0,Not Hateful,BenSarc,none,non hateful 
+খাম্বা ওয়ালা তারেক সাহেবের মুখস্থ কথা বাদ দেন এখন একটু দেশের মানুষের কথা ভাবেন ।,2,Implicit Hateful,BenSarc,humor,offensive
+বাবা সাকিবকে না পেয়েও আবরাহাম জনমো দীন করলোকেন,0,Not Hateful,BD_SHS,none,non_hateful
+বানচোদ দল গো বিচারক বানাইসে কে গাজা খোর একেকটা শোতে গাজা খায়।,1,Explicit Hateful,BIDWESH,none,abusive
+বাইন চুদ শালা,1,Explicit Hateful,BD_SHS,none,abusive
+সময় টিভির এলিয়েন গুলোকেও সাথে করে নিয়ে গেলে ভালো হতো আমরাও সরাসরি লাইভে দেখতে পেতাম কিভাবে হেলিকপ্টার উড়ে,2,Implicit Hateful,BenSarc,humor,non_hateful
+মানুষ ভুলে যায় তারা একদিন বুড়ো হবেতাদের সাথেও এরকম হতে পারেকুলাঙ্গার এর সাথে ওর বউ কেও ধরা উচিত ছিলকারন ওটাকে মদত দাতা বলা যেতে পারে,1,Explicit Hateful,BD_SHS,none,abusive
+মামা ব্রাজিল সাপোর্টারদের জন্য ভাড়া ডাবল তাদের বলে দিও । এরা এখন কাইন্দা কুল পাইব না ।,2,Implicit Hateful,BenSarc,humor,non_hateful
+"কিছু বলার চেয়ে কেঁদে একটু যদি স্বস্তি পাই তাই আজ থাক,হিহি ।",2,Implicit Hateful,BenSarc,humor,non_hateful
+জাকির নায়েক সন্রাসী লিডার,0,Not Hateful,BD_SHS,none,offensive
+খুভভালহয়েছে,0,Not Hateful,BD_SHS,none,non_hateful
+নায়ক রাজ অলওয়েজ ষ্টার,0,Not Hateful,BenSarc,none,non_hateful
+রুবেল বাইনচোদ নাকি নায়ক!যত অসুস্থ ধারার গান আছে সবগুলো সে করেছে।,1,Explicit Hateful,BD_SHS,none,abusive
+জবা এতো কিছু করতে পারে কিন্তু অফু ভাইরে ফিরিয়ে আনতে পারে না ক্যান।,2,Implicit Hateful,BenSarc,humor,non_hateful
+ত্রিদেশীয় লর্ড টূর্নামেন্ট হয়ে যাক,0,Not Hateful,BenSarc,none,non_hateful
+ও পাগলিই আছে,1,Explicit Hateful,BD_SHS,none,abusive
+শেষ অবধি ঘাড় দেওয়া সিরিয়াল এখানে আকাশ নীলের হিরো কি আরও একবার ঘাড় ধাক্কা খেতে আসছে যে ফ্যানরা জলুকে বয়কট করেছিল তারা কি আবার জলুর পা চাটতে চলেছে,2,Implicit Hateful,BenSarc,none,non_hateful
+এই রমজান উপলক্ষ্যে যদি আপনার ভূড়িটা একটু কমে ।,2,Implicit Hateful,BenSarc,humor,abusive
+আল্লাহ যত দিন মা বাবা বেচে থাকবেততদিন যেন মা বাবা সেবা করতে পারিএটা দেখে চোখে পানি আসলআল্লাহ তুমি তার বিচার কর,0,Not Hateful,BD_SHS,none,non_hateful
+একমাত্র গো মুত্রই সাস্থ্যকর রামদেব ।,2,Implicit Hateful,BenSarc,humor,offensive
+এ ই বয়সে আপনারা পারলে আমরা ও অনুপ্রাণিত হয়ে থাকি ।,0,Not Hateful,BenSarc,none,non_hateful
+উনি কোন বক্তা নাকি তারে জুতা দিয়া পিডা,1,Explicit Hateful,BD_SHS,none,abusive
+ইসলামের আইনের আওতায় যদি এনে প্রথমে তাকে বিচার করা হতো। তার হাত কেটে ফেলত তাহলে সে আজকে এই হাত দিয়ে অন্য আরেক জনকে কুপিয়ে হত্যা করতে পারত না। দোষটা আসলে আমাদের আমরা ইসলামের আইন মানতে চাই না আবার সঠিক ন্যায়বিচার চাই। কুরআনের আইন বাদ দিয়ে মানুষ পরিচালিত আইন দিয়ে সঠিক বিচার পাবেন?,1,Explicit Hateful,BD_SHS,none,abusive
+এমেটা অনেকদিন ধরেএত খারাপ ভিডিও প্রচারকে কারনজরেপরেনা,0,Not Hateful,BD_SHS,none,not_hateful
+হ্যাঁ সেরা সত্য কথাগুলো তুলে ধরার জন্য তোমাকে অনেক ভালোবাসি ভাই��,0,Not Hateful,BD_SHS,none,not_hateful
+নুনু বেলের বিচিতে টোকা দিতে এতো টাইম লাগে কেন ?,2,Implicit Hateful,BenSarc,humor,abusive
+আপনার গুলোত অনেক চোট চোট ভাইকে দিয়ে বডো করে সারজারি করে নেন মাগি কোথা কার,1,Explicit Hateful,BD_SHS,none,abusive
+"মাদার চোদরে দেখলে জুতা দিয়ে পিটাতে মন চায়,,,যেমন বাপ তেমন ছেলে,,,খানকির ছেলে নায়ক চোদাইছে",1,Explicit Hateful,BD_SHS,none,abusive
+বিড়ি কিনতে যাচ্ছিলাম ভিডিওটা দেখার পর এখন গাজাঁ কিনতে যাচ্ছি সবাই দোয়া করবেন যেন সুস্থ থাকি,2,Implicit Hateful,BanglaSarc3,humor,non_hateful
+বিএনপি ক্ষমতায় এলে সাধারণ জনগণ স্বাধীনতা ভোগ করবে,2,Implicit Hateful,BanglaSarc3,none,non_hateful
+এবার একটু ভারতের দিকে নজর দাও ।,0,Not Hateful,BenSarc,none,non_hateful
+বিচারকে মা বোনে চুদি আই,1,Explicit Hateful,BD_SHS,none,abusive
+আমরাও চাই যে ওরা মিলে থাক,0,Not Hateful,BD_SHS,none,non_hateful
+এই মাগীর বিচার চাই খানকি ইবলিশ,1,Explicit Hateful,BD_SHS,none,non_hateful
+আফিফরাইতো আমাদের আগামীদিনের সাকিব তামিম ।,0,Not Hateful,BenSarc,none,non_hateful
+আমি বসুন্ধরা টয়লেট টিস্যু দেখিনি শাওনের কোমল টিস্যু দেখেছি,2,Implicit Hateful,BanglaSarc3,humor,abusive
+চুদির পোর প্রকাশ্যে পাসি দে,1,Explicit Hateful,BD_SHS,none,abusive
+আমার মায়ের গল্প,2,Implicit Hateful,BanglaSarc3,none,non_hateful
+কাওয় কাদের মরলে কুততা যবে করে জানোয়ার দের খাওয়ানো হবে কেন না কাদের একজন সন্ত্রাসী স্বৈরাচার জানোয়ার,1,Explicit Hateful,BD_SHS,none,abusive
+প্যান্ট এর অভাব রে ? আমায় বলতি আমার ডি দিয়া দিতাম,2,Implicit Hateful,BenSarc,humor,non_hateful
+এমন কুত্তা বেঁচে আছে কি ভাবেলজ্জা হওয়া উচিত,1,Explicit Hateful,BD_SHS,none,abusive
+আমার চ্যানেলটি নতুন প্লিজ সাবস্ক্রাইব করে পাশে থাকুন,0,Not Hateful,BD_SHS,none,non_hateful
+ক্রিস্টোফার নোলানকে ওপেন চ্যালেঞ্জ একই মুভি সেও বানাবে আমিও বানাবো ।,0,Not Hateful,BenSarc,sarcasm,non_hateful
+কিছু বন্দী কে মুক্তি দেওয়া হোক,2,Implicit Hateful,BanglaSarc3,none,non_hateful
+দিঠি আর ডিংকার তো ইদুরের মত দাঁত আছে । ওরা জাল কাটুক,2,Implicit Hateful,BenSarc,irony,non_hateful
+ছোট্ট বেলায় কত কষ্ট করে মাতৃভাষার সব ধরনের গালি শিখছিলাম । কিন্তু চর্চা করার অভাবে অধিকাংশ গালিই ভুলে যেতে বসেছি । কিন্তু মাঝে মাঝে এই সালার কথা শুনলে মন চায় গালি গুলা পুনরায় চর্চা করি ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+চুদ মারানির ছেলে,1,Explicit Hateful,BD_SHS,none,abusive
+পাপনের মারে কুত্তা দিয়া ছুদাইমু,1,Explicit Hateful,BD_SHS,none,abusive
+ভাই এই কুত্তার বাচ্চাদের জন্য তোর খারাপ লাগতাছে।তোর বোনের সাথে যদি করতো তাহলে নিচ্চোই তোর কাছে খারাপ লাগতো না। তাই না ভাই কিছু মনে করিস না তুই বল্লাম,1,Explicit Hateful,BD_SHS,none,abusive
+ঈদে বা পরদিন বাইর হবি ? একদিনের ট্যুর দেব তাইলে,0,Not Hateful,BenSarc,none,non_hateful
+সবকিছুতে বিসিএস টেনে এনে ট্রল করা মানসিক অসুস্থতার লক্ষণ । কারও বাচ্চা না হলেও সামনে বিসিএস এর দোষ দিবেন আপনারা ।,0,Not Hateful,BenSarc,none,non_hateful
+শাকিবের পাশেপাশে বাপ্পি নায়ক আর নায়িকা অপু কে দেখতে চাই,0,Not Hateful,BD_SHS,none,non_hateful
+ডিম থেরাপি সবার সেরা থেরাপি তা আবার প্রমানিত । কী সুন্দর বাকবাকুম পায়রা হয়ে গেছে !,2,Implicit Hateful,BenSarc,sarcasm,offensive
+ছাব্বির কাকু আসলেই একটা অরিজিনাল বেয়াদব ওকে তো কম হলে ও ১০ বৎসর নিশিদ্ধ করা উচিৎ ছিল সালা বেয়াদব,1,Explicit Hateful,BD_SHS,none,abusive
+প্রশ্ন ফাঁস ঠেকানো না গেলে এ পদ্ধতিতে কি লাভ হবে??,0,Not Hateful,BD_SHS,none,non_hateful
+পাশের লোকটাকে দেখে এলন মাস্ক ভাবা আমার মন হালা হাম্বাদিক ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+আজ সাকিব কলকাতাকে ভাল একটা মেচ উপহার দিব,0,Not Hateful,BenSarc,none,non_hateful
+শালা ঢেমনা ছেলে তোকে বিশ খাইয়ে মারা উচিত,1,Explicit Hateful,BD_SHS,none,abusive
+এত টাকা । তারপরও মান ইজ্জত বেইচা আইপিএল খেলতেই হইব ? । আপনি বিশ্বসেরা অলরাউন্ডার হইতে পারেন । কিন্তু আসলে মনে প্রানে এখনও ছোটলোকই আছেন । সরি উইশ করতে পারছিনা ।,0,Not Hateful,BenSarc,none,non_hateful
+মনে অয় না আর বাংলাদেশের খেলা দেখা অইবে।,0,Not Hateful,BIDWESH,none,non_hateful
+ঐ ব্যাক্তি চাকরি করে মানে ও শিক্ষিত এ কেমন শিক্ষা ওর মতো শিক্ষিত জানোয়ারের কোন প্রয়োজন নেই মেরে ফেলা ভালো,1,Explicit Hateful,BD_SHS,none,abusive
+আমার মতে সব কলেজের সামনে মোতায়েন করা দরকার কারণ মারামারি সবসময় কলেজ ইউনিভার্সিটি তে হয়ে থাকে তাই মোতায়েন করাটা খুব প্রয়োজন মাননীয় প্রধানমন্ত্রীর কাছে আমাদের আকুল আবেদন কলেজ ইন ভার্সিটিতে আপনি মোতায়েন করার নির্দেশ দেন তাহলে মারামারি কাটাকাটি একটু হলেও কমবে,0,Not Hateful,BD_SHS,none,non_hateful
+ভাই ডিজিটাল নামে সব চলে হায়রে মুসলমান আল্লাহ আমাদের সবাইকে তুমি হেদায়েত দান করো,0,Not Hateful,BD_SHS,none,not_hateful
+বাংলা নাটকের এই ক্রান্তিলগ্নে আপনাদের একসাথে আবির্ভাব সত্যিই দরকার ।,0,Not Hateful,BenSarc,none,non_hateful
+কি বলবো বন্ধুরা। আমিও জামালপুরে লোক। আমি বলতে চাই এই ডিসি খানকির পোলাকে জুতার মালা পড়িয়ে সারা জামালপুর ঘোরানো থোক। এদের মত মানুষের কারনে সমাজের আজ এই অবস্থা।,1,Explicit Hateful,BD_SHS,none,abusive
+আবরাম খান জয় মোর বন্ধু অইবা?,0,Not Hateful,BIDWESH,none,non_hateful
+কুত্তারবাচ্চা,1,Explicit Hateful,BD_SHS,none,abusive
+"শালা এখন ঘর বাড়ি বেঁচে ঋণ দাও, থুথু দিমু মুখে তোমার।",2,Implicit Hateful,BenSarc,none,abusive
+হো ডুশ খাইলেও ব্রাজিল হুশ আসলেও ব্রাজিল,2,Implicit Hateful,BenSarc,irony,non_hateful
+এতদিন শুনেছি সমুদ্রে নৌকা চলে জীবনে প্রথমবার দেখলাম নৌকার উপরে একটি বিশাল সমুদ্র ।,2,Implicit Hateful,BenSarc,irony,non_hateful
+পুলিশের লাঠি খাইয়া ঠিক হইসে ।,2,Implicit Hateful,BenSarc,humor,non_hateful
+হারিয়ে যাওয়া হসপিটালটির কি কোনো খোজ পাওয়া গেছে পৃথিবীর শ্রেষ্ঠ স্বাস্থ্যমন্ত্রী সাহেব ?,2,Implicit Hateful,BenSarc,humor,non_hateful
+বর্তমানে বাংলাদেশ একটা ইহুদি রাষ্ট্র না হলে এইসব হয় বাংলাদেশে বাংলাদেশের মেয়েদের এটাই হলো আসল চেহারা,0,Not Hateful,BD_SHS,none,non_hateful
+আচ্ছা ভাই মুরগী চোর টোর বাদ দিয়ে আনবেন ওর দেখলে দিনটা ভালো যায়না,1,Explicit Hateful,BD_SHS,none,abusive
+বন্ড গরু র বন্ড,1,Explicit Hateful,BD_SHS,none,abusive
+যদি মহিলা অভিনেত্রীর ওজন সত্তর কিলোগ্রাম হয় আর হিরো আলমের ওজন পঁয়তাল্লিশ কিলোগ্রাম হয় তবে ভূমি থেকে অভিনেত্রী কে চার ফুট উচ্চতায় উঠাতে হিরো আলমের কত ক্যালোরি ক্ষয় হবে ও তাকে কত বল প্রয়োগ করতে হবে ?,2,Implicit Hateful,BenSarc,humor,offensive
+তুমি যদি আজ ধর্ষণের মামলা দাও তাইলে জেনে রাখো তোমার নগ্নতার ছবি দেখে হাজারো ছেলে তাহার যৌবন নষ্ট করেছে প্রতিরাতে তোমার নগ্নতার ছবি দেখে যৌবন হারাচ্ছি আমরা আপনার বিচার এর সাথে আমাদের বিচারটা মাননীয় সরকার জেনো করে দায় আকুল আবেদন জানাচ্ছি নিবেদক,2,Implicit Hateful,BenSarc,none,abusive
+হহ ভাই ফেব্রুয়ারি মাস না আসুক,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+সেহরি টা খাইলাম মাএ রোজা মনে হচ্ছে পঞ্চাশ ভাগ শেষ,2,Implicit Hateful,BenSarc,irony,non_hateful
+জি কাকু একটা কিন্তু ঠিক না বলে দিলাম এমন করলে জি তোমারে কিন্তু আনফলো করবো ।,0,Not Hateful,BenSarc,none,non_hateful
+নিচ তলা ভাড়া দিয়ে উপরতলা বড় করেছে ।সরাসরি স্বীকার করল যে সে খাঙ্কি।,1,Explicit Hateful,BD_SHS,none,abusive
+বাস্তবতা কিন্তু জিলাপি,2,Implicit Hateful,BanglaSarc3,irony,non_hateful
+গরু ছাগল খাসি আমি তোমায় ভালোবাসি । হাস মুরগীর খামার তুমি শুধু আমার ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+ইয়ে মানে বলতেছিলাম এ উ মানে ওহ মনে পরছে,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+গানের নামে অত্যাচার । মাইয়াগুলা কেমনে নাচতাছে আল্লাহ জানে,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+হ্যাংলামি শালার ভাই,1,Explicit Hateful,BD_SHS,none,abusive
+আগে বানান ঠিক করে লিখতে শিখ তারপর প্রেম,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+ছেলেদের দিয়ে পারেনি তো কি হয়েছে এবার মেয়েদের দিয়ে জিতে দেখাবে সাকিব খান,2,Implicit Hateful,BanglaSarc3,none,non_hateful
+সব আবালগুলো তাকিয়ে তাকিয়ে দেখল।,1,Explicit Hateful,BD_SHS,none,offensive
+সবাই যে এত উচ্চ শিক্ষিত জানতাম না !,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+মহানায়কের ছবিতে ডিসলাইক দেয় খাড়া খাডাশের বাচ্চারা।,1,Explicit Hateful,BIDWESH,none,abusive
+সত্যিই অসাধারণ নাটক।<br />বিহার থেকে শুভকামনা জানাচ্ছি।,0,Not Hateful,BD_SHS,none,non_hateful
+মনের শেয়ারই বড় শেয়ার ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+তোর বদা কি হবে,1,Explicit Hateful,BD_SHS,none,abusive
+পাপনের মুখডা দেহেন নিজের গদি ধইর‍্যা কহন জানি টান মারে সেই টেনশন ধইর‍্যা গ্যাছে। হালা গাঁজা খুরি কতা বার্তা তুই আগে পদত্যাগ হর দেখ নতুন কেউ আসলে কি ভাবে চালায়।,1,Explicit Hateful,BIDWESH,none,offensive
+এই ভিলেনদের দ্রুত ফাসি কাযকর করা হোক। প্রথম ফাঁসি দেওয়া হোক রিফাত ফরাজি কুত্তার বাচ্চাটার তারপর ওর সহযোগিদের যারা রিফাত কে জাপটে ধরেছিল। এরা প্রত্যেকেই সম অপরাধী এদের ফাঁসি না হলে বুঝবো এ দেশে কোন আইন নাই। বুঝবো এ দেশে মানুষ বাস করে না মানুষ নামে জন্তু জানোয়ার বাস করে।,0,Not Hateful,BD_SHS,none,abusive
+রমজান মাসে মুক্তি কেমনে পাইছেন শয়তান আপা।,2,Implicit Hateful,BenSarc,irony,offensive
+না না না আমার মোটেও মন খারাপ নয় কারন আমার কোন আত্মীয় পরীক্ষার্থী নেই।,0,Not Hateful,BenSarc,none,non_hateful
+কথাতো ঠিক কোথায় এক নাম্বার অলরাউন্ডার আর কোথায় বিয়ের আগে বাসর করা কোহিলি । আপনি ঠিক বলেছেন বাবু ।,2,Implicit Hateful,BenSarc,sarcasm,offensive
+ভাই এসব জাজদের তিন মাস সকাল বিকাল পাছার কাপড় তুলে মান্দার কাটার লাঠি দিয়া পিডাইলে মরেও শান্তি পেতাম !!!,1,Explicit Hateful,BD_SHS,none,offensive
+আপনারা ঝগড়াঝাটি থামায় পরোটা দিয়ে নাস্তা করেন দেখেন নেইমার বানাইতেছে মেসি ভাজতেছে,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+এই মাদারী দেখি সত্যি সত্যিই মদ খেয়ে হর হর করে দিলো ��,1,Explicit Hateful,BD_SHS,none,abusive
+মামা পোস্ট ডিলিট করেন পরে সমস্যা হবে,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+মিথিলা আপু তুমি যতই পুরানো হওনা কেন । এখনো তুমাকে দেখলে আমার মেশিন ঠিক থাকে না ।,2,Implicit Hateful,BenSarc,humor,offensive
+এত অস্থির হইছে ছবিটা,0,Not Hateful,BenSarc,none,non_hateful
+ইদ ক্যাম্পেইন দেখে দুই টা ড্রেস অর্ডার করছিলাম । ঈদ তো শেষ এখন ড্রেসগুলো আপনারা পরেই বসে থাকেন । আর এভাবেই ক্যাম্পেইন করতে থাকেন অনেক উন্নতি করতে পারবেন ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+ফলোয়ারের মায়া ত্যাগ করে তোমার ফ্রেন্ড রিকোয়েস্ট একসেপ্ট করি আর তুমি আমার পোস্টে রিয়েক্ট দেও না উল্টো আবার জামা কাপড় কেনা বেচার গ্রুপে ইনভাইট দাও ! বাহ্ !,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+ভয় শুধু নাসিরকে ।,0,Not Hateful,BenSarc,none,non_hateful
+এই হালার পোলাকে রাস্তায় লেংটা করে জুতা পেটা করে ফাঁসি দেওয়া হোক কিসের তদন্ত হালার পুত ডাইরেক্ট ফাঁসি দেওয়া হোক,1,Explicit Hateful,BD_SHS,none,abusive
+টাকার দালাল হালার পুতহালা,1,Explicit Hateful,BD_SHS,none,abusive
+আপনি না অসুস্থ ! তাহলে ছবি তুলেন ক্যান ? আপনি না হাজি ? তাহলে টুপি পড়েন না ক্যান ? আপনি না সচেতন ! তাহলে আপনার মেয়ের পায়ে জুতা নাই ক্যান ? আপনি না সবাইকে ভালবাসেন ! তাহলে মেয়েকে নিয়ে ছবি দিলেন কাজের মেয়ে কই ? আপনার না সুন্দরী বউ আছে ! তাহলে অন্যরা বউ নিয়ে ছবি দেয় আপনি দিলেন না ক্যান ? ভাই কমেন্টস দেখলে আমারে ইচ্ছারকম গাইল্লায়েন । কষ্টে লেখছি ভাই । কষ্টে,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+পাকা খেলোয়াড়,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+হিন্দু মাগির কথায় কোন যুক্তি নাই মাগি একটা বলদ,1,Explicit Hateful,BD_SHS,none,offensive
+আমাদেরকে বুঝতে হবে,0,Not Hateful,BenSarc,none,non_hateful
+এই লাল গাড়িতে উঠতে হলে প্রচুর পড়তে হবে,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+ডনের মারে চুদি।,1,Explicit Hateful,BIDWESH,none,abusive
+ছাত্রলীগ নামে কুক্তার বাচ্চাদের যেখানে পাবেন কুক্তার মত পিটিয়ে মারবেন,1,Explicit Hateful,BD_SHS,none,offensive
+দেশে আগে ছিলো মিরজাফর এখন আছে চোর আর আগে পরে দুটোই মিলিয়ে আমাদের দেশ টা এই অব্যবস্থা,0,Not Hateful,BD_SHS,none,non_hateful
+চড় দিয়ে ফেলেছি মানে কি রে মাদারচোদ কয় বার চড় মেরেছিস,1,Explicit Hateful,BD_SHS,none,abusive
+সে তো একটা বেয়াদব বেস্সা,1,Explicit Hateful,BD_SHS,none,abusive
+নিরপরাধ নুসরাত জাহানের জন্য তাঁর মা বাবা নিকট আত্মীয় এর চেয়ে আরো বেশি কেঁদে ছিল আজ অবধি ও তাদের কান্না থামেনি সাথে সারা দেশের মানুষ ও কেঁদেছিলেন মমতাময়ী সত্যবতী ‌ও নিরপরাধ নুসরাত জাহানের জন্য। সত্যিই আপনাদের আপন জনদের পাপের শাস্তির বেদনায় আমরাও ব্যতীত কিন্তু তাঁরা তো যে জঘন্যতম অপরাধ করেছে তার জন্য তাদের শাস্তি অবশ্যই অবশ্যই ভোগ করতে হবে এটাই স্বাভাবিক এবং সারা দেশের মানুষ ও অপেক্ষায় আছে মানুষ রূপি হায়েনাদের অর্পিত শাস্তি কবে নাগাদ দ্রুত কার্যকর করা হয়॥,0,Not Hateful,BD_SHS,none,non_hateful
+যারা এই পোস্ট এও হাহা দিচ্ছে তারা হয় জি এর দালাল আর নয়তো মাথার প্রবলেম আছে তাদের অবিলম্বে মেন্টাল অ্যাসাইলামে ভর্তি করা উচিত যতসব পাগল ছাগলের দল,2,Implicit Hateful,BenSarc,sarcasm,offensive
+এত সুন্দর ছবি আপলোড করো ক্যারে মাইনষের নজর লাগবো তো । তোমারে না কইলাম তোমার আম্মারে কইতা তোমার কপালের ডান সাইডে কালো টিপ দিয়ে দিতে।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+হলুদ মিডিয়ার হলুদ নিউজ। আর নিউজ পাছ না?? ভারতের দালালি ছাড়,1,Explicit Hateful,BD_SHS,none,offensive
+মুশফিক কে গালি দিলে কি হবে রে খানকির পোলারা মাদারচোদের বাচ্চারা সে সোনার বাল তাই না,1,Explicit Hateful,BD_SHS,none,abusive
+পা পোন চুদা কই রে���,1,Explicit Hateful,BD_SHS,none,abusive
+তাদের কে জুদা মারা দরকার তারের কে জুদি হালার ঘরে হালা।,1,Explicit Hateful,BD_SHS,none,offensive
+এই বাঁটু প্লেয়ারটা আর কত বয়স হলে ম্যাচুয়র হবে কে জানে !,2,Implicit Hateful,BenSarc,none,abusive
+সাউন্ড মিউট করে আপনার গান শুনলাম । খুবই ভাল লেগেছে । আরো ভাল হবে পরবর্তীতে আপনি নিজেই যদি গলা মিউট করে গান গান ।,2,Implicit Hateful,BenSarc,irony,non_hateful
+আকাশ ভরা তারা । বাকী লাইন কমেন্ট করে বুঝিয়ে দিন ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+তুমার কি জামাই আছে কমর কি টিক আছে,1,Explicit Hateful,BD_SHS,none,abusive
+এখানে কমেন্ট করতে আসা লোকের চেয়ে কমেন্ট পড়তে আসা লোকের সংখ্যা অনেক বেশি হবে । তাদের জন্য বিরিয়ানীর ব্যাবস্থা রাখা হোক !,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+কোন শালা এ কথা বলে রে । অফিস খোলা না থাকলে কেউ কি আসবে শালা হিসেব করে কথা বলতে পারেনা৷,2,Implicit Hateful,BenSarc,none,offensive
+আমরা মিন্নী মাগীর রিমান্ড চাই।।।,1,Explicit Hateful,BD_SHS,none,abusive
+কোনো টেনশন করো না আমি তোমার পাশে আছি আমার শরীরে এক ফোটা রক্ত থাকতে তোমার কিছু হতে দিবো না নিশ্চিন্তে বতল আরেকটা মেরে দাও তারপর ঘুমিয়ে পড়।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+এ মাদারচোদের বাচ্চা খানকির পোলা খালি খালি শেখ হাসিনার দপ্তরের ধইরাছে মদ খাস বিদেশ থেকে বাঁচতে শেখা,1,Explicit Hateful,BD_SHS,none,abusive
+উনাকে দিল্লি ট্রানজিট দিয়ে অস্ট্রেলিয়া পাঠিয়ে দেয়া হোক ।,2,Implicit Hateful,BenSarc,irony,non_hateful
+তুই মাগি ডেলি কয়টা চোদা নেস রে মাগি,1,Explicit Hateful,BD_SHS,none,abusive
+আপনাদের নিউজ করার মত আর কিছু আছে,2,Implicit Hateful,BanglaSarc3,none,non_hateful
+এভাবে গুম হয়ে যাওয়া সমাজ রাষ্ট্র নাগরিকদের জন্য ভাল সংবাদ নয় ।,0,Not Hateful,BenSarc,none,non_hateful
+এটা কোন হাইলাইট মিনিট���,0,Not Hateful,BD_SHS,none,non_hateful
+একশো রান করার যোগ্যতা আছে ?,2,Implicit Hateful,BenSarc,humor,non_hateful
+চল তোমাদের উছিলায় যদি আমি যেতে পারি।,0,Not Hateful,BenSarc,none,non_hateful
+হে আল্লাহ কোনো মায়ের গর্বে যেমন এই রকম সন্তান নামের পশু না হয়,1,Explicit Hateful,BD_SHS,none,abusive
+তুইও একদিক বাপ হবি#,0,Not Hateful,BD_SHS,none,non_hateful
+লুচ্চা চুদানির পুলা,1,Explicit Hateful,BD_SHS,none,abusive
+স্বাধীনতার পক্ষ শক্তি তোমার কাছে কই আমার যত স্বাধীনতা সেসব এখন কই আমরা নাকি দেশের মালিক তোমরা নাকি দাস করেছি ভুল সেসব কথায় করেছি যে বিশ্বাস নামতে নামতে পোকামাকড় হলাম কেন আজ নামতে নামতে পোকামাকড় হলাম কেন আজ দেশের দাস সারা দেশেই তোমার কেন রাজ দেশের দাস সারা দেশেই তোমার কেন রাজ স্বাধীনতার চেতনায় সকাল বিকাল নাচ দেশের ভালোর পক্ষে নাকি তোমরা ছিলে তোমরা আছ ইতিহাসের তোমরা নাকি সত্য ঝান্ডাধারী তোমার কাছেই আমরা কি আজ জানতে চাইতে পারি? মানুষগুলোর স্বাধীনতা নিজের মুঠোয় পুড়ে সুখে আছ বলতো আজ বলতো কেমন করে? সুখে আছ বলতো আজ বলতো কেমন করে? নিজেকে আজ স্বাধীনতার পক্ষ নামে ডেকে স্বাধীনতা সবারই দিলে নিজের কাছে রেখে স্বাধীনতার পক্ষ তুমি এইকি তোমার ধারা? স্বাধীনতা তোমারি শুধু আমরা সর্বহারা! এই চেতনার কথা এখন পানসে লাগে কানে এই চেতনার কথা এখন পানসে লাগে কানে মানুষ ভুলতে বসেছে আজ স্বাধীনতার কি মানে মানুষ ভুলতে বসেছে আজ স্বাধীনতার কি মানে #সায়ান #স্বাধীনতার_পক্ষ_শক্তি_তোমার_কাছে_কই,0,Not Hateful,BD_SHS,none,non_hateful
+কী রে মাঘী দিনে কয় কেজি করে দুধ বিক্রি করিছ।আমি কেজি নিব। তোর দুধের পায়েশ খেতে খুব ইচ্ছা করে।,1,Explicit Hateful,BD_SHS,none,abusive
+ভাই আপনার ফোন নাম্বারটা দিবেন কমেন্টে গালি দিলে আত্মীয় স্বজন দেখে,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+দামে কম মানে ভালো যেমন কাকলি ফার্নিচার । ঠিক তেমনি শুনতে জঘন্য মাহফুজ রহমানের গান ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+দুইজনের সাথেই আমার কথা হয়েছে দুইজনের মধ্যে মশারী টানানো নিয়ে গেঞ্জাম হইছে তাই তারা এমন সিদ্ধান্তে আসছে ।,2,Implicit Hateful,BenSarc,humor,non_hateful
+গোলাপ তো দূরের কথা কেউ একটা পাপড়ি ও দিলোনা আজ পর্যন্ত,2,Implicit Hateful,BanglaSarc3,humor,non_hateful
+উনার বডির জন্য বডিগার্ড রাখা উচিৎ ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+রানুদির মেয়েকে মায়ের সাথে দেখা না করতে দিলে সব ঠিক হয়ে যাবে,0,Not Hateful,BD_SHS,none,non_hateful
+ওই বাহান চোদের ঠিকানাটা কি খানকির পোলা তুই একদিন এই দিন ফিরে পাবি,1,Explicit Hateful,BD_SHS,none,abusive
+আমাদের রেস্টুরেন্টে আসার জন্য স্যার অসংখ্য ধন্যবাদ ।,0,Not Hateful,BenSarc,none,non_hateful
+মুখে আসছিল মান সম্মান এর ভয়ে কিছু বললাম নাহ,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+এই খানকির পোলারে জন্ম দিছে কেমনে রে ভাইঅসভ্য অসুস্থ মাদারচোদ তুই রাস্তা ঘাটে মইরা পইরা থাকবিকুত্তাও তোরে তখন চোদবেনা,1,Explicit Hateful,BD_SHS,none,abusive
+আমার একাডেমির ছেলে তিন টারে বিড়ি ও খেতে দিলেন না ।,2,Implicit Hateful,BenSarc,none,abusive
+আর এক সুন্নি মাদারচুদ ভন্ডার বাচ্চা,1,Explicit Hateful,BD_SHS,none,abusive
+মাগীর দুধের ভাতা কয় টিয়া তেতুল হুজুর কি চুয়া খাইয়া এরুকুম করেছে টেবলের খেয়ে ভোদা কি চেটে ফেলছে,1,Explicit Hateful,BD_SHS,none,abusive
+বসুন্ধরা শপিং মলে এরকম স্বাস্থ্যবিধি চেক করার সাহস পাবে না চলো না বসুন্ধরায় যাই,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+যেখানেই পড়ুক জানমালের ক্ষতি যেন না হয় আমরা সেই দোয়া করি আল্লাহর কাছে ।,0,Not Hateful,BenSarc,none,non_hateful
+হায়রে পাপন তুই আসলে কুত্তার বাচ্ছা,1,Explicit Hateful,BD_SHS,none,abusive
+আমরা হাতুরুর আমল ভুলে গেছি । কথা উঠেছিল দেশি কোচ সুজি সুজন আমাদের বস ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+তোর মারে চুদবো খানকির পোলা,1,Explicit Hateful,BD_SHS,none,abusive
+জামিন এই যদি এত তাড়াতাড়ি হয়ে যায় তো আসামি ধরারই বা কি দরকার ।,2,Implicit Hateful,BenSarc,none,non_hateful
+"আমার কুকুর টমি টা এই খবর শুনে লিঙ্গ কেটে ফেলার সিদ্ধান্ত নিয়েছে , দয়া করে এমন খবর দিবেন না প্লিজ",2,Implicit Hateful,BenSarc,humor,non_hateful
+ভাই যেই দুইটা ছয় মারছে বাংলাদেশের কোন প্লেয়ার পারবেনা বস আমার প্রিয় আশা থাকি দেখার খেলা,0,Not Hateful,BD_SHS,none,non_hateful
+ভারত ছি ছি ছি মুদি ছি ছি পাকিস্তান জিন্দাবাদ ইমরান খান জিন্দাবাদ,0,Not Hateful,BD_SHS,none,non_hateful
+সকালে দেখলাম বউয়ের হাতে দৌড়ানি খাইলো এখন পাবলিকের হাতে।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+যত লুচ্চামি খবর আছে তোমার কাছে,1,Explicit Hateful,BD_SHS,none,offensive
+কেনো জানি তোকে ছাড়া প্রতিটা দিন চব্বিশ ঘন্টা করে মনে হয়,2,Implicit Hateful,BenSarc,irony,non_hateful
+ভাই ওক দিয়ে সরকার বালতুলবি,1,Explicit Hateful,BD_SHS,none,offensive
+ও কাকা ও কাকা তুমি কোওওথায়,2,Implicit Hateful,BanglaSarc3,humor,non_hateful
+এই পাগটাকে কি মানায় ছিনেমা জগতে আপনারাই বলেন,1,Explicit Hateful,BD_SHS,none,offensive
+সবাই দেখেন হাফপ্যান্ট পড়া টেস্টে হোয়াইট ওয়াস হওয়া বাংলাদেশের গর্বিত ক্যাপ্টেন !,2,Implicit Hateful,BenSarc,humor,non_hateful
+ভাই আপনার পিংক প্যান্থার লুক মিস করছি,2,Implicit Hateful,BenSarc,humor,non_hateful
+এখানেকিছুচারাবাংলাদেশকেব্যাংগোকরেকমেন্ট করছে,0,Not Hateful,BD_SHS,none,non_hateful
+জবা কি পারবে আমায় উকিল বানিয়ে দিতে । আমি কিন্তু উকিল হবার কোনো পড়াশুনা করিনি । প্লিজ জবা বৌদি আমায় উকিল বানিয়ে দাও।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+তোমরা কে আপন কে পর দেখনি গান নিয়ে পড়াশোনা করে উকিল হয়ে গেল কোয়েল ওকে কী বলবে আর তিতলি তো প্রথম থেকেই প্লেন চালানোর স্বপ্ন দেখে আসছে,2,Implicit Hateful,BenSarc,humor,non_hateful
+এই বেয়াদবের বাচ্চাটাকে কঠিন শাস্তি দেয়া হোক যতসব অসভ্য জানোয়ারের দল,1,Explicit Hateful,BD_SHS,none,abusive
+পুটকি মেরে একদম ছিড়ে দিবো খানকিরপুতটাকা কি তর বাপের যে পাকিস্তানের সমতকের জন্য কোটি টাকা সালা খানকির পশু,1,Explicit Hateful,BD_SHS,none,abusive
+পাগল পাগলি থাকবে,1,Explicit Hateful,BD_SHS,none,offensive
+পিছনের মহিলা টা কে সর্দার এর মত লাগছে ।,0,Not Hateful,BenSarc,none,non_hateful
+মিয়ানমার যে দুটি দেশ থেকে অস্ত্র কেনে তাদের জাতিসংঘ সামলাতে পারে না,0,Not Hateful,BenSarc,none,non_hateful
+প্রীয় জনকে কিক দেওয়ার দিন কবে জানায়েন,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+পৃথিবী একটি রঙ্গমঞ্চ বাংলাদেশ তার সদর দপ্তর কি মিয়া কথা কও হাসানী,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+যারা এগুলো করে তারা ছাত্র না আসলে সন্ত্রাসী জাতির বিবেকের কাছে প্রশ্ন,0,Not Hateful,BD_SHS,none,non_hateful
+কিছু সাধারণ ছবি অসাধারন হয়ে যায় । তেমনি এটি হয়েছে,0,Not Hateful,BenSarc,none,not_hateful
+এইসব জানোয়ার কে এনে হাত পা বেঁধে উপর দিকে তুলে নিচে আগুন দেওয়া দরকার বেশি না কমনা এমন ভাবে আগুন দেওয়া দরকার যাতে শরীরের চর্বি গলে গলে নিচে পড়ে,0,Not Hateful,BD_SHS,none,abusive
+পরিমনি আপনি আমাদের কাকলি ফার্নিচার থেকে খাট নিয়ে টাকা পরিশোধ করেন নাই সেটার কি হবে । এখন আমরাও কি রাজপথে নামবো ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+শাকিব যেন অপু কে ফিরিযে আনে এই আমার অনুরুদ,0,Not Hateful,BD_SHS,none,non_hateful
+সালা নাম্বার বন্ড বান্ডারী তার ওয়াজে সুদু কিচ্চা কাহীনি চাডা আর কিচু নাই। বেশি আলেম মনে করলে নিজেকে তাহলে কোরান হাদিস দিয়ে আলোচনা কর। এখন মানুষ সব বুযে এখন কিচ্চা কাহীনি চলেনা সত্য কথা সুনতে চায় কোরান হাদিস থেকে তার আসে পাসেও কিচু বন্ড লোক রাখচে তার কথায় হা বলার জন্য মানুষ এগুলো বুযে।,1,Explicit Hateful,BD_SHS,none,abusive
+বিষয়টি মোটেই আনন্দের নয় আজ অন্য রোবটদের নিয়ে পালিয়েছে কাল যে মালিকের বউ নিয়ে পালাবে না তার কোন গ্যারান্টি নেই,2,Implicit Hateful,BanglaSarc3,humor,non_hateful
+মাদারছোদ খানকির বাচ্চা,1,Explicit Hateful,BD_SHS,none,abusive
+এতদিন কি করছে ক্রিকেটদের দাবি আন্দোলনের জন্য নেতৃত্ব দেওয়ার কারনে বোর্ড সভাপতি পাপন সাহেব তার পিছনে লাগছে অবশেষে বলবো পাপন সাহেব সাকিব পৃথিবীর যেকোনো দেশে খেলার যোগ্যতা রাখে তার পিছনে না লেগে পদত্যাগ করেন আপনি বাংলাদেশের জন্য কিছু দিতে পারেন নাই।,0,Not Hateful,BD_SHS,none,non_hateful
+এরা তো মানুষের বাচ্চা না কুলাংগার এর বাচ্চা,1,Explicit Hateful,BD_SHS,none,offensive
+স্যার যে দেশের প্রধান প্রেমে ব্যার্থ হয়ে প্রেমিককে ফাঁসিতে ঝুলাইতে পারে সে দেশের জনগন এরচেয়ে আর কত ভালো হবে ?,2,Implicit Hateful,BenSarc,humor,non_hateful
+মদি কে মেরে ফেলা হোক,1,Explicit Hateful,BD_SHS,sarcasm,offensive
+এই বউয়ের দালাল বউয়ের মুরিদ হইছে ওরে পুটকিমাইরা মাইরা লা,1,Explicit Hateful,BD_SHS,none,offensive
+নাস্তিকের ঠিকানা জাহান্নাম ছাড়া আর কিছুই না,1,Explicit Hateful,BD_SHS,none,offensive
+নিজেরে নিজে হুজুর বলে,0,Not Hateful,BD_SHS,none,non_hateful
+থাকার জগ্গো নয়,0,Not Hateful,BD_SHS,none,non_hateful
+গালি দেবে না তো কি করবে।তোরা টাকার বিনিময়ে খেলচ। ফাও খেলচ না। লাখ বেতন নিয়া এমন খেললে জুতা দিয়ে পিটানো দরকার।,1,Explicit Hateful,BD_SHS,none,offensive
+যানুয়ার টাকে মেরে ফেলুন,1,Explicit Hateful,BD_SHS,none,abusive
+অাজহারি ভন্ড,0,Not Hateful,BD_SHS,none,abusive
+মুখে মিস্টি তুলে দিচ্ছে এমন ছবি না দেখে ডিপ্রেশনে চলে গেছি,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+সালা হারামি,1,Explicit Hateful,BD_SHS,none,offensive
+অন্যরা কোচিংয়ের নাম করে টাকা মেরে দেয় আর ভাইটি পরিবারকে না জানিয়ে কোচিং করতো যাতে পরিবারের উপর চাপ না পড়ে মানবতার জয় হোক সুশোভনরা বেঁচে থাক হাজার বছর,2,Implicit Hateful,BanglaSarc3,humor,non_hateful
+কতকগুলো উইপোকা এসে হা হা হি হি করে ন্যাকামিপনা মানে সার্কাস করবে,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+পোশাকেই মানুষের চরিত্র কিছুটা ফুটে ওঠে,0,Not Hateful,BenSarc,none,non_hateful
+ভাল ভাবে যাইয়ো পৌঁছে কল দিবে আর প্লেনে কেউ কিছু দিলে খাবে না কিন্তু যা ইচ্ছা কর খেয়াল রাখবে ভিডিও যেন ভাইরাল না হয়ে যায়,2,Implicit Hateful,BenSarc,humor,non_hateful
+নিউজ করার টপিক এর কি খুব অভাব আপনাদের?,0,Not Hateful,BD_SHS,none,non_hateful
+তাহেরিকি আপনার সাথে কিছু করেছেন,0,Not Hateful,BD_SHS,none,non_hateful
+তর সমান লোক না দেকলে কে দেখবে তর ভোন,0,Not Hateful,BD_SHS,none,not_hateful
+তাহসীন তুই একটা কুত্তার বাচ্চা! তুই একটা কুলাঙ্গার! এই জন্য তোর চ্যানেল সবাই করেছে।,1,Explicit Hateful,BD_SHS,none,abusive
+মোদিকে লাথ্থির কাম শালা চায়ের দোকানদার মালুর বাচ্চা,1,Explicit Hateful,BD_SHS,none,offensive
+এই করোনা মহামারীতে মুসলিম বিশ্ব মানবিক দিক বিবেচনা করে যেভাবে তাদের সহযোগিতায় এগিয়ে এসেছে এর থেকে সাম্প্রদায়িক সম্প্রীতি আর কি হতে পারে ?,0,Not Hateful,BenSarc,none,non_hateful
+বলিউডে চান্স না পেয়ে বিজেপির পক্ষে তেলবাজি করে রাজনীতিতে আসতে চাচ্ছেন এই অখ্যাত নায়িকা ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+মাথা বেঁচা জাফরদের কাছে জনগণ হলো গুরুত্বহীন।,0,Not Hateful,BD_SHS,none,non_hateful
+হতাশাগ্রস্ত ব্যক্তিদের ট্রল থেকে বিরত থাকুন এক টি ট্রল হতে পারে সারাজীবনের কান্না । শুধু সমবেদনা।,2,Implicit Hateful,BenSarc,humor,non_hateful
+খুলনা বাদ পড়ার চান্স বেশি শেষ মেসরেমিল্লা উঠি যাইব মোর লগে কারা কারা একমত।,0,Not Hateful,BIDWESH,none,non_hateful
+ধিক্কার জাতিকে । এত শিক্ষাপূর্ণ সফর শেষ করে কচিকাঁচার দল দেশে ফিরলো কিন্তু তাদের কোন সংবর্ধনা দেয়া হলোনা !,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+পারার লোকগুলো ওকে কিছু বলছেনা কনো এটা কোন পারা কেউ দয়াকরে আমাকে এই বেজম্মাটার ঠিকানাটা দিক ওকে আমার পা দিয়ে চট্কে দিবো,1,Explicit Hateful,BD_SHS,none,abusive
+বেচারা এম্নেতেই আমাকে পটানোর চেষ্টা চালাচ্ছেন এখন এখানে ম্যানশন দিলে সে মনে মনে ভেবে নিবে আমি পটে গেছি ।,2,Implicit Hateful,BenSarc,humor,non_hateful
+একজন হার্টের রোগী নিয়ে ময়মনসিংহ যাচ্ছিলাম হার্ট বিট কাজ করছিলো না আপনার ছবি দেখে উনার হার্টবিট ফিরে এসেছে আপনাকে ধন্যবাদ জানিয়েছেন উনি !,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+সুইমিংপুল অনেক জনপ্রিয় একটি গোপন কাজ করার জন্য৷,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+শাকিব খানের উচিৎ ছিলো অপু বিশ্বাস কে কোরআন পড়া শিখানো নামাজ পড়া শিখানো সেটা না করে শাকিব খান অপু বিশ্বাস কে তালাক দিলো খুব দুঃখ জনক,0,Not Hateful,BD_SHS,none,no
+ফ্লেবার গুলা ব্রাস্ট হইছিল আমার জিহ্বার ভেতর এটা কি ছিল ভাই,2,Implicit Hateful,BanglaSarc3,metaphor,non_hateful
+নিচতলা ভাড়া দিয়ে উপরতলা বানাবো হাহাহা লম্পট মেয়ে,0,Not Hateful,BD_SHS,none,offensive
+অনেক বড় খ্যাপ পাইছো মনে হয় । দেশের এই ক্রান্তি লগ্নে ভালোই রেমিট্যানস আসবে ।,2,Implicit Hateful,BenSarc,humor,non_hateful
+বেয়াদব ছেলে তোর গালে জুতা মারা উচিত,1,Explicit Hateful,BD_SHS,none,offensive
+সালের অক্টোবর পযর্ন্ত সকল প্রকার ক্রিকেট দেখা বন্ধ। সালা পাপন মাদাচোদ কে লাথি দিয়ে বের করে দেওয়া হক।,1,Explicit Hateful,BD_SHS,none,abusive
+ওনার প্রোফাইল পিকচার দেখে পোলা পাইন যে প্রতিনিয়ত নিজের অমূল্য সম্পদ টাকে অমানবিক নির্যাতন করছে সে টার বিচার কে করবে।,2,Implicit Hateful,BenSarc,humor,non_hateful
+খুশি হওয়ার কিছু নেই । এডমিন একজন মাথা মোটা ।,2,Implicit Hateful,BenSarc,irony,non_hateful
+নিরুপমার চশমায় অনেক পাওয়ার তাই আবির নিরুর চোখে চোখ রাখতে পারে না।,2,Implicit Hateful,BenSarc,irony,non_hateful
+খোলা খুলি আলোচনা এমন নয় যা পরিবার সমাজ ও রাষ্ট্রের সামাজিক অবক্ষয় হয় এমন আলোচনা করা নিজেদের লজ্জা বোধের কারন,0,Not Hateful,BD_SHS,none,non_hateful
+কারন দশ জন বন্ধুর মধ্য আমিও একজন এবং আমার আপেলটিই ঝুড়িতে আছে,0,Not Hateful,BenSarc,none,non_hateful
+সালাত প্রত্যেক মুসলমানদের জন্য ফরজ এবং ধর্মের অন্যতম ইবাদাত । সুফী সম্রাট হযরত শাহ্ দেওয়ানবাগী মাঃআঃ,0,Not Hateful,BD_SHS,none,non_hateful
+হালার হাত পা ভাং,1,Explicit Hateful,BD_SHS,none,abusive
+যারা কমেন্ট করতেছেন নোবেল এখনো বাইরে কেনো । তা ভাই ওরে ভিতরে ঢুকাইলো ভিতরের পাগলগুলোর নিরাপত্তার দায়িত্ব কি আপনি নিবেন ?,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+পরীচালক কি পাগল না ছাগল মানুষ টাকা দিয়া এসব ছবি চাযনা ছবি চায় ময়ূরীর মুনমুন নের ছবি চায়,1,Explicit Hateful,BD_SHS,none,offensive
+দুই দিন পর পর কার জন্য সাজো তুমি প্রিয়তমা পরি,2,Implicit Hateful,BenSarc,humor,non_hateful
+ময়ূরী মন হয় কালো বিড়ালের মাংস খাইছি এত মোটা কেমনে হইছে,1,Explicit Hateful,BD_SHS,none,abusive
+সহমত চিল্লায়া বলি ঠিক কি না,2,Implicit Hateful,BanglaSarc3,humor,non_hateful
+এদের যত ছাগলামী কাপড় খুলে নাচলে তো রোগী আরো বেশী বিনোদন পাবে ।,2,Implicit Hateful,BenSarc,humor,offensive
+রিফাত এর স্ত্রী কিন্তু প্রথম থেকে যখন সবাই রিফাত কে ধরে মারতে মারতে নিয়ে যাচ্ছে তার স্ত্রী কিন্তু কিছুই বলে না।সে পিছনে আস্তে আস্তে হাঁটতেছে কোপানোর সময় রিফাতের স্ত্রী নাটকের অভিনয় করছে,0,Not Hateful,BD_SHS,none,non_hateful
+কেউ কেজি দুধের গাভী না দেখলে এই মাগি কে দেখেও,1,Explicit Hateful,BD_SHS,none,abusive
+শালার পুত তিনদিন পরে তোমার ঘুম ভাংছে। কয় কলকি খাইছিলা চুদিরভাই,1,Explicit Hateful,BD_SHS,none,abusive
+ডিচির সাথে ওরও বিচার হওয়া উচিত।,0,Not Hateful,BD_SHS,none,non_hateful
+হলে যারা যাবে তাদের দেখতে চাওয়া আমার অবুঝ মন,2,Implicit Hateful,BenSarc,humor,non_hateful
+যতদিন বাঁচবেন ততদিন আপনার এই সতেজ ও প্রাণবন্ত হাসি বজায় থাকুক জনাব,2,Implicit Hateful,BanglaSarc3,humor,non_hateful
+এই পিচ্চি কি মানুষের আলোচনা করতে বেস্ত থাকে নাকি ওয়াজ করতে আসে এই পিচ্চি অনেক বাল পাক্না,1,Explicit Hateful,BD_SHS,none,non_hateful
+বাচ্চাটার ভিডিওটি তো অনেকদিন আগেই দেখেছি এডিট করে নতুন সিনেমা বানালেন,0,Not Hateful,BD_SHS,none,non_hateful
+ভুলভাল প্রচার করে লাভ নেই ঠিক আছে,0,Not Hateful,BD_SHS,none,non_hateful
+এটাই হওয়ার ছিল শাটডাউনের আগে মানুষের চলাফেরা দেখে আমি অবাক হয়ে গেছিলাম,0,Not Hateful,BenSarc,none,non_hateful
+লাত্থি খাওয়ার পরেও এরকম ফষ্টিনষ্টি নিশ্বাস কিভাবে বের হয়।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+এক লক্ষ্য নাস্তিক ও যদি আসে আল্লামা মামুনুল হক এক আল্লাহর উপর ভরসা রেখে। একাই লড়াই করার সাহস রাখেন।,1,Explicit Hateful,BD_SHS,none,offensive
+রুবেল নাসির ফকিরের পোলারা দুই জনে মাগী বাজ,1,Explicit Hateful,BD_SHS,none,abusive
+না?? তোর মায়েরে তুই চোদ খানকির পোলা। তোর পুটকির মধ্যে পদ্মা সেতুর পিলার ঢুকাব বেশ্যা মাগির ছোল। তোর টেংরি কেটে ভোদা বানাবো। আর তোর ভোদা দিয়ে ওই মরা হোল ঢুকাব বাইনচোদ। তোর বেফোমিটরে কুত্তা দিয়ে চোদাই সাউয়ার বেটা। যারা যারা একমত লাইক মারো।,1,Explicit Hateful,BD_SHS,none,abusive
+মালে কয কি সারের দুষ নাই ত কে চুদল তোমাকে,1,Explicit Hateful,BD_SHS,none,abusive
+পৃথিবীর শ্রেষ্ট চরিত্রবান মহামানব গৌতম বুদ্ধ। ওনি সকল মহামনবের আদর্শ। বুদ্বর আদর্শই পৃথিবীতে শান্তি আনা সম্ভব।,0,Not Hateful,ALERT,none,non_hateful
+এসব কুলঙ্গার কে রিমান্ডে দেন,1,Explicit Hateful,BD_SHS,none,offensive
+সালারে চোরের মত লাগতাছে ।,2,Implicit Hateful,BenSarc,humor,offensive
+নাস্তিক মুরগি চুর এইখানে কি করে,1,Explicit Hateful,BD_SHS,none,abusive
+মাদার চোদ ছেলে,1,Explicit Hateful,BD_SHS,none,abusive
+বাহ প্রথম আলো দেখি এডিট শিখেছে তাও বিশ্রি,2,Implicit Hateful,BenSarc,humor,offensive
+এটাই হোল শেখ হাসিনার ডিজিটাল বাংলাদেশ!! যাখানে সেখানে খুন কোন বিচার হয় না���,0,Not Hateful,BD_SHS,none,non_hateful
+ফালতু যত্তসব তাহলে এই শো এর কি দরকার ছিলো এতো গুলো ছেলের স্বপ্ন ভঙ্গ হলো কথা কাজের সাথে কোনো মিল নেই এজন্যই এই দেশের দিন দিন এতো বাজে অবস্থা হচ্ছে,0,Not Hateful,BD_SHS,none,non_hateful
+"খুবই স্বাভাবিকভাবে সেই এলাকার আওয়ামী লীগ নেতারা দাবি করছেন, এর সঙ্গে আওয়ামী লীগের কোনো যোগাযোগ নেই ঃ- স্যারের উদ্দেশ্য কিন্তু সৎ ছিল",0,Not Hateful,BD_SHS,none,non_hateful
+কষ্টের করতো নাকি তোদের কারণে তারা করতাছো আপন কে ছাড়বে দাঁত ফালায় দিমু খানকির পোলা মাদারচোদ বাংলাদেশের ক্রিকেট ধ্বংস করতাছে,1,Explicit Hateful,BD_SHS,none,abusive
+সভ্য সমাজের সুনাম জস খ্যাতি সম্পন্ন বেশ্যা,1,Explicit Hateful,BD_SHS,none,abusive
+আপনার ভিডিওটিতে ফিল্ম স্টার দের সঙ্গে দেখা গেল এটা হয়েছে সেটা হয়েছে এতে কি ভিডিওটি পুরোপুরি নিরপেক্ষ নির্দেশে করে আপনি নিরপেক্ষ ভাবে একটা ভিডিও তৈরি করুন তাতে তার গুণ গুলো দেখান দোষ গুলো দেখান রাজ্যে কতটা বিরিজ ভেঙেছে এই বছরে টাকা বদলি সময় কি ঘটেছে ভোটের আগে পাকিস্তানের সাথে যুদ্ধের সময় অভিনন্দন কে নিয়ে আশায় কি ঘটেছে নোট বন্দির সময় কি হয়েছে ভোটে কি হয়েছে তাতে প্রথম দিনেই প্রথম সময়ই মারামারি পঞ্চায়েত ভোটে কি হয়েছে দোষ এবং গুণ দুটিরই উপর নজর রেখে একটি ভিডিও আপলোড করুন আমরা দেখব তবেই তো আপনার চ্যানেল সাবস্ক্রাইব হবে,0,Not Hateful,BD_SHS,none,non_hateful
+সৌম্য সরকারের মনে হয় কপাল জাবেদের মতই হবে,0,Not Hateful,BenSarc,none,non_hateful
+আমার এটা ভেবে কষ্ট হচ্ছে যে এই ভিভিও টা বানানোর জন্য আপনার এই মুভিটা থুক্কু চিড়িয়াখানাটা দেখতে হইসে,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+এতো গরমে পরী আফা জামা পড়ার দরকার কি ?,2,Implicit Hateful,BenSarc,sarcasm,offensive
+মূররী দুধ এতো বড় ক্যা,1,Explicit Hateful,BD_SHS,none,abusive
+সল্ট বে যেভাবে চর্বি বা মাংস কেটে ছুড়ে ফেলে আপনাদের মুরগি ওকে কাটতে দিলে হাড় ছাড়া কিছু পড়ে থাকবে না মনে হয় ।,2,Implicit Hateful,BenSarc,humor,non_hateful
+আল্লাহর গজব তার উপরে আসবে,1,Explicit Hateful,BD_SHS,none,offensive
+মামা টা সব দিক দিয়ে যাই,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+এই বেদোবির বিচাই বন্দুরা আমি কি ঠিক কথা বলেছি,1,Explicit Hateful,BD_SHS,none,offensive
+ভাইরে আমাদের হাসু আপা এমন এক প্রোডাক্ট যে এই প্রোডাক্ট যেখানেই যায় সেখানেই শুধু পদত্যাগ আর পদত্যাগ,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+মাত্র ৩০০-৪০০ জন ভাগ্যবান হিন্দুই বরুণাতে পালানোর সুযোগ পায়। বারবার দেশান্তরের ফলে একমাত্র হিন্দু সংখ্যাগরিষ্ঠ জেলা খুলনাও একসময় মুসলিম সংখ্যাগরিষ্ঠ এলাকায় পরিণত হয়।,0,Not Hateful,ALERT,none,non_hateful
+"বাটপার ধোন বিজ্ঞানী আপনি নিজের উঠোনে ট্রেঞ্চ খুঁড়ে লুকিয়ে থেকে যেভাবে মুক্তিযোদ্ধা সেজে মুক্তিযুদ্ধের গল্প শোনান...ঠিক বাংলাদেশের নির্বাচন আপনার ট্রেঞ্চের গল্পের মতো হয়েছে....আপনাদের মতো শিক্ষিত অমানুষ গুলা নেক্সট জেনারেশন কে ধ্বংস করছে.... আপনি দালাল আপনি বাটপার,আপনি বুদ্ধি বেশ্যা",1,Explicit Hateful,BD_SHS,none,abusive
+অন্তু ভুলে গেছে তার নাম ডিনার না,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+পাপননান্নুসুজন সব শালা হারামি,1,Explicit Hateful,BD_SHS,none,abusive
+শাউয়া দিবা তুমি ।,2,Implicit Hateful,BenSarc,none,abusive
+আমাদের বাবরি মসজিদ চাই বছরের পুরনো মসজিদ ফিরে চাই,0,Not Hateful,BD_SHS,none,non_hateful
+এক ঠ্যাং উঠাইয়া দুই কানে ধইরা একটা পনের সেকেন্ডের ভিডিও বানাইয়া আপলোড দে তাহলে বিশ্বাস করমু ।,2,Implicit Hateful,BenSarc,humor,non_hateful
+এখানে কমেন্ট করা সবাই সিঙ্গেল হলে এতো প্রেম করে কে হুম?,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+মাগির লজ্জা শরম নাই তার জম্ম ঠিক নাই জারজ সন্তান,1,Explicit Hateful,BD_SHS,none,abusive
+সাকিব ভাই এর বুদ্ধি আছে বলতেই হবে কারন সেই দুধের বাচ্চা রশিদ কে মাঝখানে রেখেছে যাতে হামাগুরি দিয়ে না পরে যায়।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+কুত্তার বাচ্চা তুই ধর্ম নিয়ে কথা কস কেন,1,Explicit Hateful,BD_SHS,none,abusive
+গানটির ব্যাকগ্রাউন্ড টা ।,0,Not Hateful,BD_SHS,none,non_hateful
+মমকে ঘোড়া দিয়ে চোদানোর দরকার,1,Explicit Hateful,BD_SHS,none,abusive
+খেলোয়ারা হারামি তার পাসে খেলোয়ার নেই,1,Explicit Hateful,BD_SHS,none,offensive
+দাঁত গুলো ফ্ল্যাস লাইট এর কাজ করছে । রেজোয়ান ভাই এর ।,2,Implicit Hateful,BenSarc,irony,non_hateful
+নাসির যখন ক্যাচ টা তালুবদ্দ করল আমি মনে রাখছি সাকিব ভাই এর আনন্দ আর দেখে কে আর এই প্লেয়ার আজ পাপন্নে দলে রাখিলে না দুনিয়ার এত মানুষ মরে পাপন্নে মরে না কেন । !,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+ববুলি কে চাই না,0,Not Hateful,BD_SHS,none,non_hateful
+নগুন নয় তোমার ডান্স দেখতেই চাই জুলু।,0,Not Hateful,BenSarc,none,non_hateful
+আপনার মান আপনার কাছে ।,0,Not Hateful,BenSarc,none,non_hateful
+মৌসুমি আর বুবলি এইটা পাগল আর ছাগল আর ফালতু অপু বিউটিফুল,1,Explicit Hateful,BD_SHS,none,offensive
+বেগম জিয়ার সাথে কাউয়া কাদেরের কোন তুলনা হতে পারে!,0,Not Hateful,BD_SHS,none,offensive
+সবাইকে সালের অগ্রিম শুভেচ্ছা। এবার কারা কাপ নিতে পারে??,0,Not Hateful,BD_SHS,none,non_hateful
+তুমিও একা আর আমিও একা প্রেম জমবে “ঝাকানাকা”৷,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+"সবই বুঝ মা ঠাট্টা বুঝনা??? সার্কাজম বুঝার মতো ঘিলু আশা করি একজন প্রফেসরের থাকার কথা। যখন ছেলেরা বুকে নিজেকে রাজাকার লিখেছিল, সেটি ছিল সার্কাজম। যাই হোক, শিশুতোষ লেখা লেখিয়ের মগজ শিশুতোষ হবে এটা ভাবিনি, অন্তত: সুকুমার রায়ের মতো মেধাবী লেখকের রচনা পড়ে এটাই ধারণায় ছিল; আপনি সেই ভুল ভাংগিয়ে দিলেন, নাকি জেনেশুনেই চোঁখে ঠুলি পড়ে আছেন সেটাই ভাবছি।",0,Not Hateful,BD_SHS,none,non_hateful
+কুত্তা মার্কা ব্যাবহার শালার,1,Explicit Hateful,BD_SHS,none,offensive
+প্লিজ ভাই হোয়াটসঅ্যাপ নাম্বার টা দেন গালি না দেওয়া অব্দি শান্তি পাচ্ছি না,2,Implicit Hateful,BanglaSarc3,sarcasm,offensive
+"""জাফর"" নামটার থেকে কেমন যেন বেইমান বেইমান গন্ধ পাওয়া যায়..... সব জাফরই কী তাহলে মীর জাফর....?",1,Explicit Hateful,BD_SHS,none,offensive
+এ একটা মাগি এর নাটক <br />আমি দেখিনা ওর চোদাচোদির ভিডিও আছে নষ্টা,1,Explicit Hateful,BD_SHS,none,abusive
+ভাই সানজিদা ইয়াসমিন সাধনা কে জামালপুর পতিতালয়ে পাঠিয়ে দেওয়া হোক জন সাধারনের কাজে লাগবে এছাড়া ডিসি আহম্মদ কবিরকে পতিতালয়ের দালাল বানিয়ে দেওয়া হোক,1,Explicit Hateful,BD_SHS,none,abusive
+তারা তো কন্ডিশন আবহাওয়া চক্কর বক্কর কইরা সময় নষ্ট করতেছে না,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+মুশফিক বাংলাদেশের সেরা ব্যাটসম্যান❤❤,0,Not Hateful,BD_SHS,none,non_hateful
+কুত্তা টাকে ফাসি দেয়া হোক,1,Explicit Hateful,BD_SHS,none,offensive
+তাহেরি হুজুর তকে কি করছে,0,Not Hateful,BD_SHS,none,non_hateful
+ওই সুয়োরের বাচ্চা কে মেরো ফেলো,1,Explicit Hateful,BD_SHS,none,abusive
+ছবি তুলছে কি বাটন ফোন দিয়ে,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+সবই বুঝলাম তবে একটা কথা বলবো,0,Not Hateful,BenSarc,none,non_hateful
+কুত্তার বাচ্চারে আল্লাহ মাফ করবে না,1,Explicit Hateful,BD_SHS,none,abusive
+��আর বেশি দিন দূরে নয় যেদিন বাংলার যমিনে ইসলামী অনুশ্বাষন প্রতিষ্ঠিত হবে আলেমরা রাষ্ট্রীয় সম্মানে থাকবে এবং যেই সব ভন্ড রাম বাম নাস্তিক মুরতাদরা ইসলামকে নিয়ে ছিনিমিনি খেলছে তাদের বিচার সেদিন হবেই হবে ইনশাআল্লাহ।,0,Not Hateful,BD_SHS,none,non_hateful
+থেকে মিনিট দেখেন মিন্নি কিভাবে চুপচাপ হয়ে আছে। সব দোষ এই মাগির এই মাগীরে পুলিশ ধরে না কেনো?,1,Explicit Hateful,BD_SHS,none,abusive
+কাউকে শারীরিকভাবে নিজের চেয়ে সুন্দর বা উৎকৃষ্ট মনে করা অনুচিত । কারণ সৌন্দর্য পরিমাপের কোনো একক নেই । সৃষ্টিকর্তা সবাইকে ভিন্ন ভিন্ন দিক থেকে সুন্দর করে সৃষ্টি করেছেন ।,0,Not Hateful,BenSarc,none,non_hateful
+আগে আপনাকে বুদ্ধিমান ভাবতাম,0,Not Hateful,BD_SHS,none,non_hateful
+ওই মেয়েটা বেইমান ও হারামী ওকে জেলে ডোকানো উচিত,1,Explicit Hateful,BD_SHS,none,abusive
+আমি প্রথমত ধন্যবাদ দিচ্ছি তাকে যে ভিডিও টি করেছে আর তাদের যারা একে শাস্তি দিছে,0,Not Hateful,BD_SHS,none,non_hateful
+ভাই এমন ভিডিও দেখলে নিজের দরে রাখতে পারিনা এই কুকুরকে না মরা পযন্ত মারা হোক আপনাদের আইন কোথায়,1,Explicit Hateful,BD_SHS,none,abusive
+ভালো লাগলো ভাই।।,0,Not Hateful,BD_SHS,none,non_hateful
+অপু আর বুবলি দুইজন দুইটা টিমে থাক,2,Implicit Hateful,BanglaSarc3,sarcasm,non_hateful
+বাংলাদেশের সাকিব আল হাসান আর মাশরাফি আমার কাছে বেস্ট ক্রিকেটার । আমার সালাম পৌছে দিয়েন এই দুই জনের কাছে ।,0,Not Hateful,BenSarc,none,non_hateful
+কমেন্ট গুলো পড়তে আসলাম ���,0,Not Hateful,BD_SHS,none,non_hateful
+তোমার ইমুর নাম্বার দাও,0,Not Hateful,BD_SHS,none,non_hateful
+এক সাথে ছিলাম দুজনে একসাথে খেলাম দুজনে একসাথে ঘুমালাম দুজনে । ছবি তুলতে গিয়েই শুধু আলাদা হলাম । তোমার আমি ছবি তুলে দিলাম । অথচ ফটোক্রেডিট দিলেনা বাবু । এটা অন্যায় খুব অন্যায় । আমি আজ দুপুরে ভাত কাবোনা ।,2,Implicit Hateful,BenSarc,sarcasm,non_hateful
+হায়রে খানকির পোলা তোর জন্য জাহান্নাম ওয়াজিব হয়ে গেছে,1,Explicit Hateful,BD_SHS,none,abusive
+আপনাকে ক্ষমা তো দুরের কথা আপনাকে ধিক্কার জানাই,0,Not Hateful,BD_SHS,none,non_hateful
