@@ -1,0 +1,9 @@
+{
+    "model_name": "xlm-roberta-base",
+    "variant": "No_HateHead",
+    "lang": "Bangla",
+    "use_hate_head": false,
+    "use_sarc_head": true,
+    "test_accuracy": 0.8285782499701564,
+    "test_macro_f1": 0.8097481937181984
+}

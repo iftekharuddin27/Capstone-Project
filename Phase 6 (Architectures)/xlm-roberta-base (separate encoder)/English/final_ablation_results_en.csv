@@ -1,0 +1,4 @@
+variant,lang,test_acc,test_f1
+No_HateHead,English,0.8975,0.8976
+No_SarcHead,English,0.896,0.8962
+SingleTask_XLM-R,English,0.8992,0.8993

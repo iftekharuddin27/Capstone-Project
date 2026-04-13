@@ -1,0 +1,4 @@
+variant,lang,test_acc,test_f1
+No_HateHead,Bangla,0.8286,0.8097
+No_SarcHead,Bangla,0.8255,0.8055
+SingleTask_XLM-R,Bangla,0.8286,0.8092

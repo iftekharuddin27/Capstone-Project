@@ -1,0 +1,9 @@
+{
+    "model_name": "xlm-roberta-base",
+    "variant": "SingleTask_XLM-R",
+    "lang": "Bangla",
+    "use_hate_head": false,
+    "use_sarc_head": false,
+    "test_accuracy": 0.8285782499701564,
+    "test_macro_f1": 0.8092435550014517
+}
