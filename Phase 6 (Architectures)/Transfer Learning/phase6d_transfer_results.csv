@@ -1,0 +1,6 @@
+Experiment,Test,F1,Gap,Type
+BanglaBERT (full BN train),Bangla,0.82,0.0,Baseline
+BERT (full EN train),English,0.9029,0.0,Baseline
+EN model → BN (zero-shot),Bangla,0.2633,-0.5567,Zero-shot
+BN model → EN (zero-shot),English,0.3346,-0.5683,Zero-shot
+EN+few-shot BN(10%) → BN,Bangla,0.7332,-0.0868,Few-shot
