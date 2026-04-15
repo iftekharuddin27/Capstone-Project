@@ -1,0 +1,24 @@
+Category,Model,EN_Test_F1,BN_Test_F1,EN_Sarc_F1,BN_Sarc_F1,Note
+Classical ML,Logistic Regression,0.792,0.758,0.79,0.651,TF-IDF + 15 stylistic features
+Classical ML,SVM (LinearSVC),0.806,0.759,,,Val F1 only — not re-run on test
+Deep Learning,LSTM,,,0.8,0.5,"Val F1: EN 0.797, BN 0.655"
+Deep Learning,BiLSTM,0.824,0.762,0.823,0.645,Best deep learning model
+Deep Learning,CNN,,,0.78,0.62,"Val F1: EN 0.790, BN 0.743"
+Transformer (Single-task),BERT,0.903,,0.92,,English only — bert-base-uncased
+Transformer (Single-task),DistilBERT,0.894,,0.9,,English only — ~40% fewer params
+Transformer (Single-task),BanglaBERT,,0.82,,0.74,Bangla only — csebuetnlp/banglabert
+Transformer (Single-task),mBERT,,0.774,,0.67,Bangla only — multilingual BERT
+Dual-Head XLM-RoBERTa (Proposed),XLM-RoBERTa Dual-Head (English),0.8983,,0.91,,"Hate + Sarcasm heads, shared encoder"
+Dual-Head XLM-RoBERTa (Proposed),XLM-RoBERTa Dual-Head (Bangla),,0.8151,,0.72,"Hate + Sarcasm heads, shared encoder"
+Lightweight Dual-Head,DistilBERT Dual-Head (English),0.8927,,0.91,,"~40% fewer params, same dual-head design"
+Lightweight Dual-Head,mDistilBERT Dual-Head (Bangla),,0.7919,,0.66,Multilingual DistilBERT backbone
+Ablation Study,XLM-RoBERTa — No Hate Head (English),0.8976,,0.91,,Sarcasm head only
+Ablation Study,XLM-RoBERTa — No Sarcasm Head (English),0.8962,,0.9,,Hate head only — lowest EN
+Ablation Study,XLM-RoBERTa — Single-Task (English),0.8993,,0.91,,No auxiliary heads
+Ablation Study,XLM-RoBERTa — No Hate Head (Bangla),,0.8097,,0.7,Sarcasm head only
+Ablation Study,XLM-RoBERTa — No Sarcasm Head (Bangla),,0.8055,,0.69,Hate head only — lowest BN
+Ablation Study,XLM-RoBERTa — Single-Task (Bangla),,0.8092,,0.69,No auxiliary heads
+Transfer Learning,English model → Bangla test (zero-shot),,0.2633,,,Complete failure — no Bangla exposure
+Transfer Learning,Bangla model → English test (zero-shot),0.3346,,,,Complete failure — no English exposure
+Transfer Learning,English model + 10% Bangla → Bangla test (few-shot),,0.7332,,,89% of BanglaBERT F1 with only 10% data
+Concept Drift,XLM-RoBERTa Dual-Head → OLID 2019 (zero-shot),0.5814,,,,35.6% relative drop — concept drift confirmed
