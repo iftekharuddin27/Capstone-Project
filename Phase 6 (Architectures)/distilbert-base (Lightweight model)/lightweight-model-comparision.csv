@@ -1,0 +1,7 @@
+Model,Lang,Test F1
+BERT baseline,EN,0.9029
+DualHead XLM-R,EN,0.8983
+BanglaBERT baseline,BN,0.82
+DualHead XLM-R,BN,0.8151
+Lightweight DistilBERT,EN,0.8927
+Lightweight mDistilBERT,BN,0.7919
