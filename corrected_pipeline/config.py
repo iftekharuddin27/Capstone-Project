@@ -49,12 +49,14 @@ def validate_config(config: Mapping[str, Any]) -> None:
         raise ConfigError("config.schema_version must be 1")
 
     run_kind = _require(config, "run_kind", "config")
-    if run_kind not in {"smoke", "full"}:
-        raise ConfigError("config.run_kind must be 'smoke' or 'full'")
+    if run_kind not in {"smoke", "pilot", "full"}:
+        raise ConfigError("config.run_kind must be 'smoke', 'pilot', or 'full'")
 
     status = _require(config, "result_status", "config")
     if run_kind == "smoke" and status != "SMOKE TEST — NOT A REPORTED RESULT":
         raise ConfigError("Smoke configurations must use the exact non-reportable status label")
+    if run_kind == "pilot" and status != "PILOT — NOT FINAL TEST RESULT":
+        raise ConfigError("Pilot configurations must use the exact non-final status label")
 
     model = _require(config, "model", "config")
     architecture = _require(model, "architecture", "config.model")
@@ -71,16 +73,34 @@ def validate_config(config: Mapping[str, Any]) -> None:
     languages = _require(dataset, "languages", "config.dataset")
     if not languages or any(language not in {"english", "bangla"} for language in languages):
         raise ConfigError("config.dataset.languages must contain english and/or bangla")
+    if run_kind == "pilot" and languages != ["bangla"]:
+        raise ConfigError("Stage 1B pilot configurations must contain only the Bangla language")
     paths = _require(dataset, "paths", "config.dataset")
     hashes = _require(dataset, "hashes", "config.dataset")
-    required_splits = {
-        "en_train", "en_validation", "en_test",
-        "bn_train", "bn_validation", "bn_test",
-    }
+    required_splits = (
+        {"bn_train", "bn_validation"}
+        if run_kind == "pilot"
+        else {
+            "en_train", "en_validation", "en_test",
+            "bn_train", "bn_validation", "bn_test",
+        }
+    )
     if set(paths) != required_splits:
         raise ConfigError(f"config.dataset.paths must have exactly {sorted(required_splits)}")
     if set(hashes) != required_splits:
         raise ConfigError(f"config.dataset.hashes must have exactly {sorted(required_splits)}")
+    if run_kind == "pilot":
+        if dataset.get("path_base") != "repository_root":
+            raise ConfigError("Pilot dataset.path_base must be 'repository_root'")
+        audited_paths = {
+            "bn_train": "Phase 2/Bangla data/bn_train.csv",
+            "bn_validation": "Phase 2/Bangla data/bn_val.csv",
+        }
+        if paths != audited_paths:
+            raise ConfigError("Stage 1B pilots must use the audited repository-relative Bangla paths")
+        for split, value in paths.items():
+            if not isinstance(value, str) or not value.strip() or Path(value).is_absolute():
+                raise ConfigError(f"config.dataset.paths.{split} must be repository-relative")
     for split, hash_manifest in hashes.items():
         if not isinstance(hash_manifest, Mapping):
             raise ConfigError(f"config.dataset.hashes.{split} must be an object")
@@ -145,6 +165,24 @@ def validate_config(config: Mapping[str, Any]) -> None:
         raise ConfigError("output_directory must be a new /kaggle/working/corrected_* path")
     if execution["blocked"] and not execution.get("blocked_reason"):
         raise ConfigError("Blocked configurations require blocked_reason")
+
+    if run_kind == "pilot":
+        if execution["evaluate_test"] is not False:
+            raise ConfigError("Pilot configurations must set execution.evaluate_test=false")
+        if architecture not in {"xlmr_single_task", "mdistilbert_single_task"}:
+            raise ConfigError("Stage 1B pilots permit only single-task architectures")
+        if mode != "none" or proxy_flag is not False:
+            raise ConfigError("Stage 1B pilots must not use auxiliary labels")
+        if training["random_seed"] != 42:
+            raise ConfigError("Stage 1B pilots require random_seed=42")
+        expected_model = {
+            "mdistilbert_single_task": "distilbert-base-multilingual-cased",
+            "xlmr_single_task": "xlm-roberta-base",
+        }[architecture]
+        if model["name"] != expected_model or model["tokenizer_name"] != expected_model:
+            raise ConfigError(f"Stage 1B {architecture} must use {expected_model}")
+        if weights != {"main": 1.0, "hate": 0.0, "sarcasm": 0.0}:
+            raise ConfigError("Stage 1B pilots must optimize only the three-class main loss")
 
     if run_kind == "smoke":
         limits = _require(config, "limits", "config")

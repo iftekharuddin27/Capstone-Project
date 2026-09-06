@@ -28,6 +28,7 @@ class DataValidationTests(unittest.TestCase):
             "bn_train": ([
                 {"text_clean": "bn-a", "label": 0, "source": "ALERT"},
                 {"text_clean": "bn-b", "label": 1, "source": "BD_SHS"},
+                {"text_clean": "bn-f", "label": 2, "source": "BIDWESH"},
             ], "source"),
             "bn_validation": ([
                 {"text_clean": "bn-c", "label": 2, "source": "BenSarc"},
@@ -88,6 +89,15 @@ class DataValidationTests(unittest.TestCase):
             paths, hashes, specs = self._fixture(Path(directory))
             report = validate_canonical_data(paths, hashes, specs=specs)
             self.assertEqual(report["status"], "passed")
+
+    def test_bangla_train_validation_only_scope_passes(self):
+        with tempfile.TemporaryDirectory() as directory:
+            all_paths, _, all_specs = self._fixture(Path(directory))
+            keys = ("bn_train", "bn_validation")
+            paths = {key: all_paths[key] for key in keys}
+            specs = {key: all_specs[key] for key in keys}
+            report = validate_canonical_data(paths, build_hash_manifest(paths), specs=specs)
+            self.assertEqual(set(report["splits"]), set(keys))
 
     def test_cross_split_duplicate_fails(self):
         with tempfile.TemporaryDirectory() as directory:

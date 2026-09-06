@@ -1,4 +1,4 @@
-"""Kaggle-only entry point for corrected smoke/full experiments."""
+"""Kaggle-only entry point for corrected smoke, pilot, and full experiments."""
 
 from __future__ import annotations
 
@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import Any, Mapping
 
 from .config import assert_execution_allowed, load_config
-from .data_validation import validate_canonical_data
+from .data_validation import SPLIT_SPECS, validate_canonical_data
 from .labels import gold_auxiliary_targets, proxy_auxiliary_targets
 
 
@@ -22,6 +22,16 @@ def _prepare_output(path: str) -> Path:
         raise FileExistsError(f"Refusing to overwrite corrected output directory: {output}")
     output.mkdir(parents=True)
     return output
+
+
+def _resolve_dataset_paths(config: Mapping[str, Any], config_path: str | Path) -> dict[str, Path]:
+    """Resolve audited repository-relative paths without changing recorded config values."""
+    repository_root = Path(config_path).resolve().parent.parent
+    resolved: dict[str, Path] = {}
+    for key, value in config["dataset"]["paths"].items():
+        path = Path(value)
+        resolved[key] = path if path.is_absolute() else repository_root / path
+    return resolved
 
 
 def _stratified_limit(frame, label_column: str, limit: int, seed: int):
@@ -160,14 +170,36 @@ def _set_seed(seed: int):
 def run(config_path: str | Path) -> None:
     config = load_config(config_path)
     assert_execution_allowed(config)
+    is_pilot = config["run_kind"] == "pilot"
+    evaluate_test = config["execution"]["evaluate_test"]
+    if is_pilot:
+        # Defense in depth: a pilot can never enter the test-loading branch,
+        # even if an already-loaded configuration were mutated by a caller.
+        if evaluate_test is not False:
+            raise RuntimeError("Pilot execution cannot read or evaluate the test split")
+        evaluate_test = False
+    dataset_paths = _resolve_dataset_paths(config, config_path)
+    split_specs = {key: SPLIT_SPECS[key] for key in dataset_paths}
 
     # Strict full-file validation happens before pandas, torch, or transformers are imported.
     validation_report = validate_canonical_data(
-        config["dataset"]["paths"], config["dataset"]["hashes"]
+        dataset_paths, config["dataset"]["hashes"], specs=split_specs
     )
     output_root = _prepare_output(config["execution"]["output_directory"])
     (output_root / "data_validation.json").write_text(
         json.dumps(validation_report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    (output_root / "dataset_hashes.json").write_text(
+        json.dumps(
+            {
+                "result_status": config["result_status"],
+                "hash_method": "canonical_sha256_lf_normalized_bytes",
+                "hashes": config["dataset"]["hashes"],
+            },
+            ensure_ascii=False,
+            indent=2,
+        ) + "\n",
+        encoding="utf-8",
     )
 
     import pandas as pd
@@ -188,8 +220,10 @@ def run(config_path: str | Path) -> None:
     for language in config["dataset"]["languages"]:
         prefix = "en" if language == "english" else "bn"
         label_column = "class" if language == "english" else "label"
-        train_frame = pd.read_csv(config["dataset"]["paths"][f"{prefix}_train"])
-        validation_frame = pd.read_csv(config["dataset"]["paths"][f"{prefix}_validation"])
+        train_frame = pd.read_csv(dataset_paths[f"{prefix}_train"])
+        validation_frame = pd.read_csv(dataset_paths[f"{prefix}_validation"])
+        # Pilot and full runs use the complete declared training data. Only
+        # the explicitly non-reportable smoke run is row-limited.
         if config["run_kind"] == "smoke":
             train_frame = _stratified_limit(train_frame, label_column, config["limits"]["train_rows"], seed)
             validation_frame = _stratified_limit(
@@ -297,8 +331,8 @@ def run(config_path: str | Path) -> None:
             checkpoint_metadata,
         )
 
-        if config["execution"]["evaluate_test"]:
-            test_frame = pd.read_csv(config["dataset"]["paths"][f"{prefix}_test"])
+        if evaluate_test:
+            test_frame = pd.read_csv(dataset_paths[f"{prefix}_test"])
             test_dataset = TextDataset(test_frame, label_column, auxiliary["mode"], auxiliary)
             test_loader = DataLoader(
                 test_dataset,

@@ -12,8 +12,13 @@ class EvaluationTests(unittest.TestCase):
         ):
             self.assertIn(key, metrics)
         self.assertEqual(len(metrics["confusion_matrix"]), 3)
+        for label in ("0", "1", "2"):
+            self.assertEqual(
+                set(metrics["per_class"][label]),
+                {"precision", "recall", "f1", "support"},
+            )
+        self.assertEqual(metrics["sarcasm_f1"], metrics["per_class"]["2"]["f1"])
 
 
 if __name__ == "__main__":
     unittest.main()
-

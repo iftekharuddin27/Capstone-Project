@@ -210,19 +210,18 @@ def validate_canonical_data(
             None if expected_raw_hash is None else report.get("raw_sha256") == str(expected_raw_hash).lower()
         )
 
-    for language, keys in {
-        "english": ("en_train", "en_validation", "en_test"),
-        "bangla": ("bn_train", "bn_validation", "bn_test"),
-    }.items():
+    for language in ("english", "bangla"):
+        keys = tuple(key for key, spec in specs.items() if spec.language == language)
         for left, right in combinations(keys, 2):
             overlap = text_sets[left].intersection(text_sets[right])
             if overlap:
                 errors.append(f"{language}: {len(overlap)} exact text duplicates across {left} and {right}")
 
+    bangla_keys = tuple(key for key, spec in specs.items() if spec.language == "bangla")
     observed_bangla_sources = set().union(
-        *(set(reports[key].get("observed_sources", [])) for key in ("bn_train", "bn_validation", "bn_test"))
-    )
-    if observed_bangla_sources != set(BANGLA_SOURCES):
+        *(set(reports[key].get("observed_sources", [])) for key in bangla_keys)
+    ) if bangla_keys else set()
+    if bangla_keys and observed_bangla_sources != set(BANGLA_SOURCES):
         errors.append(
             "Bangla source vocabulary mismatch; expected "
             f"{sorted(BANGLA_SOURCES)}, found {sorted(observed_bangla_sources)}"
@@ -247,7 +246,13 @@ def main() -> None:
     args = parser.parse_args()
     with Path(args.config).open("r", encoding="utf-8") as handle:
         config = json.load(handle)
-    report = validate_canonical_data(config["dataset"]["paths"], config["dataset"]["hashes"])
+    config_path = Path(args.config).resolve()
+    paths = {
+        key: (config_path.parent.parent / value if not Path(value).is_absolute() else Path(value))
+        for key, value in config["dataset"]["paths"].items()
+    }
+    specs = {key: SPLIT_SPECS[key] for key in paths}
+    report = validate_canonical_data(paths, config["dataset"]["hashes"], specs=specs)
     rendered = json.dumps(report, ensure_ascii=False, indent=2)
     if args.output:
         Path(args.output).write_text(rendered + "\n", encoding="utf-8")

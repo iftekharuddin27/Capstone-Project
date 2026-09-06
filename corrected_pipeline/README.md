@@ -8,5 +8,6 @@ This package implements the Stage 1A pipeline without changing historical notebo
 - `training.py` applies the correct loss targets, masks, class weights, gradient clipping, validation-macro-F1 selection, and CPU checkpoint copies.
 - `evaluation.py` writes metrics, predictions, configuration, environment, and checkpoint metadata.
 - `runner.py` is the Kaggle-only heavy entry point.
+- Stage 1B pilots scope validation to the audited repository-relative Bangla train/validation files. Test evaluation is rejected and `dataset_hashes.json` is saved beside the validation report.
 
 Do not invoke `runner.py` locally. Use the guarded notebooks in `kaggle/`.
