@@ -21,12 +21,12 @@
       "bn_test": "/kaggle/input/datasets/iftekharuddin27/preprocessed-datasets/bn_test.csv"
     },
     "hashes": {
-      "en_train": "d1e29e79fb00986ccdbf11a86ee887d9bf6041c917ad5ca9538c3e79c60647e6",
-      "en_validation": "665a4aace86224ea7a4ffc581aff5abc6a56203f55361833a637b74e77cad5bd",
-      "en_test": "c35ca8c097db159af62aa66681538f0b09a4d6de7e837279a3980ed991d2ddd7",
-      "bn_train": "79af568f5507437efef1d6b81117a317ccf68d60dbe1fb69e96836ef98930ce8",
-      "bn_validation": "2addabe616c1f184f208e5875aa1aba6cdf0e63f0cbc9ceac03c7d5746bcbb06",
-      "bn_test": "b4b3fdeb5999293fd38003aabb6bf4ff63a0e337e91d56aaabc0f84dddabec32"
+      "en_train": {"canonical_sha256": "96e1167cbf5bec9265e6a5f688f2e48e153d363cdf072b14f4f0e899e50a3563", "raw_sha256": "d1e29e79fb00986ccdbf11a86ee887d9bf6041c917ad5ca9538c3e79c60647e6"},
+      "en_validation": {"canonical_sha256": "cb59ccfbc23adffae38ab2a6c3b58d8f57ab04e3b1f44aa28144a3292d2d32a6", "raw_sha256": "665a4aace86224ea7a4ffc581aff5abc6a56203f55361833a637b74e77cad5bd"},
+      "en_test": {"canonical_sha256": "a4647d638471bdee88c3da0d3d0c7110451a2265b89e6a32df9efd4a23bfd3eb", "raw_sha256": "c35ca8c097db159af62aa66681538f0b09a4d6de7e837279a3980ed991d2ddd7"},
+      "bn_train": {"canonical_sha256": "5ea874a8d9fe55e7545795770fdac109f3a284bcc2d44be048c7f0df5cb48799", "raw_sha256": "79af568f5507437efef1d6b81117a317ccf68d60dbe1fb69e96836ef98930ce8"},
+      "bn_validation": {"canonical_sha256": "1d91c7a27e14c9e1a31efd64cc77e716fdd774fd9e98c7c17de239d064e87297", "raw_sha256": "2addabe616c1f184f208e5875aa1aba6cdf0e63f0cbc9ceac03c7d5746bcbb06"},
+      "bn_test": {"canonical_sha256": "c2ac6c268ad94284be0bff8857f9d2f90e68610075bc0c60dac9ff008496df0d", "raw_sha256": "b4b3fdeb5999293fd38003aabb6bf4ff63a0e337e91d56aaabc0f84dddabec32"}
     }
   },
   "auxiliary_labels": {

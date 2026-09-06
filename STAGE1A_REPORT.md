@@ -20,20 +20,32 @@ No model/tokenizer was loaded, no checkpoint tensor was deserialized, no inferen
 - exactly five released Bangla source values;
 - no missing required values or unexpected labels/sources;
 - no exact text overlap across train/validation/test;
-- exact SHA-256 hashes for all six files.
+- LF-normalized canonical SHA-256 hashes for all six files.
 
 The full files are validated before smoke-test subsampling. All failures are collected into one clear `DataValidationError`.
 
-Recorded SHA-256 values:
+### Cross-platform hash correction (2026-09-06)
 
-| Split | SHA-256 |
-|---|---|
-| en_train | `d1e29e79fb00986ccdbf11a86ee887d9bf6041c917ad5ca9538c3e79c60647e6` |
-| en_validation | `665a4aace86224ea7a4ffc581aff5abc6a56203f55361833a637b74e77cad5bd` |
-| en_test | `c35ca8c097db159af62aa66681538f0b09a4d6de7e837279a3980ed991d2ddd7` |
-| bn_train | `79af568f5507437efef1d6b81117a317ccf68d60dbe1fb69e96836ef98930ce8` |
-| bn_validation | `2addabe616c1f184f208e5875aa1aba6cdf0e63f0cbc9ceac03c7d5746bcbb06` |
-| bn_test | `b4b3fdeb5999293fd38003aabb6bf4ff63a0e337e91d56aaabc0f84dddabec32` |
+Kaggle and the GitHub clone were confirmed to have identical raw CSV bytes, while the earlier expected values came from a Windows working copy whose line endings differed. Validation remains mandatory, but text-file identity is now platform-independent:
+
+1. Read each CSV as bytes.
+2. Replace CRLF and standalone CR with LF.
+3. Calculate SHA-256 over those normalized bytes.
+
+`canonical_sha256` is the required reproducibility identity used by both `build_hash_manifest()` and `validate_canonical_data()`. `raw_sha256` is optional byte-level provenance: it is recorded and reported when present, but a raw mismatch alone does not fail validation because Git line-ending conversion may legitimately change it. A canonical mismatch still fails before any subset, model, training, or evaluation code can run.
+
+Recorded hashes:
+
+| Split | Required `canonical_sha256` | Optional Windows-working-copy `raw_sha256` |
+|---|---|---|
+| en_train | `96e1167cbf5bec9265e6a5f688f2e48e153d363cdf072b14f4f0e899e50a3563` | `d1e29e79fb00986ccdbf11a86ee887d9bf6041c917ad5ca9538c3e79c60647e6` |
+| en_validation | `cb59ccfbc23adffae38ab2a6c3b58d8f57ab04e3b1f44aa28144a3292d2d32a6` | `665a4aace86224ea7a4ffc581aff5abc6a56203f55361833a637b74e77cad5bd` |
+| en_test | `a4647d638471bdee88c3da0d3d0c7110451a2265b89e6a32df9efd4a23bfd3eb` | `c35ca8c097db159af62aa66681538f0b09a4d6de7e837279a3980ed991d2ddd7` |
+| bn_train | `5ea874a8d9fe55e7545795770fdac109f3a284bcc2d44be048c7f0df5cb48799` | `79af568f5507437efef1d6b81117a317ccf68d60dbe1fb69e96836ef98930ce8` |
+| bn_validation | `1d91c7a27e14c9e1a31efd64cc77e716fdd774fd9e98c7c17de239d064e87297` | `2addabe616c1f184f208e5875aa1aba6cdf0e63f0cbc9ceac03c7d5746bcbb06` |
+| bn_test | `c2ac6c268ad94284be0bff8857f9d2f90e68610075bc0c60dac9ff008496df0d` | `b4b3fdeb5999293fd38003aabb6bf4ff63a0e337e91d56aaabc0f84dddabec32` |
+
+All five corrected configurations use this nested hash manifest consistently. Unit tests cover LF/CRLF equivalence, standalone content changes, optional raw hashes, and continued enforcement of schema, row counts, labels, and duplicate detection. The corrected smoke notebook's disabled branch was also repaired so it no longer references `repo` before `find_repo()` assigns it. `RUN_HEAVY=False` remains unchanged.
 
 ### Models and training
 
@@ -80,7 +92,8 @@ The test split is never passed to training or checkpoint selection. Full configu
 - Five corrected JSON files parsed successfully.
 - Both new notebook JSON files parsed successfully and each has exactly one `RUN_HEAVY = False` assignment.
 - Static checks confirmed all four model classes, correct hate/sarcasm target-and-mask wiring, gradient clipping, CPU checkpoint copying, validation-only selection, overwrite protection, seed policy, proxy labeling, and blocked full gold multi-task configurations.
-- Previously computed local checks confirmed the six canonical SHA-256 hashes and zero exact text overlap across each language's splits.
+- Lightweight local checks confirmed LF/CRLF canonical equivalence, changed-value sensitivity, and the six LF-normalized canonical dataset hashes. Existing schema, count, label, source, and duplicate controls remain present and are covered by unit tests.
+- The smoke notebook was statically checked to ensure `repo` is assigned before use and is not referenced from the disabled branch.
 - `run_static_checks.ps1` completed successfully.
 
 Python compilation and unit-test execution were skipped locally because there is no runnable Python interpreter; only inaccessible Windows app aliases are present, and WSL access is denied. No Python/PyTorch installation was attempted. Both new Kaggle notebooks run `compileall` and the full import-independent/tiny-tensor unit-test suite before any experiment command.
@@ -143,4 +156,4 @@ Until items 1–4 are resolved, full corrected multi-task experiments remain blo
 - `kaggle/06_corrected_smoke_test.ipynb`
 - `kaggle/07_corrected_full_reproduction.ipynb`
 
-No pre-existing file was modified in Stage 1A.
+No historical notebook, historical result, checkpoint, or original dataset was modified.

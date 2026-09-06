@@ -29,7 +29,13 @@ class ConfigTests(unittest.TestCase):
         with self.assertRaises(ConfigError):
             validate_config(config)
 
+    def test_legacy_scalar_dataset_hash_is_rejected(self):
+        path = ROOT / "configs" / "corrected_smoke_mdistilbert_multitask.json"
+        config = json.loads(path.read_text(encoding="utf-8"))
+        config["dataset"]["hashes"]["en_train"] = "0" * 64
+        with self.assertRaisesRegex(ConfigError, "must be an object"):
+            validate_config(config)
+
 
 if __name__ == "__main__":
     unittest.main()
-

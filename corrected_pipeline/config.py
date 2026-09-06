@@ -81,9 +81,19 @@ def validate_config(config: Mapping[str, Any]) -> None:
         raise ConfigError(f"config.dataset.paths must have exactly {sorted(required_splits)}")
     if set(hashes) != required_splits:
         raise ConfigError(f"config.dataset.hashes must have exactly {sorted(required_splits)}")
-    for split, digest in hashes.items():
-        if not isinstance(digest, str) or not _SHA256.fullmatch(digest.lower()):
-            raise ConfigError(f"config.dataset.hashes.{split} is not a SHA-256 digest")
+    for split, hash_manifest in hashes.items():
+        if not isinstance(hash_manifest, Mapping):
+            raise ConfigError(f"config.dataset.hashes.{split} must be an object")
+        if set(hash_manifest).difference({"canonical_sha256", "raw_sha256"}):
+            raise ConfigError(
+                f"config.dataset.hashes.{split} may contain only canonical_sha256 and optional raw_sha256"
+            )
+        canonical = hash_manifest.get("canonical_sha256")
+        if not isinstance(canonical, str) or not _SHA256.fullmatch(canonical.lower()):
+            raise ConfigError(f"config.dataset.hashes.{split}.canonical_sha256 is not a SHA-256 digest")
+        raw = hash_manifest.get("raw_sha256")
+        if raw is not None and (not isinstance(raw, str) or not _SHA256.fullmatch(raw.lower())):
+            raise ConfigError(f"config.dataset.hashes.{split}.raw_sha256 is not a SHA-256 digest")
 
     training = _require(config, "training", "config")
     required_training = (

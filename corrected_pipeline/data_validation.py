@@ -38,7 +38,8 @@ class DataValidationError(ValueError):
     """Raised when canonical data does not match its required contract."""
 
 
-def sha256_file(path: str | Path, chunk_size: int = 1024 * 1024) -> str:
+def raw_sha256_file(path: str | Path, chunk_size: int = 1024 * 1024) -> str:
+    """Hash exact on-disk bytes; diagnostic only for cross-platform text CSVs."""
     digest = hashlib.sha256()
     with Path(path).open("rb") as handle:
         while True:
@@ -47,6 +48,31 @@ def sha256_file(path: str | Path, chunk_size: int = 1024 * 1024) -> str:
                 break
             digest.update(chunk)
     return digest.hexdigest()
+
+
+def canonical_sha256_file(path: str | Path) -> str:
+    """Hash CSV bytes after canonicalizing CRLF and standalone CR to LF.
+
+    Reading and normalizing bytes (rather than decoded text) avoids encoding,
+    locale, or universal-newline side effects. This is the reproducibility
+    identity used for canonical text CSV validation across Git platforms.
+    """
+    data = Path(path).read_bytes()
+    normalized = data.replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+    return hashlib.sha256(normalized).hexdigest()
+
+
+def build_hash_manifest(
+    paths: Mapping[str, str | Path], *, include_raw_sha256: bool = True
+) -> dict[str, dict[str, str]]:
+    """Create the same canonical hash structure consumed by validation."""
+    manifest: dict[str, dict[str, str]] = {}
+    for key, path in paths.items():
+        entry = {"canonical_sha256": canonical_sha256_file(path)}
+        if include_raw_sha256:
+            entry["raw_sha256"] = raw_sha256_file(path)
+        manifest[key] = entry
+    return manifest
 
 
 def inspect_split(path: str | Path, spec: SplitSpec) -> tuple[dict[str, Any], set[str], list[str]]:
@@ -129,7 +155,8 @@ def inspect_split(path: str | Path, spec: SplitSpec) -> tuple[dict[str, Any], se
         "columns": columns,
         "row_count": row_count,
         "expected_row_count": spec.expected_rows,
-        "sha256": sha256_file(path),
+        "canonical_sha256": canonical_sha256_file(path),
+        "raw_sha256": raw_sha256_file(path),
         "missing_text": missing_text,
         "missing_label": missing_label,
         "missing_source": missing_source,
@@ -143,7 +170,7 @@ def inspect_split(path: str | Path, spec: SplitSpec) -> tuple[dict[str, Any], se
 
 def validate_canonical_data(
     paths: Mapping[str, str | Path],
-    expected_hashes: Mapping[str, str],
+    expected_hashes: Mapping[str, Mapping[str, str]],
     *,
     specs: Mapping[str, SplitSpec] = SPLIT_SPECS,
 ) -> dict[str, Any]:
@@ -167,10 +194,21 @@ def validate_canonical_data(
         reports[key] = report
         text_sets[key] = texts
         errors.extend(split_errors)
-        actual_hash = report.get("sha256")
-        expected_hash = expected_hashes[key].lower()
+        actual_hash = report.get("canonical_sha256")
+        hash_manifest = expected_hashes[key]
+        if not isinstance(hash_manifest, Mapping) or "canonical_sha256" not in hash_manifest:
+            errors.append(f"{key}: hash manifest must contain canonical_sha256")
+            continue
+        expected_hash = str(hash_manifest["canonical_sha256"]).lower()
         if actual_hash is not None and actual_hash != expected_hash:
-            errors.append(f"{paths[key]}: SHA-256 mismatch; expected {expected_hash}, found {actual_hash}")
+            errors.append(
+                f"{paths[key]}: canonical SHA-256 mismatch; expected {expected_hash}, found {actual_hash}"
+            )
+        expected_raw_hash = hash_manifest.get("raw_sha256")
+        report["manifest_raw_sha256"] = expected_raw_hash
+        report["raw_sha256_matches_manifest"] = (
+            None if expected_raw_hash is None else report.get("raw_sha256") == str(expected_raw_hash).lower()
+        )
 
     for language, keys in {
         "english": ("en_train", "en_validation", "en_test"),
