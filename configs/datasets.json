@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "labels": {
+    "0": "Non-hateful",
+    "1": "Hateful",
+    "2": "Sarcastic"
+  },
+  "columns": {
+    "text": "text_clean",
+    "english_label": "class",
+    "bangla_label": "label",
+    "bangla_source": "source"
+  },
+  "local_preprocessed_root": "Phase 2",
+  "local_files": {
+    "en_train": "Phase 2/English data/en_train.csv",
+    "en_validation": "Phase 2/English data/en_val.csv",
+    "en_test": "Phase 2/English data/en_test.csv",
+    "en_full_clean": "Phase 2/English data/en_full_clean.csv",
+    "bn_train": "Phase 2/Bangla data/bn_train.csv",
+    "bn_validation": "Phase 2/Bangla data/bn_val.csv",
+    "bn_test": "Phase 2/Bangla data/bn_test.csv",
+    "bn_full_clean": "Phase 2/Bangla data/bn_full_clean.csv"
+  },
+  "kaggle": {
+    "raw_root": "/kaggle/input/datasets/iftekharuddin27/capstone-datasets",
+    "preprocessed_root": "/kaggle/input/datasets/iftekharuddin27/preprocessed-datasets",
+    "annotation_root": "/kaggle/input/datasets/iftekharuddin27/annotated-data",
+    "model_root_primary": "/kaggle/input/datasets/iftekharuddin27/transformer-learning",
+    "model_root_transformer_baselines": "/kaggle/input/datasets/iftekharuddin27/transformer-models",
+    "external_root": "/kaggle/input/datasets/faisalshanto/external-hate-dataset",
+    "output_root": "/kaggle/working"
+  },
+  "split": {
+    "method": "two stratified train_test_split calls",
+    "train_fraction": 0.8,
+    "validation_fraction": 0.1,
+    "test_fraction": 0.1,
+    "random_state": 42
+  },
+  "row_counts_after_cleaning": {
+    "english": {"full": 104319, "train": 83455, "validation": 10432, "test": 10432},
+    "bangla": {"full": 83762, "train": 67009, "validation": 8376, "test": 8377}
+  },
+  "bangla_clean_source_counts": {
+    "ALERT": 1004,
+    "BD_SHS": 50199,
+    "BenSarc": 25616,
+    "BanglaSarc3": 3957,
+    "BIDWESH": 2986
+  },
+  "auxiliary_training_labels": {
+    "is_hateful": "derived proxy: main_label == 1",
+    "is_sarcastic": "derived proxy: main_label == 2",
+    "gold_annotation_subset_used_for_training": false
+  }
+}

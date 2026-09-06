@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "common": {
+    "seed": 42,
+    "maximum_sequence_length": 128,
+    "labels": {"0": "Non-hateful", "1": "Hateful", "2": "Sarcastic"},
+    "auxiliary_labels": {
+      "is_hateful": "main_label == 1",
+      "is_sarcastic": "main_label == 2",
+      "provenance": "derived proxy labels, not independent gold labels"
+    },
+    "metrics": ["accuracy", "macro_f1", "classification_report", "confusion_matrix"]
+  },
+  "shared_dual_head_xlmr": {
+    "model_name": "xlm-roberta-base",
+    "epochs": 5,
+    "train_batch_size": 32,
+    "validation_batch_size": 64,
+    "test_batch_size": 64,
+    "learning_rate": 0.00002,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01,
+    "scheduler": "linear",
+    "warmup_fraction": 0.1,
+    "dropout": 0.3,
+    "losses": {"hate_bce": 0.3, "sarcasm_bce": 0.3, "three_class_cross_entropy": 0.4},
+    "gradient_clip_norm": 1.0,
+    "selection": "best validation macro F1"
+  },
+  "lightweight_dual_head": {
+    "model_names": {"english": "distilbert-base-uncased", "bangla": "distilbert-base-multilingual-cased"},
+    "epochs": 5,
+    "train_batch_size": 64,
+    "validation_batch_size": 128,
+    "test_batch_size": 64,
+    "learning_rate": 0.00003,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01,
+    "scheduler": "linear",
+    "warmup_fraction": 0.1,
+    "dropout": 0.3,
+    "intended_losses": {"hate_bce": 0.3, "sarcasm_bce": 0.3, "three_class_cross_entropy": 0.4},
+    "recorded_code_warning": "The hate-head BCE is coded against labels_sarc rather than labels_hate; computed Bangla class weights are unused. Preserve for exact result replication or fix and treat as a new experiment."
+  },
+  "ablation_notebooks": {
+    "model_name": "xlm-roberta-base",
+    "actual_encoder_count": 1,
+    "directory_name_warning": "The directory says separate encoder, but each model constructs one shared encoder.",
+    "variants": {
+      "No_HateHead": {"use_hate_head": false, "use_sarcasm_head": true},
+      "No_SarcHead": {"use_hate_head": true, "use_sarcasm_head": false},
+      "SingleTask_XLM-R": {"use_hate_head": false, "use_sarcasm_head": false}
+    },
+    "epochs": 5,
+    "train_batch_size": 64,
+    "validation_batch_size": 128,
+    "test_batch_size": 64,
+    "learning_rate": 0.00002,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01,
+    "scheduler": "linear",
+    "warmup_fraction": 0.1,
+    "losses": {"hate_bce_when_present": 0.3, "sarcasm_bce_when_present": 0.3, "three_class_cross_entropy": 0.4}
+  },
+  "transfer": {
+    "model_name": "xlm-roberta-base",
+    "zero_shot_batch_size": 64,
+    "few_shot_fraction_per_class": 0.1,
+    "few_shot_sampling_seed": 42,
+    "few_shot_batch_size": 16,
+    "few_shot_epochs": 3,
+    "few_shot_learning_rate": 0.00001,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01,
+    "scheduler": "linear",
+    "warmup_steps": 0,
+    "losses": {"hate_bce": 0.3, "sarcasm_bce": 0.3, "three_class_cross_entropy": 0.4}
+  },
+  "external_evaluation": {
+    "model_name": "xlm-roberta-base",
+    "batch_size": 64,
+    "maximum_sequence_length": 128,
+    "metrics": ["accuracy", "macro_f1_over_present_classes", "classification_report"]
+  },
+  "domain_adaptation": {
+    "grl_implemented": false,
+    "grl_source_domain_mapping": null,
+    "note": "No gradient reversal layer, domain head, domain labels, or source-to-domain mapping exists in checked-in code."
+  }
+}

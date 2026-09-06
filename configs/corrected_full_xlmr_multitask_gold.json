@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "run_kind": "full",
+  "result_status": "CORRECTED MULTI-TASK — NEW RESULT",
+  "model": {
+    "architecture": "xlmr_multi_task",
+    "name": "xlm-roberta-base",
+    "revision": "e73636d4f797dec63c3081bb6ed5c7b0bb3f2089",
+    "tokenizer_name": "xlm-roberta-base",
+    "tokenizer_revision": "e73636d4f797dec63c3081bb6ed5c7b0bb3f2089"
+  },
+  "dataset": {
+    "class_2_semantic_status": "pending_supervisor_confirmation",
+    "languages": ["english", "bangla"],
+    "paths": {
+      "en_train": "/kaggle/input/datasets/iftekharuddin27/preprocessed-datasets/en_train.csv",
+      "en_validation": "/kaggle/input/datasets/iftekharuddin27/preprocessed-datasets/en_val.csv",
+      "en_test": "/kaggle/input/datasets/iftekharuddin27/preprocessed-datasets/en_test.csv",
+      "bn_train": "/kaggle/input/datasets/iftekharuddin27/preprocessed-datasets/bn_train.csv",
+      "bn_validation": "/kaggle/input/datasets/iftekharuddin27/preprocessed-datasets/bn_val.csv",
+      "bn_test": "/kaggle/input/datasets/iftekharuddin27/preprocessed-datasets/bn_test.csv"
+    },
+    "hashes": {
+      "en_train": "d1e29e79fb00986ccdbf11a86ee887d9bf6041c917ad5ca9538c3e79c60647e6",
+      "en_validation": "665a4aace86224ea7a4ffc581aff5abc6a56203f55361833a637b74e77cad5bd",
+      "en_test": "c35ca8c097db159af62aa66681538f0b09a4d6de7e837279a3980ed991d2ddd7",
+      "bn_train": "79af568f5507437efef1d6b81117a317ccf68d60dbe1fb69e96836ef98930ce8",
+      "bn_validation": "2addabe616c1f184f208e5875aa1aba6cdf0e63f0cbc9ceac03c7d5746bcbb06",
+      "bn_test": "b4b3fdeb5999293fd38003aabb6bf4ff63a0e337e91d56aaabc0f84dddabec32"
+    }
+  },
+  "auxiliary_labels": {
+    "mode": "gold",
+    "proxy_auxiliary_labels": false,
+    "gold_hate_column": "is_hateful_gold",
+    "gold_sarcasm_column": "is_sarcastic_gold",
+    "automatic_annotation_merge": false
+  },
+  "training": {
+    "maximum_sequence_length": 128,
+    "learning_rate": 0.00002,
+    "batch_size": 16,
+    "gradient_accumulation": 2,
+    "epochs": 5,
+    "early_stopping_patience": 2,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "dropout": 0.3,
+    "gradient_clipping": 1.0,
+    "random_seed": 42,
+    "loss_weights": {"main": 0.4, "hate": 0.3, "sarcasm": 0.3},
+    "class_weights": {
+      "english": null,
+      "bangla": [0.67442656, 1.09080106, 1.66527498]
+    },
+    "selection_metric": "validation_macro_f1"
+  },
+  "execution": {
+    "blocked": true,
+    "blocked_reason": "Supervisor confirmation and an approved, keyed gold-annotation join are required before multi-task training.",
+    "evaluate_test": true,
+    "output_directory": "/kaggle/working/corrected_full_xlmr_multitask_gold_seed42",
+    "allow_overwrite": false
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "common": {
+    "seed": 42,
+    "labels": {"0": "Non-hateful", "1": "Hateful", "2": "Sarcastic"},
+    "primary_metric": "macro_f1",
+    "other_metrics": ["accuracy", "per_class_precision", "per_class_recall", "per_class_f1", "confusion_matrix"]
+  },
+  "classical_final_test_baseline": {
+    "source_notebook": "Phase 3/ML and DL Test.ipynb",
+    "features": {
+      "word_tfidf": {"max_features": 50000, "ngram_range": [1, 3], "min_df": 2, "max_df": 0.95, "sublinear_tf": true},
+      "character_tfidf_english": {"max_features": 30000, "ngram_range": [3, 5], "analyzer": "char_wb", "min_df": 2, "max_df": 0.95, "sublinear_tf": true},
+      "character_tfidf_bangla": {"max_features": 30000, "ngram_range": [3, 6], "analyzer": "char_wb", "min_df": 2, "max_df": 0.95, "sublinear_tf": true},
+      "engineered_features_scaled": true
+    },
+    "logistic_regression": {
+      "C": 5.0,
+      "solver": "saga",
+      "max_iter": 2000,
+      "random_state": 42,
+      "class_weight_english": null,
+      "class_weight_bangla": "balanced"
+    }
+  },
+  "classical_exploratory_notebook": {
+    "source_notebook": "Phase 3/classical ML Models/Classical Models.ipynb",
+    "note": "Contains a six-value C search and must run only on Kaggle under the resource policy.",
+    "C_values": [0.1, 0.5, 1.0, 2.0, 5.0, 10.0],
+    "models": ["LogisticRegression", "LinearSVC", "SGDClassifier", "soft VotingClassifier"],
+    "seed": 42
+  },
+  "word_level_neural": {
+    "source_notebooks": ["Phase 3/Deep Learning Models/Deep Learnind Models.ipynb", "Phase 3/ML and DL Test.ipynb"],
+    "models": ["LSTM", "BiLSTM", "CNN"],
+    "vocabulary_size": 30000,
+    "maximum_sequence_length": 128,
+    "embedding_dimension": 128,
+    "hidden_dimension": 128,
+    "lstm_layers": 2,
+    "dropout": 0.3,
+    "cnn_filters_per_kernel": 100,
+    "cnn_kernel_sizes": [3, 4, 5],
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "scheduler": null,
+    "epochs": 10,
+    "train_batch_size": 128,
+    "validation_batch_size": 256,
+    "test_batch_size": 256,
+    "loss": "CrossEntropyLoss",
+    "bangla_class_weight": "balanced",
+    "bangla_class_weight_values_from_output": [0.67442656, 1.09080106, 1.66527498],
+    "gradient_clip_norm": 1.0,
+    "selection": "best validation macro F1"
+  },
+  "transformer_single_task": {
+    "models": {
+      "english_bert": {"model_name": "bert-base-uncased", "batch_size": 32},
+      "english_distilbert": {"model_name": "distilbert-base-uncased", "batch_size": 64},
+      "bangla_banglabert": {"model_name": "csebuetnlp/banglabert", "batch_size": 32},
+      "bangla_mbert": {"model_name": "bert-base-multilingual-cased", "batch_size": 32}
+    },
+    "maximum_sequence_length": 128,
+    "epochs": 3,
+    "learning_rate": 0.00005,
+    "learning_rate_provenance": "implicit Hugging Face TrainingArguments default; not written in notebook",
+    "optimizer": "implicit Hugging Face Trainer default; exact implementation is version-dependent",
+    "scheduler": "linear (implicit TrainingArguments default)",
+    "warmup_steps": 500,
+    "weight_decay": 0.01,
+    "evaluation_strategy": "epoch",
+    "save_strategy": "epoch",
+    "best_model_metric": "eval_loss",
+    "seed": 42,
+    "seed_provenance": "implicit TrainingArguments default; not explicitly set in transformer training notebooks",
+    "loss_english": "CrossEntropyLoss",
+    "loss_bangla": "class-weighted CrossEntropyLoss",
+    "bangla_class_weight_values_from_output": [0.67442656, 1.09080106, 1.66527498]
+  }
+}
