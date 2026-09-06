@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "run_kind": "pilot",
+  "result_status": "PILOT — NOT FINAL TEST RESULT",
+  "model": {
+    "architecture": "xlmr_single_task",
+    "name": "xlm-roberta-base",
+    "revision": "e73636d4f797dec63c3081bb6ed5c7b0bb3f2089",
+    "tokenizer_name": "xlm-roberta-base",
+    "tokenizer_revision": "e73636d4f797dec63c3081bb6ed5c7b0bb3f2089"
+  },
+  "dataset": {
+    "class_2_semantic_status": "pending_supervisor_confirmation",
+    "languages": ["bangla"],
+    "path_base": "repository_root",
+    "paths": {
+      "bn_train": "Phase 2/Bangla data/bn_train.csv",
+      "bn_validation": "Phase 2/Bangla data/bn_val.csv"
+    },
+    "hashes": {
+      "bn_train": {
+        "canonical_sha256": "5ea874a8d9fe55e7545795770fdac109f3a284bcc2d44be048c7f0df5cb48799",
+        "raw_sha256": "79af568f5507437efef1d6b81117a317ccf68d60dbe1fb69e96836ef98930ce8"
+      },
+      "bn_validation": {
+        "canonical_sha256": "1d91c7a27e14c9e1a31efd64cc77e716fdd774fd9e98c7c17de239d064e87297",
+        "raw_sha256": "2addabe616c1f184f208e5875aa1aba6cdf0e63f0cbc9ceac03c7d5746bcbb06"
+      }
+    }
+  },
+  "auxiliary_labels": {
+    "mode": "none",
+    "proxy_auxiliary_labels": false
+  },
+  "training": {
+    "maximum_sequence_length": 128,
+    "learning_rate": 0.00002,
+    "batch_size": 16,
+    "gradient_accumulation": 2,
+    "epochs": 5,
+    "early_stopping_patience": 2,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "dropout": 0.3,
+    "gradient_clipping": 1.0,
+    "random_seed": 42,
+    "loss_weights": {
+      "main": 1.0,
+      "hate": 0.0,
+      "sarcasm": 0.0
+    },
+    "class_weights": {
+      "english": null,
+      "bangla": [0.67442656, 1.09080106, 1.66527498]
+    },
+    "selection_metric": "validation_macro_f1"
+  },
+  "execution": {
+    "blocked": false,
+    "evaluate_test": false,
+    "output_directory": "/kaggle/working/corrected_pilot_bn_xlmr_single_seed42",
+    "allow_overwrite": false
+  }
+}
