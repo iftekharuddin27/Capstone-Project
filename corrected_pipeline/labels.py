@@ -8,8 +8,9 @@ from typing import Any, Iterable, Sequence
 
 
 MAIN_LABELS = {0: "Non-hateful", 1: "Hateful", 2: "Sarcastic"}
-CLASS_2_SEMANTIC_STATUS = "pending_supervisor_confirmation"
+CLASS_2_SEMANTIC_STATUS = "confirmed_by_supervisor"
 BANGLA_SOURCES = ("ALERT", "BD_SHS", "BenSarc", "BanglaSarc3", "BIDWESH")
+GRL_SOURCE_TO_ID = {source: index for index, source in enumerate(BANGLA_SOURCES)}
 MISSING_AUXILIARY_VALUES = (None, "", "NA", "N/A", -1, "-1")
 
 

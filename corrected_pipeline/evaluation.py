@@ -183,6 +183,11 @@ def write_evaluation_artifacts(
     environment["result_status"] = run_config["result_status"]
     (output / "environment.json").write_text(json.dumps(environment, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (output / "checkpoint_metadata.json").write_text(json.dumps(checkpoint_metadata, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if "training_history" in run_config:
+        (output / "training_history.json").write_text(
+            json.dumps(run_config["training_history"], ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
     if predictions:
         with (output / "predictions.csv").open("w", encoding="utf-8", newline="") as handle:
             writer = csv.DictWriter(handle, fieldnames=list(predictions[0]))

@@ -1,4 +1,4 @@
-"""Kaggle-only entry point for corrected smoke, pilot, and full experiments."""
+"""Kaggle-only entry point for corrected smoke, pilot, full, and reportable runs."""
 
 from __future__ import annotations
 
@@ -170,13 +170,13 @@ def _set_seed(seed: int):
 def run(config_path: str | Path) -> None:
     config = load_config(config_path)
     assert_execution_allowed(config)
-    is_pilot = config["run_kind"] == "pilot"
+    is_validation_only = config["run_kind"] in {"pilot", "reportable_validation"}
     evaluate_test = config["execution"]["evaluate_test"]
-    if is_pilot:
-        # Defense in depth: a pilot can never enter the test-loading branch,
+    if is_validation_only:
+        # Defense in depth: pilot/reportable validation can never enter the test-loading branch,
         # even if an already-loaded configuration were mutated by a caller.
         if evaluate_test is not False:
-            raise RuntimeError("Pilot execution cannot read or evaluate the test split")
+            raise RuntimeError("Validation-only execution cannot read or evaluate the test split")
         evaluate_test = False
     dataset_paths = _resolve_dataset_paths(config, config_path)
     split_specs = {key: SPLIT_SPECS[key] for key in dataset_paths}
@@ -222,7 +222,7 @@ def run(config_path: str | Path) -> None:
         label_column = "class" if language == "english" else "label"
         train_frame = pd.read_csv(dataset_paths[f"{prefix}_train"])
         validation_frame = pd.read_csv(dataset_paths[f"{prefix}_validation"])
-        # Pilot and full runs use the complete declared training data. Only
+        # Pilot, full, and reportable runs use the complete declared training data. Only
         # the explicitly non-reportable smoke run is row-limited.
         if config["run_kind"] == "smoke":
             train_frame = _stratified_limit(train_frame, label_column, config["limits"]["train_rows"], seed)

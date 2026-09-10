@@ -2,6 +2,9 @@ import unittest
 
 from corrected_pipeline.labels import (
     BANGLA_SOURCES,
+    CLASS_2_SEMANTIC_STATUS,
+    GRL_SOURCE_TO_ID,
+    MAIN_LABELS,
     LabelError,
     LabelProvenance,
     gold_auxiliary_targets,
@@ -11,6 +14,10 @@ from corrected_pipeline.labels import (
 
 
 class LabelTests(unittest.TestCase):
+    def test_supervisor_confirmed_class_two_is_sarcastic(self):
+        self.assertEqual(MAIN_LABELS[2], "Sarcastic")
+        self.assertEqual(CLASS_2_SEMANTIC_STATUS, "confirmed_by_supervisor")
+
     def test_canonical_main_mapping_accepts_only_zero_one_two(self):
         self.assertEqual(normalize_main_labels([0, "1", 2]), (0, 1, 2))
         with self.assertRaises(LabelError):
@@ -20,6 +27,10 @@ class LabelTests(unittest.TestCase):
         self.assertEqual(
             set(BANGLA_SOURCES),
             {"ALERT", "BD_SHS", "BenSarc", "BanglaSarc3", "BIDWESH"},
+        )
+        self.assertEqual(
+            GRL_SOURCE_TO_ID,
+            {"ALERT": 0, "BD_SHS": 1, "BenSarc": 2, "BanglaSarc3": 3, "BIDWESH": 4},
         )
 
     def test_proxy_generation_requires_explicit_flag(self):
